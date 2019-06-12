@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Data/Tech News Sources
+title: Newsletter Sources
 ---
 
 ***Note: you'll find lots of WIP stamps here as I'm in the process of aggregating these.***
 
-I am constantly adding new sources and culling the herd of those that stop producing gems. Read more about my process [here (coming soon)](). I try to keep the below list up to date of those I'm currently tracking.
+I am constantly adding new sources and culling the herd of those that stop producing gems. Read more about my process [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/). I try to keep the below list up to date of those I'm currently tracking.
 
 # Data
 
@@ -31,15 +31,15 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Data Science Roundup](http://roundup.fishtownanalytics.com/): The internet's most useful data science articles.
 
-[DataCamp Weekly](https://www.datacamp.com/)
+[DataCamp Weekly](https://www.datacamp.com/): Weekly featured news from Datacamp.
 
 [Data Machina](https://datamachina.substack.com/): A weekly digest of machine learning curiosities, data science geekery, and other data amenities.
 
-[The Analytics Dispatch](https://mode.com/newsletter/)
+[The Analytics Dispatch](https://mode.com/newsletter/): Mode Analytics weekly newsletter chock-full of relevant articles about data, data science, and analytics
 
-[Hacker News Digest](https://www.hndigest.com/)
+[Hacker News Digest](https://www.hndigest.com/): The top stories on Hacker News in your inbox.
 
-[The Wild Week in AI](https://www.getrevue.co/profile/wildml)
+[The Wild Week in AI](https://www.getrevue.co/profile/wildml): The Wild Week in AI is a weekly AI & Deep Learning newsletter.
 
 [O'Reilly Data Newsletter](https://www.oreilly.com/data/newsletter.html): Weekly insight from industry insiders.
 
@@ -49,13 +49,16 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 
 ## Blogs
+
+*Work in progress!*
+
 [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/): Written by Columbia University Statistics Prof Andrew Gelman, this blog is the place to go for the latest on the current statistical crisis in science.
 
-[Variance Explained](http://varianceexplained.org/posts/):
+[Erik Bernhardsson's Blog](https://erikbern.com/): The blog of Better's CTO, and the guy you can thank for Spotify's Discover Weekly.
 
-[Erik Bernhardsson's Blog](https://erikbern.com/)
+[Variance Explained](http://varianceexplained.org/posts/): The blog of DataCamp's Chief Data Scientist, David Robinson.
 
-[Hooked on Data](https://hookedondata.org/)
+[Hooked on Data](https://hookedondata.org/): Emily Robinson's blog. Emily currently works at DataCamp and was previously at Etsy.
 
 ## Podcasts
 

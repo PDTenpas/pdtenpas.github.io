@@ -16,6 +16,6 @@ Every new edition goes directly to your inbox every sometimes— I’m not quite
 
 [Sign up now so you don’t miss the first issue.](https://metadata.substack.com/p/coming-soon)
 
-You can view my sources [here]() or learn about my process for creating the newsletter [here]().
+You can view my sources [here](https://pdtenpas.github.io/pages/newsletter/sources/) or learn about my process for creating the newsletter [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/).
 
 I stash gems in the Bookmarks section of this site for easy reference.

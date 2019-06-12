@@ -9,7 +9,7 @@ title: Misc
 
 [Arxiv Sanity Preserver](http://arxiv-sanity.com)
 
-[My List of Data/Tech News Sources (coming soon...)]()
+[My List of Data/Tech News Sources](https://pdtenpas.github.io/pages/newsletter/sources/)
 
 # Abstract Concepts
 
@@ -42,7 +42,7 @@ title: Misc
 
 [Leek Lab's guide to reading academic papers](https://github.com/jtleek/readingpapers)
 
-- I.e. how to keep with a field/industry. Check out my version of this [here(coming soon...)]()
+- I.e. how to keep with a field/industry. Check out my version of this [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
 
 # History
 
