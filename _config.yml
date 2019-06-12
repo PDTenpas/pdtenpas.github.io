@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Home
 
 # Short description of your site
 # description: A virtual proof that name is awesome!
@@ -23,7 +23,6 @@ title: My website
 
 # List of links in the navigation bar
 navbar-links:
-  home: "https://pdtenpas.github.io"
   bookmarks:
     - Platforms and Products: "pages/bookmarks/platforms_products"
     - Analysis and Experimentation: "pages/bookmarks/analysis_experimentation"
