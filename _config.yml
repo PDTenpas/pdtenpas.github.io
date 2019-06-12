@@ -26,9 +26,9 @@ navbar-links:
   bookmarks:
     - platforms and products: "pages/bookmarks/platforms_products"
     - analysis and experimentation: "pages/bookmarks/analysis_experimentation"
-    - tools: "pages/bookmarks/tools"
     - teams and orgs: "pages/bookmarks/teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
+    - tools: "pages/bookmarks/tools"
     - misc: "pages/bookmarks/misc"
   podcast: "pages/podcast"
   about: "pages/about"
