@@ -37,13 +37,13 @@ Open each source and read every title. Open titles that interest you in new tabs
 
 A rough guideline on how much to read:
 - 100% - Read the title
-- 10-20% - Skim the article/documentation or sample the first ~5 minutes of the podcast or video
+- 10-20% - Skim the article/docs or sample the first ~5 mins of the podcast/video
 - 1-5% - Read/listen/watch the entire article/podcast/video
 - <1% - Save for future reference
 
 You need to be a brutal, critical judge. If the sample code is bad, stop and move on. If the writer's logic is poor, stop and move on. If a podcast guest is clearly unknowledgeable, stop and move on. You'll develop different red flags for different types of content.
 
-When you find something good enough to save try to really understand it. Find the there there, the first principles. Then think about how broadly it applies outside the context of the source and how it fits into your mental map.
+When you find something good enough to save try to really understand it. Find the there there, the first principles. Then think about how broadly it applies outside the context of the source and how it fits into what you already know.
 
 One last note is that over time you will develop stronger and stronger filters which speeds everything up. Most things are simply over-hyped, over-sold, or aren't relevant to your day-to-day. It's ok to skip them. It's often more than enough to just know something exists.
 
