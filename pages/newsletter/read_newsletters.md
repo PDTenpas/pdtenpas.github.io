@@ -36,10 +36,10 @@ One last note on sources is that you should always be culling the herd. Unsubscr
 Open each source and read every title. Open titles that interest you in new tabs. After you've gotten through all the sources start skimming through tabs. Do everything in batches.
 
 A rough guideline on how much to read:
-- 100% - Read the title
-- 10-20% - Skim the article/docs or sample the first ~5 mins of the podcast/video
-- 1-5% - Read/listen/watch the entire article/podcast/video
-- <1% - Save for future reference
+- **100%** - Read the title
+- **10-20%** - Skim the article/docs or sample the first ~5 mins of the podcast/video
+- **1-5%** - Read/listen/watch the entire article/podcast/video
+- **<1%** - Save for future reference
 
 You need to be a brutal, critical judge. If the sample code is bad, stop and move on. If the writer's logic is poor, stop and move on. If a podcast guest is clearly unknowledgeable, stop and move on. You'll develop different red flags for different types of content.
 
