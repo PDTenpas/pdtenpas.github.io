@@ -3,7 +3,7 @@ layout: page
 title: Misc
 ---
 
-## Finding things
+# Finding things
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
@@ -11,7 +11,7 @@ title: Misc
 
 [My List of Data/Tech News Sources (coming soon...)]()
 
-## Abstract Concepts
+# Abstract Concepts
 
 [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction)
 
@@ -44,7 +44,7 @@ title: Misc
 
 - I.e. how to keep with a field/industry. Check out my version of this [here(coming soon...)]()
 
-## History
+# History
 
 Work in Progress!
 

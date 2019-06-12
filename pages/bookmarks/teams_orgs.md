@@ -3,7 +3,7 @@ layout: page
 title: Teams and Organizations
 ---
 
-## Teams
+# Teams
 
 [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 
@@ -39,7 +39,7 @@ title: Teams and Organizations
 
 [Unlearning toxic behaviors in a code review culture](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
 
-## Organizations
+# Organizations
 
 [Titles](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 

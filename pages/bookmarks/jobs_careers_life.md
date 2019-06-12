@@ -3,7 +3,7 @@ layout: page
 title: Jobs, Careers, and Life
 ---
 
-## Jobs
+# Jobs
 
 [Red Flags in Data Science Interviews](https://hookedondata.org/red-flags-in-data-science-interviews/)
 
@@ -13,7 +13,7 @@ title: Jobs, Careers, and Life
 
 [Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
 
-## Data Careers
+# Careers
 Cheesy titles on some of these but the content is good.
 
 [What’s in a name?: The semantics of Science at Lyft](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)

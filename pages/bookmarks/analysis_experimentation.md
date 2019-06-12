@@ -1,13 +1,58 @@
 ---
 layout: page
-title: Experimentation
+title: Analysis and Experimentation
 ---
 
-## Experimentation
+# Data Analysis
+Framing, Cleaning, Approaches
 
-Framing, Approaches, Statistical Significance Pitfalls
+## Framing
 
-### Framing
+[Tukey, Design Thinking, and Better Questions](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
+
+- > In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
+
+[Trustworthy Data Analysis](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/)
+
+- > It’s entirely possible to trust an analysis but not believe the final conclusions.
+
+[20 Questions to Ask Prior to Starting Data Analysis](https://towardsdatascience.com/20-questions-to-ask-prior-to-starting-data-analysis-6ec11d6a504b)
+
+[Research Design Patterns](http://pgbovine.net/research-design-patterns.htm)
+
+## Cleaning / Tidying / Munging / Wrangling
+
+[Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+
+- > The principles of tidy data provide a standard way to organize data values within a dataset.
+
+[The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
+
+- > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+
+## Selected Approaches
+
+[Importance of Skepticism in Data Science](https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html)
+
+- > Here we examine three common ways that can lead to misinterpreting data.
+
+[Conversion rates – you are (most likely) computing them wrong](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
+
+[The Power User Curve: The best way to understand your most engaged users](https://andrewchen.co/power-user-curve/)
+
+[Learning Market Dynamics for Optimal Pricing](https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3)
+
+[The 10 Statistical Techniques Data Scientists Need to Master](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
+
+[Fundamentals of Data Visualization (book)](https://serialmentor.com/dataviz/index.html)
+
+[Forecasting: Principles and Practice (book)](https://otexts.com/fpp2/)
+
+# Experimentation
+
+Framing, Approaches, Significance Pitfalls
+
+## Framing
 
 [North Star or sign post metrics: which should one optimize?](https://medium.com/@leapingllamas/north-star-or-sign-post-metrics-which-should-one-optimize-24bcc9c05bfb)
 
@@ -19,7 +64,7 @@ Framing, Approaches, Statistical Significance Pitfalls
 
 [Against A/B Tests](https://www.locallyoptimistic.com/post/against-ab-tests/)
 
-### Selected Approaches
+## Selected Approaches
 
 [Guidelines for A/B Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 
