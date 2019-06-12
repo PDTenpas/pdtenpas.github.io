@@ -27,9 +27,9 @@ navbar-links:
   bookmarks:
     - Products and Platforms: "pages/bookmarks/products_platforms"
     - Analysis and Experimentation: "pages/bookmarks/analysis_experimentation"
-    - Data Tools: "pages/bookmarks/tools"
-    - Jobs, Careers, and Life: "pages/bookmarks/jobs_careers_life"
-    - Teams and Organizations: "pages/bookmarks/teams_orgs"
+    - Tools: "pages/bookmarks/tools"
+    - Teams and Orgs: "pages/bookmarks/teams_orgs"
+    - Jobs, Careers, Life: "pages/bookmarks/jobs_careers_life"
     - Misc: "pages/bookmarks/misc"
   about: "pages/about"
 

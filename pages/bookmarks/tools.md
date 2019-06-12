@@ -33,8 +33,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ## Style Guides
 
-I'm a big fan of style guides. Depending on the use case they can be followed more or less strictly but I think they a) reduce the barrier to entry for others to understand, debug, review, and maintain your work and b) encourage coding as a [flow task](https://en.wikipedia.org/wiki/Flow_(psychology).
-
 [PEP 8 — the Style Guide for Python Code](https://pep8.org/)
 
 [R - The tidyverse style guide](https://style.tidyverse.org/)

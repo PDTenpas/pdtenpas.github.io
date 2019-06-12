@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teams and Organizations
+title: Data Teams and Organizations
 ---
 
 # Teams
