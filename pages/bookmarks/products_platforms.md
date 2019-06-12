@@ -46,6 +46,8 @@ Framing and Approaches
 
 [Automatic Feature Engineering: An Event-Driven Approach](https://medium.com/data-from-the-trenches/automatic-feature-engineering-an-event-driven-approach-b2ca09d166f)
 
+---
+
 # Data Products
 Framing and Approaches
 

@@ -28,7 +28,7 @@ Cheesy titles on some of these but the content is good.
 
 [Becoming a Level 3.0 Data Scientist](https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3)
 
-## Your Career
+# Your Career
 
 [Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 
@@ -38,7 +38,7 @@ Cheesy titles on some of these but the content is good.
 
 [Prof Galloway's Career Advice](https://www.youtube.com/watch?v=1T22QxTkPoM)
 
-## Life
+# Life
 I try to limit these but sometimes a something is too good not to share.
 
 **A few books that have influenced me...**
