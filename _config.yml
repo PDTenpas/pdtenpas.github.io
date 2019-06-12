@@ -22,7 +22,7 @@ title: My website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
+navbar-links:
   About Me: "about"
   Bookmarks:
     - Beautiful Jekyll: "bookmarks/bookmarks_1"
