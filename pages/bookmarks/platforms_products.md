@@ -34,6 +34,8 @@ Framing and Approaches
 
 [Consider SQL when writing your next processing pipeline](https://dataform.co/blog/consider-sql-when-writing-your-next-processing-pipeline/)
 
+- > We’re seeing a general move towards expressing pipelines in plain SQL.
+
 [An on-demand high-powered Jupyter notebook server](https://medium.com/harrys-engineering/an-on-demand-high-powered-jupyter-notebook-server-12ee73d4612a)
 
 [Packaging Python inside your organization with GitLab and Conda](https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/)
