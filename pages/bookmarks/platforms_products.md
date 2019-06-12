@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Products, and Platforms
+title: Data Platforms and Products
 ---
 
 # Data Platforms

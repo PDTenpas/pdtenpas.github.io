@@ -39,7 +39,7 @@ Cheesy titles on some of these but the content is good.
 [Prof Galloway's Career Advice](https://www.youtube.com/watch?v=1T22QxTkPoM)
 
 # Life
-I try to limit these but sometimes a something is too good not to share.
+I try to limit these but sometimes something is too good not to share.
 
 **A few books that have influenced me...**
 

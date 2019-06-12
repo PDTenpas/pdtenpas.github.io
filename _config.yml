@@ -25,7 +25,7 @@ title: My website
 navbar-links:
   home: "https://pdtenpas.github.io"
   bookmarks:
-    - Products and Platforms: "pages/bookmarks/products_platforms"
+    - Platforms and Products: "pages/bookmarks/platforms_products"
     - Analysis and Experimentation: "pages/bookmarks/analysis_experimentation"
     - Tools: "pages/bookmarks/tools"
     - Teams and Orgs: "pages/bookmarks/teams_orgs"

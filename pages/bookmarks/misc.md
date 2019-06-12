@@ -3,7 +3,7 @@ layout: page
 title: Misc
 ---
 
-# Finding things
+# Finding Things
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
@@ -46,7 +46,7 @@ title: Misc
 
 # History
 
-Work in Progress!
+*Work in Progress!*
 
 [The origin story of data science](https://www.welcometothejungle.co/fr/articles/story-origin-data-science)
 

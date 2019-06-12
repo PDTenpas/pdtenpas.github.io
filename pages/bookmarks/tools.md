@@ -31,6 +31,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [100 Days of ML Coding Infographics](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
+---
+
 ## Style Guides
 
 [PEP 8 — the Style Guide for Python Code](https://pep8.org/)
@@ -55,7 +57,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ## Misc python
 
-[Role of Underscore(\_) in Python](https://www.datacamp.com/community/tutorials/role-underscore-python)
+[Role of Underscore (\_) in Python](https://www.datacamp.com/community/tutorials/role-underscore-python)
 
 [Introduction to the Python Calendar Module](https://stackabuse.com/introduction-to-the-python-calendar-module/)
 
