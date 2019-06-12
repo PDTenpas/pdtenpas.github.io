@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How I read newsletters
+title: How I Read Newsletters
 ---
 
 During my stint in graduate school I learned that one of the most difficult parts of scientific work is keeping up with the never ending flood of new research. It's one thing to know the literature of your field, it's an entirely different thing to keep up with it. You simply cannot read everything new that's relevant, however if you don't keep up you can never be sure you're doing important work. So how does one keep up?
