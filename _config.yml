@@ -24,12 +24,13 @@ title: Home
 # List of links in the navigation bar
 navbar-links:
   bookmarks:
-    - Platforms and Products: "pages/bookmarks/platforms_products"
-    - Analysis and Experimentation: "pages/bookmarks/analysis_experimentation"
-    - Tools: "pages/bookmarks/tools"
-    - Teams and Orgs: "pages/bookmarks/teams_orgs"
-    - Jobs, Careers, Life: "pages/bookmarks/jobs_careers_life"
-    - Misc: "pages/bookmarks/misc"
+    - platforms and products: "pages/bookmarks/platforms_products"
+    - analysis and experimentation: "pages/bookmarks/analysis_experimentation"
+    - tools: "pages/bookmarks/tools"
+    - teams and orgs: "pages/bookmarks/teams_orgs"
+    - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
+    - misc: "pages/bookmarks/misc"
+  podcast: "pages/podcast"
   about: "pages/about"
 
 # Image to show in the navigation bar - image must be a square (width = height)
