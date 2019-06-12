@@ -24,6 +24,10 @@ title: Parker Tenpas
 # List of links in the navigation bar
 navbar-links:
   home: "https://pdtenpas.github.io"
+  newsletter:
+    - subscribe: "pages/newsletter/newsletter"
+    - sources: "pages/newsletter/sources"
+    - how I read newsletters: "pages/newsletter/read_newsletters"
   bookmarks:
     - platforms and products: "pages/bookmarks/platforms_products"
     - analysis and experiments: "pages/bookmarks/analysis_experiments"
