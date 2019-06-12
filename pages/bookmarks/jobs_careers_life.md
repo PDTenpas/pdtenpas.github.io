@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jobs, Careers, and Life
+title: Jobs, Careers, Life
 ---
 
 # Jobs
