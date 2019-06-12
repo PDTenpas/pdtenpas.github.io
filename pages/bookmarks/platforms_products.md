@@ -32,6 +32,8 @@ Framing and Approaches
 
 [Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/)
 
+[Consider SQL when writing your next processing pipeline](https://dataform.co/blog/consider-sql-when-writing-your-next-processing-pipeline/)
+
 [An on-demand high-powered Jupyter notebook server](https://medium.com/harrys-engineering/an-on-demand-high-powered-jupyter-notebook-server-12ee73d4612a)
 
 [Packaging Python inside your organization with GitLab and Conda](https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/)
