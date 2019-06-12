@@ -25,7 +25,7 @@ title: Home
 navbar-links:
   bookmarks:
     - platforms and products: "pages/bookmarks/platforms_products"
-    - analysis and experimentation: "pages/bookmarks/analysis_experimentation"
+    - analysis and experiments: "pages/bookmarks/analysis_experimentation"
     - teams and orgs: "pages/bookmarks/teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
     - tools: "pages/bookmarks/tools"

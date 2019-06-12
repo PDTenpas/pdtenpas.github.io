@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analysis and Experimentation
+title: Analysis and Experiments
 ---
 
 # Data Analysis
