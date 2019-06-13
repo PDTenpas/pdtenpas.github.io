@@ -77,9 +77,19 @@ I try to limit these but sometimes something is too good not to share.
 
 [Why you should define your fears instead of your goals](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en)
 
-**Some posts from a favorite blog or two...**
+** A few blog posts that have influenced me...**
+
+[I Have Died Many Times](http://www.cgpgrey.com/blog/i-have-died-many-times)
+
+[Humans Cannot Survive Alone](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
+
+[Sam Altman: How To Be Successful](http://blog.samaltman.com/how-to-be-successful)
+
+[Different Worlds](https://slatestarcodex.com/2017/10/02/different-worlds/)
 
 [Your Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
+
+[Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
 [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
 
@@ -88,7 +98,3 @@ I try to limit these but sometimes something is too good not to share.
 [How to Beat Procrastination](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html)
 
 [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
-
-[Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
-
-[Humans Cannot Survive Alone](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
