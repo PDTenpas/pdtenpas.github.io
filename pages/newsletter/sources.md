@@ -141,7 +141,7 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Pocket Hits](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week.
 
-# Selected Blogs
+## Selected Blogs
 
 [Wait But Why](https://waitbutwhy.com/): A popular long-form, stick-figure-illustrated blog about almost everything.
 
