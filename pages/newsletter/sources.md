@@ -149,7 +149,7 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine): A daily take on Wall Street, finance, companies and other stuff.
 
-## Big Picture podcasts
+## Big Picture Podcasts
 
 [Long Now: Seminars About Long-term Thinking](http://longnow.org/seminars/podcast/): Explore hundreds of lectures by scientists, historians, artists, entrepreneurs, and more through The Long Now Foundation's award-winning lecture series, curated and hosted by Long Now co-founder Stewart Brand.
 
