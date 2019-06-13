@@ -41,9 +41,9 @@ Cheesy titles on some of these but the content is good.
 [My Journey Towards Authentic Leadership](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
 
 # Life
-I try to limit these but sometimes something is too good not to share.
+I try to limit these but I'm sharing a few things that have particularly influenced me.
 
-**A few books that have influenced me...**
+## Books
 
 [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 
@@ -62,7 +62,7 @@ I try to limit these but sometimes something is too good not to share.
 
 - > Cook free or die.
 
-**A few podcasts/videos that have influenced me...**
+## Podcasts / Videos
 
 [Making Sense Podcast](https://samharris.org/podcast/)
 
@@ -77,7 +77,7 @@ I try to limit these but sometimes something is too good not to share.
 
 [Why you should define your fears instead of your goals](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en)
 
-** A few blog posts that have influenced me...**
+## Blog Posts
 
 [I Have Died Many Times](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
