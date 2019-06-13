@@ -99,4 +99,12 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
 
+[The Most Underutilized Function in SQL (md5)](https://blog.fishtownanalytics.com/the-most-underutilized-function-in-sql-9279b536ed1a)
+
 [SQL Window Functions to Pass a Data Analytics Interview](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
+
+## Looker
+
+[How to Design Your Looker Explores](https://blog.fishtownanalytics.com/how-to-design-your-looker-explores-171e28465add)
+
+[Is Looker the Right Business Intelligence Tool for My Company?](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)

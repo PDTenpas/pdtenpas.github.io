@@ -38,13 +38,17 @@ Framing and Approaches
 
 [An on-demand high-powered Jupyter notebook server](https://medium.com/harrys-engineering/an-on-demand-high-powered-jupyter-notebook-server-12ee73d4612a)
 
-[Packaging Python inside your organization with GitLab and Conda](https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/)
+[What are the steps / tools in setting up a modern, SaaS-based BI infrastructure?](https://blog.fishtownanalytics.com/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure-281e0860f9a9)
+
+[It’s Time for Open Source Analytics](https://blog.fishtownanalytics.com/its-time-for-open-source-analytics-194902ae5c5)
 
 [Build a modern analytics stack optimized for sharing and collaborating with Mode and Amazon Redshift](https://aws.amazon.com/blogs/big-data/build-a-modern-analytics-stack-optimized-for-sharing-and-collaborating-with-mode-and-amazon-redshift/)
 
 [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 
 [Part 2: Scheduling Notebooks at Netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
+
+[Packaging Python inside your organization with GitLab and Conda](https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/)
 
 [Turning Machine Learning Models into APIs in Python](https://www.datacamp.com/community/tutorials/machine-learning-models-api-python)
 

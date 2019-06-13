@@ -13,6 +13,10 @@ title: Teams and Orgs
 
 - > There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
 
+[Scaling Knowledge](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)
+
+- > Most companies suck at disseminating factual knowledge. Yours probably does too.
+
 [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/):
 
 [What Skeptics Get Wrong About Full-Stack Engineers—And Why We Need Them](https://angel.co/blog/what-skeptics-get-wrong-about-full-stack-engineers-and-why-we-need-them)

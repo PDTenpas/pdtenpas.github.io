@@ -38,6 +38,8 @@ Cheesy titles on some of these but the content is good.
 
 [Prof Galloway's Career Advice](https://www.youtube.com/watch?v=1T22QxTkPoM)
 
+[My Journey Towards Authentic Leadership](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
+
 # Life
 I try to limit these but sometimes something is too good not to share.
 
