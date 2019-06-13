@@ -25,8 +25,6 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [PyCoder's Weekly](https://pycoders.com/): A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 
-[Data Is Plural](https://tinyletter.com/data-is-plural): A weekly newsletter of useful/curious datasets.
-
 [Normcore Tech](https://vicki.substack.com/): A newsletter about making tech less sexy and more boring.
 
 [Data Science Roundup](http://roundup.fishtownanalytics.com/): The internet's most useful data science articles.
