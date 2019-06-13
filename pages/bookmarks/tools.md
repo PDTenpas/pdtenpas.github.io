@@ -77,8 +77,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [Joel Grus' I Don't Like Notebooks Slides](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
 
-[jupyter-repo2docker](https://repo2docker.readthedocs.io/en/latest/index.html)
-
 ## Data Build Tool (DBT)
 
 [Build Your Data Analytics Like An Engineer (podcast)](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
