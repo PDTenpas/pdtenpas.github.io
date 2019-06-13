@@ -3,8 +3,6 @@ layout: page
 title: Newsletter Sources
 ---
 
-***Note: you'll find lots of WIP stamps here as I'm in the process of aggregating these.***
-
 I am constantly adding new sources and culling the herd of those that stop producing gems. Read more about my process [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/). I try to keep the below list up to date of those I'm currently tracking.
 
 # Data
@@ -45,10 +43,19 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Data Science Community Newsletter](https://cds.nyu.edu/newsletter/): Journalism, research papers, events, tools/software, jobs, and more.
 
+## podcasts
 
-## Blogs
+[The Data Engineering Podcast](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
 
-*Work in progress!*
+[Talk Python To Me](https://talkpython.fm/): Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies.
+
+[Data Skeptic](https://dataskeptic.com/): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science.
+
+[O'Reilly Data Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast): The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data, data science, and AI.
+
+[DataFramed](https://www.datacamp.com/community/podcast): What exactly is Data Science? In the podcast by DataCamp, Hugo Bowne-Anderson approaches this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best
+
+## Selected Blogs
 
 [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/): Written by Columbia University Statistics Prof Andrew Gelman, this blog is the place to go for the latest on the current statistical crisis in science.
 
@@ -58,15 +65,11 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Hooked on Data](https://hookedondata.org/): Emily Robinson's blog. Emily currently works at DataCamp and was previously at Etsy.
 
-## Podcasts
-
-*Work in progress!*
+---
 
 # Tech
 
 ## Newsletters
-
-[CIO Dive](https://www.ciodive.com/signup/): CIO Dive delivers the latest tech intel straight to your inbox.
 
 [Exponential View](https://www.exponentialview.co/): Get smarter about AI & the near future with Azeem Azhar’s Exponential View
 
@@ -88,20 +91,62 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Snippets 2.0](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
 
+[CIO Dive](https://www.ciodive.com/signup/): CIO Dive delivers the latest tech intel straight to your inbox.
+
+## Podcasts
+
+[a16z Podcast](https://a16z.com/podcasts/): The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world.
+
+[FYI](https://ark-invest.com/research/podcast/welcome-to-fyi-the-for-your-innovation-podcast-by-ark-invest): Welcome to FYI - The For Your Innovation Podcast. We offer an intellectual discussion on recent developments across disruptive innovation.
+
+[Firewall](https://www.firewall.media/): Bradley Tusk, CEO of Tusk Ventures, talks tech, startups, politics, and regulation with a different guest each week.
+
+[Pivot](https://podcasts.apple.com/podcast/id1073226719): With great power comes great scrutiny. Every Friday, Recode’s Kara Swisher and NYU professor Scott Galloway offer sharp, unfiltered insights into the way technology is shaping business and culture across media, advertising, politics, and more.
+
+[Recode Decode](https://www.vox.com/recode-decode-podcast-kara-swisher): Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities, and more about their big ideas and how they’re changing our world.
+
+[Masters of Scale](https://mastersofscale.com/): Masters of Scale is an original podcast hosted by Reid Hoffman, Co-founder of LinkedIn and Investor at Greylock. In each episode, Reid shows how companies grow from zero to a gazillion, testing his theories with legendary leaders.
+
+[Product Hunt Radio](https://www.producthunt.com/radio): A weekly podcast with the people creating and exploring the future. Tune in every week with Ryan Hoover and Abadesi Osunsade as they're joined by founders, investors, journalists, and makers to discuss the latest in tech.
+
+[Exponential View with Azeem Azhar](https://hbr.org/2019/04/podcast-exponential-view): How AI and other exponential technologies are transforming business and society.
+
+[Y Combinator Podcast](https://blog.ycombinator.com/category/podcast/): We talk with people who are shaping the future. A show about technology in business, research, and art.
+
+[Venture Stories](https://www.villageglobal.vc/podcast/): Venture Stories by Village Global takes you inside the world of venture capital and technology, featuring enlightening interviews with entrepreneurs, investors and tech industry leaders. The podcast is hosted by Village Global partner and co-founder Erik Torenberg.
+
+[The Internet History Podcast](http://www.internethistorypodcast.com/): A history of the Internet Era from Netscape to the iPad. Oral Histories from the people that made the technology happen.
+
 ## Blogs
 
 *Work in progress!*
 
 [A VC](https://avc.com/subscribe/): Fred Wilson muses about VC life.
 
-[Money Stuff](http://link.mail.bloombergbusiness.com/join/4wm/moneystuff-signup)
+[Money Stuff](http://link.mail.bloombergbusiness.com/join/4wm/moneystuff-signup):
 
-## Podcasts
-
-*Work in progress!*
+---
 
 # Misc
+
+## Newsletters
 
 [Hot Pod News](https://hotpodnews.com/subscribe/): Hot Pod provides analysis, insight, and commentary on the growing podcast industry — and whatever it will be in the years to come.
 
 [Pocket Hits](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week.
+
+## Big Picture podcasts
+
+[Long Now: Seminars About Long-term Thinking](http://longnow.org/seminars/podcast/): Explore hundreds of lectures by scientists, historians, artists, entrepreneurs, and more through The Long Now Foundation's award-winning lecture series, curated and hosted by Long Now co-founder Stewart Brand.
+
+[Making Sense](https://samharris.org/podcast/): Join Sam Harris—neuroscientist, philosopher, and best-selling author—as he explores some of the most important questions about the human mind, society, and current events.
+
+[Alphachat](https://ftalphaville.ft.com/series/Alphachat): Alphachat is the conversational podcast about business and economics produced by the Financial Times in New York.
+
+[In Our Time](https://www.bbc.co.uk/programmes/b006qykl): Melvyn Bragg and guests discuss the history of ideas.
+
+[The Knowledge Project](https://fs.blog/the-knowledge-project/): The Knowledge Project Podcast with Shane Parrish helps you master the best of what other people have already figured out.
+
+[Rationally Speaking with Julia Galef](http://rationallyspeakingpodcast.org/): Join Julia Galef and guests as they explore the borderlands between reason and nonsense, likely and unlikely, science and pseudoscience.
+
+[Conversations with Tyler](https://conversationswithtyler.com/): On the Conversations with Tyler podcast, produced by the Mercatus Center at George Mason University, celebrated polymath and academic economist Tyler Cowen explores the minds and methods of today’s top thinkers.
