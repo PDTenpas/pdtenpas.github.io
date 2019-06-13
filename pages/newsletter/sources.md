@@ -104,4 +104,4 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Hot Pod News](https://hotpodnews.com/subscribe/): Hot Pod provides analysis, insight, and commentary on the growing podcast industry — and whatever it will be in the years to come.
 
-[Pocket Hits](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week
+[Pocket Hits](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week.

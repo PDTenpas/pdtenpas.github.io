@@ -38,11 +38,11 @@ title: Misc
 
 [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/)
 
--> Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
+- > Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
 
 [Leek Lab's guide to reading academic papers](https://github.com/jtleek/readingpapers)
 
-- I.e. how to keep with a field/industry. Check out my version of this [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
+- I.e. how to keep up with a field/industry. Check out my version of this [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/).
 
 # History
 
