@@ -43,7 +43,7 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Data Science Community Newsletter](https://cds.nyu.edu/newsletter/): Journalism, research papers, events, tools/software, jobs, and more.
 
-## podcasts
+## Podcasts
 
 [The Data Engineering Podcast](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
 
@@ -117,13 +117,13 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [The Internet History Podcast](http://www.internethistorypodcast.com/): A history of the Internet Era from Netscape to the iPad. Oral Histories from the people that made the technology happen.
 
-## Blogs
+## Selected Blogs
 
 *Work in progress!*
 
-[A VC](https://avc.com/subscribe/): Fred Wilson muses about VC life.
-
 [Money Stuff](http://link.mail.bloombergbusiness.com/join/4wm/moneystuff-signup):
+
+[A VC](https://avc.com/subscribe/): Fred Wilson muses about VC life.
 
 ---
 
