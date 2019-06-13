@@ -9,7 +9,7 @@ At the time, I adopted the approach of the [Leek Research Group](http://jtleek.c
 
 This is a wild shift from the way we are taught to read, i.e. deeply for understanding, but the goal here isn't to understand every detail. The goal is to build a mental model of what's happening and how everything fits together. Over time your filters grow stronger and you develop an eye for where things are going. This is invaluable when working in a fast changing field.
 
-After I moved out of academia I took this habit with me but adapted it for working in data science and engineering. Below I've rewritten Leek's original guide from this perspective. If you're interested in what's currently in my firehose you can [see this page](https://pdtenpas.github.io/pages/newsletter/sources/). I've also started a short [newsletter](https://pdtenpas.github.io/pages/newsletter/newsletter/) of my favorite finds that you can subscribe to as well.
+After I moved out of academia I took this habit with me but adapted it for working in data science and engineering. Below I've rewritten Leek's original guide from this perspective. If you're interested in what's currently in my firehose you can [see this page](https://pdtenpas.github.io/pages/newsletter/sources/). I've also started a [newsletter](https://metadata.substack.com/p/coming-soon) of my favorite finds that you can subscribe to as well.
 
 ---
 
