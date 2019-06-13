@@ -43,13 +43,13 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Data Science Community Newsletter](https://cds.nyu.edu/newsletter/): Journalism, research papers, events, tools/software, jobs, and more.
 
-[Conor Dewey's Newsletter](https://www.conordewey.com/newsletter): I send an email newsletter every Tuesday with my notes for the past week — the stories and links that I thought were interesting, plus any new posts or projects I’ve been working on.
-
 ## Podcasts
 
 [The Data Engineering Podcast](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
 
 [Talk Python To Me](https://talkpython.fm/): Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies.
+
+[Not So Standard Deviations](http://nssdeviations.com/): Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 
 [Data Skeptic](https://dataskeptic.com/): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science.
 
@@ -59,6 +59,12 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 ## Selected Blogs
 
+[Simply Statistics](https://simplystatistics.org/post/): We are three biostatistics professors (Jeff Leek, Roger Peng, and Rafa Irizarry) who are fired up about the new era where data are abundant and statisticians are scientists.
+
+[Tristan Handy](https://medium.com/@jthandy): Founder and CEO of Fishtown Analytics: helping startups implement advanced analytics.
+
+[Locally Optimistic](https://www.locallyoptimistic.com/): Locally Optimistic is a blog for current and aspiring data analytics leaders.
+
 [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/): Written by Columbia University Statistics Prof Andrew Gelman, this blog is the place to go for the latest on the current statistical crisis in science.
 
 [Erik Bernhardsson's Blog](https://erikbern.com/): The blog of Better's CTO, and the guy you can thank for Spotify's Discover Weekly.
@@ -66,6 +72,8 @@ I am constantly adding new sources and culling the herd of those that stop produ
 [Variance Explained](http://varianceexplained.org/posts/): The blog of DataCamp's Chief Data Scientist, David Robinson.
 
 [Hooked on Data](https://hookedondata.org/): Emily Robinson's blog. Emily currently works at DataCamp and was previously at Etsy.
+
+[Conor Dewey's Blog/Newsletter](https://www.conordewey.com/newsletter): I send an email newsletter every Tuesday with my notes for the past week — the stories and links that I thought were interesting, plus any new posts or projects I’ve been working on.
 
 ---
 
@@ -97,6 +105,8 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [CIO Dive](https://www.ciodive.com/signup/): CIO Dive delivers the latest tech intel straight to your inbox.
 
+[A VC](https://avc.com/subscribe/): Fred Wilson muses about VC life.
+
 ## Podcasts
 
 [a16z Podcast](https://a16z.com/podcasts/): The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world.
@@ -121,14 +131,6 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [The Internet History Podcast](http://www.internethistorypodcast.com/): A history of the Internet Era from Netscape to the iPad. Oral Histories from the people that made the technology happen.
 
-## Selected Blogs
-
-*Work in progress!*
-
-[Money Stuff](http://link.mail.bloombergbusiness.com/join/4wm/moneystuff-signup):
-
-[A VC](https://avc.com/subscribe/): Fred Wilson muses about VC life.
-
 ---
 
 # Misc
@@ -138,6 +140,14 @@ I am constantly adding new sources and culling the herd of those that stop produ
 [Hot Pod News](https://hotpodnews.com/subscribe/): Hot Pod provides analysis, insight, and commentary on the growing podcast industry — and whatever it will be in the years to come.
 
 [Pocket Hits](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week.
+
+# Selected Blogs
+
+[Wait But Why](https://waitbutwhy.com/): A popular long-form, stick-figure-illustrated blog about almost everything.
+
+[Slate Star Codex](https://slatestarcodex.com/): Welcome to Slate Star Codex, a blog about science, medicine, philosophy, politics, and futurism.
+
+[Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine): A daily take on Wall Street, finance, companies and other stuff.
 
 ## Big Picture podcasts
 
