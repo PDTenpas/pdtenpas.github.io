@@ -43,6 +43,8 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [Data Science Community Newsletter](https://cds.nyu.edu/newsletter/): Journalism, research papers, events, tools/software, jobs, and more.
 
+[Conor Dewey's Newsletter](https://www.conordewey.com/newsletter): I send an email newsletter every Tuesday with my notes for the past week — the stories and links that I thought were interesting, plus any new posts or projects I’ve been working on.
+
 ## Podcasts
 
 [The Data Engineering Podcast](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
@@ -90,6 +92,8 @@ I am constantly adding new sources and culling the herd of those that stop produ
 [Andrew Chen's Newsletter](https://andrewchen.co/): Long-form essays on startups, growth, metrics, and network effects.
 
 [Snippets 2.0](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
+
+[How It Actually Works](https://www.howitactuallyworks.com/): I read every corner of the Internet to find the best material to answer the question: how does the world actually work?
 
 [CIO Dive](https://www.ciodive.com/signup/): CIO Dive delivers the latest tech intel straight to your inbox.
 
