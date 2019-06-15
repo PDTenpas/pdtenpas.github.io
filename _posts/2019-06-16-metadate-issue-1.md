@@ -65,11 +65,11 @@ Content \| Source
 
 # From the bookmarks... The Garden of Forking Paths
 
+[The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+
 **TL;DR:** The goal of an experiment isn't to find significant results. Don't go looking for them and don't decide how to conduct an experimental analysis based on the experimental data.
 
 [![Garden]({{ site.url }}/img/garden.png)]({{ site.url }}/img/garden.png)
-
-[The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
 At this point p-hacking is fairly common knowledge in the data world. The story goes something like this:
 
