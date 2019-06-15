@@ -38,6 +38,8 @@ Cheesy titles on some of these but the content is good.
 
 [Prof Galloway's Career Advice](https://www.youtube.com/watch?v=1T22QxTkPoM)
 
+[Sam Altman: How To Be Successful](http://blog.samaltman.com/how-to-be-successful)
+
 [My Journey Towards Authentic Leadership](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
 
 # Life
@@ -82,8 +84,6 @@ I try to limit these but I'm sharing a few things that have particularly influen
 [I Have Died Many Times](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
 [Humans Cannot Survive Alone](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
-
-[Sam Altman: How To Be Successful](http://blog.samaltman.com/how-to-be-successful)
 
 [Different Worlds](https://slatestarcodex.com/2017/10/02/different-worlds/)
 

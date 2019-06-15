@@ -95,7 +95,7 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [AngelList Weekly](https://angel.co/newsletters): The best of the startup world, curated weekly.
 
-[Benedict's Newsletter](https://www.ben-evans.com/newsletter): From Benedict Evan's of a16z
+[Benedict's Newsletter](https://www.ben-evans.com/newsletter): From Benedict Evan's of a16z.
 
 [Andrew Chen's Newsletter](https://andrewchen.co/): Long-form essays on startups, growth, metrics, and network effects.
 
