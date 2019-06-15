@@ -59,6 +59,7 @@ Framing and Approaches
 [Automatic Feature Engineering: An Event-Driven Approach](https://medium.com/data-from-the-trenches/automatic-feature-engineering-an-event-driven-approach-b2ca09d166f)
 
 [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
+
 ---
 
 # Data Products
