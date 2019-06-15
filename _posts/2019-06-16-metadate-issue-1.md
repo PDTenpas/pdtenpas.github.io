@@ -1,6 +1,7 @@
 ---
 layout: page
-title: MetaData Newsletter - Issue 1
+title: MetaData Newsletter
+subtitle: Issue 1
 ---
 
 [![MetaData Banner]({{ site.url }}/img/metadata_banner.png)]({{ site.url }}/img/metadata_banner.png)
