@@ -6,13 +6,9 @@ subtitle: Issue 1
 
 [![MetaData Banner]({{ site.url }}/img/metadata_banner.png)]({{ site.url }}/img/metadata_banner.png)
 
-# Recent Finds
-
 Content \| Source
 
-## From the Data Trenches
-
-### Tools
+# Tools
 
 [Releasing lookml-tools: better Looker code, user experience, and data governance](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly](https://www.datascienceweekly.org/)
 
@@ -20,7 +16,7 @@ Content \| Source
 
 [How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/) \| [PyCoder's Weekly](https://pycoders.com/)
 
-### Approaches
+# Approaches
 
 [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) \| [NYC Data](https://tinyletter.com/nycdatajobs)
 
@@ -32,7 +28,7 @@ Content \| Source
 
 ---
 
-## Industry
+# Industry
 
 [The Truth About Finding Your First Engineering Job](https://angel.co/blog/the-truth-about-finding-your-first-engineering-job) \| [AngelList Weekly](https://angel.co/newsletters)
 
