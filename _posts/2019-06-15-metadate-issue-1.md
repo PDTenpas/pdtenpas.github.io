@@ -63,7 +63,8 @@ Content \| Source
 
 ---
 
-# From the bookmarks... The Garden of Forking Paths
+# From the Bookmarks 
+# The Garden of Forking Paths
 
 [The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
