@@ -79,7 +79,9 @@ It's an incentive and alignment issue nearly everywhere statistics is done. In t
 
 > "If you torture the data long enough, it will confess." - Ronald Coase
 
-Less well-known, and more horrifying, is another significance pitfall coined by Andrew Gelman: The Garden of Forking Paths. There are numerous choices an analyst has to make in experimental analysis from data processing through to the actual model— this is the Garden. When you choose your path through the garden based on the data itself, you are in effect making multiple comparisons!— not across segments of the same dataset, but across all possible datasets that could have resulted from the experiment. Put another way, if the experimental data would have turned out differently, you would have chosen a different path and merely by taking that path, controlling for any differences in the experimental data, you could have come to a completely different conclusion.
+Less well-known, and more horrifying, is another significance pitfall coined by Andrew Gelman: The Garden of Forking Paths. There are numerous choices an analyst has to make in experimental analysis from data processing through to the actual model— this is the Garden. When you choose your path through the garden based on the data itself, you are in effect making multiple comparisons!— not across segments of the same dataset, but across all possible datasets that could have resulted from the experiment.
+
+Put another way, if the experimental data would have turned out differently, you would have chosen a different path and merely by taking that path, controlling for any differences in the experimental data, you could have come to a completely different conclusion.
 
 One way to frame the differences between p-hacking and the Garden is intent. P-hacking is malicious. It explains how, with a bit of effort, a researcher can fool others. The Garden explains how researchers can unknowingly fool themselves. Both pitfalls occur when the analyst makes decisions contingent on the experimental data. This feedback loop simply destroys key assumptions behind the p-value.
 
