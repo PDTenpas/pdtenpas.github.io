@@ -32,14 +32,14 @@ Content \| Source
 
 [The Truth About Finding Your First Engineering Job](https://angel.co/blog/the-truth-about-finding-your-first-engineering-job) \| [AngelList Weekly](https://angel.co/newsletters)
 
-[Big Mood Machine: Spotify pursues emotional surveillance for global profit](https://thebaffler.com/downstream/big-mood-machine-pelly) \| [Pocket Hits](https://getpocket.com/explore/pocket-hits)
-
-- > But a more careful look into Spotify’s history shows that the decision to define audiences by their moods was part of a strategic push to grow Spotify’s advertising business in the years leading up to its IPO—and today, Spotify’s enormous access to mood-based data is a pillar of its value to brands and advertisers, allowing them to target ads on Spotify by moods and emotions.
-
 [A Wave of Acquisitions in Business Intelligence](https://blog.fishtownanalytics.com/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8) \| [The Data Science Roundup](http://roundup.fishtownanalytics.com)
 
 - Tristan Handy riffs on what all the recent BI acquisitions mean for the data stack.
 - > My personal opinion is that the underlying tech—the ingestion, transformation, and warehouse layers—actually matter more than the BI layer, but buyers rarely see it this way. Buyers in this space buy the front-end. It’s how they, and how most of an organization’s users, interact with the underlying technology.
+
+[Big Mood Machine: Spotify pursues emotional surveillance for global profit](https://thebaffler.com/downstream/big-mood-machine-pelly) \| [Pocket Hits](https://getpocket.com/explore/pocket-hits)
+
+- > But a more careful look into Spotify’s history shows that the decision to define audiences by their moods was part of a strategic push to grow Spotify’s advertising business in the years leading up to its IPO—and today, Spotify’s enormous access to mood-based data is a pillar of its value to brands and advertisers, allowing them to target ads on Spotify by moods and emotions.
 
 [Justin Kan: 10+1 Lessons from a Serial Entrepreneur](https://a16z.com/2019/06/10/lessons-from-serial-entrepreneur-justin-kan/) \| [a16z Podcast](https://a16z.com/podcasts/)
 
