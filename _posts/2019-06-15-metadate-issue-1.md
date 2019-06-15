@@ -71,7 +71,7 @@ Content \| Source
 
 [![Garden]({{ site.url }}/img/garden.png)]({{ site.url }}/img/garden.png)
 
-At this point p-hacking is fairly common knowledge in the data world. The story goes something like this:
+At this point, p-hacking is fairly common knowledge in the data world. The story goes something like this:
 
 If the pressure is on to find significant effects, the researcher can crank up the number of dependent and independent measures, examine every possible comparison, and then report on the significant ones and tell a nice post-hoc story about how they theorized this effect would exist and when they looked— there it was. If your goal is to find significant results, you *will* find them. What you won't find is any sort of lasting insight about what's actually happening.
 
