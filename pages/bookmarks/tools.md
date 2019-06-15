@@ -17,6 +17,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design)
 
+[Data Engineering How To](https://github.com/adilkhash/Data-Engineering-HowTo)
+
 [An overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
 [ML Resources](https://sgfin.github.io/learning-resources/)
@@ -57,13 +59,17 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ## Misc python
 
+[Python for Data Science: 8 Concepts You May Have Forgotten](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
+
+[11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+
 [Role of Underscore (\_) in Python](https://www.datacamp.com/community/tutorials/role-underscore-python)
 
 [Introduction to the Python Calendar Module](https://stackabuse.com/introduction-to-the-python-calendar-module/)
 
-[Python for Data Science: 8 Concepts You May Have Forgotten](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
+[Usage of Asterisks in Python](https://www.datacamp.com/community/tutorials/usage-asterisks-python) | [DataCamp Weekly](https://www.datacamp.com/)
 
-[11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+[How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/) | [PyCoder's Weekly](https://pycoders.com/)
 
 [panda's Styling Documentation](http://pandas.pydata.org/pandas-docs/stable/user_guide/style.html)
 

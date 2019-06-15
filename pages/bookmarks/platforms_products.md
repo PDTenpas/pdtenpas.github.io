@@ -22,6 +22,8 @@ Framing and Approaches
 
 [Getting started: the 3 stages of data infrastructure](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 
+[Research quality data and research quality databases](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)
+
 [4 Pillars of Analytics](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
 
 - Acquire, Process, Surface, Act
@@ -29,6 +31,8 @@ Framing and Approaches
 ## Selected Approaches
 
 [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
+[Testing Statistical Software](https://www.alexpghayes.com/blog/testing-statistical-software)
 
 [Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/)
 
@@ -54,6 +58,7 @@ Framing and Approaches
 
 [Automatic Feature Engineering: An Event-Driven Approach](https://medium.com/data-from-the-trenches/automatic-feature-engineering-an-event-driven-approach-b2ca09d166f)
 
+[Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 ---
 
 # Data Products
@@ -72,6 +77,8 @@ Framing and Approaches
 ## Selected Approaches
 
 [Your Client Engagement Program Isn't Doing What You Think It Is](https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/)
+
+[Modeling the unseen: How Instacart uses Machine Learning to spot lost demand in its fulfillment chain](https://tech.instacart.com/modeling-the-unseen-6a51c9a02430)
 
 [Understanding Latent Style](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
 

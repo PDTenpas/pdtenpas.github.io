@@ -29,6 +29,10 @@ title: Misc
 
 - > A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
 
+[Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
+
+[Continuous Encodings](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
+
 [Working with timezones](https://davecturner.github.io/2018/08/12/working-with-timezones.html)
 
 [UTC is enough for everyone... right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)

@@ -19,6 +19,8 @@ I am constantly adding new sources and culling the herd of those that stop produ
 
 [NYC Data](https://tinyletter.com/nycdatajobs): A weekly listing of new data positions, events, and conferences from New York City
 
+[Data Science Weekly](https://www.datascienceweekly.org/): A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
+
 [SF Data Weekly](http://weekly.sfdata.io/): A weekly email of useful links for people interested in building data platforms, curated by the folks at intermix.io.
 
 [PyCoder's Weekly](https://pycoders.com/): A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
