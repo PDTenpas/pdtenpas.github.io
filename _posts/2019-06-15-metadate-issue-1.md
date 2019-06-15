@@ -87,7 +87,7 @@ One way to frame the differences between p-hacking and the Garden is intent. P-h
 
 > Criticism is easy, doing research is hard.
 
-The author's go on to offer guidelines to avoid this pitfall by defining your methodology beforehand and conducting follow-up experiments when the original analysis was contingent on the data. This advice follows what is generally a good rule of thumb for experimental analysis— lean into experimental design and analysis methodology *before* conducting the experiment, not afterwards. You can't move fast and break things here.
+The author's go on to offer guidelines to avoid this pitfall by defining your methodology beforehand and conducting follow-up experiments when the analysis is unavoidably contingent on the data. This advice follows what is generally a good rule of thumb for experimental analysis— lean into experimental design and analysis methodology *before* conducting the experiment, not afterwards. You can't move fast and break things here.
 
 The paper is a good read with multiple real world examples. A few quotes follow:
 
