@@ -8,6 +8,8 @@ subtitle: Issue 1
 
 Content \| Source
 
+---
+
 # Tools
 
 [Releasing lookml-tools: better Looker code, user experience, and data governance](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly](https://www.datascienceweekly.org/)
@@ -15,6 +17,8 @@ Content \| Source
 [Usage of Asterisks in Python](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [DataCamp Weekly](https://www.datacamp.com/)
 
 [How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/) \| [PyCoder's Weekly](https://pycoders.com/)
+
+---
 
 # Approaches
 
