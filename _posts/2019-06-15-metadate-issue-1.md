@@ -6,6 +6,8 @@ subtitle: Issue 1
 
 [![MetaData Banner]({{ site.url }}/img/metadata_banner.png)]({{ site.url }}/img/metadata_banner.png)
 
+[Subscribe](https://metadata.substack.com/)
+
 Content \| Source
 
 ---
