@@ -23,7 +23,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 - The library contains three tools: Linter for styling, Grapher for network diagrams, and Updater dimension description changes.
 
-[Usage of Asterisks in Python](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [**DataCamp Weekly**](https://www.datacamp.com/)
+[**Usage of Asterisks in Python**](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [**DataCamp Weekly**](https://www.datacamp.com/)
 
 > Asterisks have many particular use cases in Python. In general, we are familiar with the multiplication and power operators. It can perform some other operations like unpacking, arguments passing, etc.., in different situations
 
