@@ -15,11 +15,11 @@ title: Misc
 
 [Up and Down the Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction)
 
-- > The most powerful way to gain insight into a system is by moving between levels of abstraction.
+> The most powerful way to gain insight into a system is by moving between levels of abstraction.
 
 [Going Critical](https://meltingasphalt.com/interactive/going-critical/)
 
-- > The way things move and spread, somewhat chaotically, across a network.
+> The way things move and spread, somewhat chaotically, across a network.
 
 [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
@@ -27,7 +27,7 @@ title: Misc
 
 [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
-- > A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
+> A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
 
 [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 
@@ -38,11 +38,11 @@ title: Misc
 [UTC is enough for everyone... right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 
 - A great post covering why handling time is far more complicated than you probably thought it was.
-- > Programming time, dates, timezones, recurring events, leap seconds... everything is pretty terrible.
+> Programming time, dates, timezones, recurring events, leap seconds... everything is pretty terrible.
 
 [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/)
 
-- > Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
+> Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
 
 [Leek Lab's guide to reading academic papers](https://github.com/jtleek/readingpapers)
 

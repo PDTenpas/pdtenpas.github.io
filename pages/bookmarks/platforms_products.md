@@ -10,13 +10,13 @@ Framing and Approaches
 
 [DataOps Principles: How Startups Do Data The Right Way](https://retina.ai/blog/dataops-principles/)
 
-- > If it’s someone’s job to handle all data requests by writing a new SQL query or to downloading data from external systems, your team is headed in the wrong direction.
-- > Start with manual processes — like SQL queries or API pulls — to understand the problem space. Next, automate the repetitive parts and start manually monitoring that automation. Finally, automate the actions taken to correct issues found via monitoring and manually check performance metrics.
-- > Frequent small changes over infrequent large changes
+> If it’s someone’s job to handle all data requests by writing a new SQL query or to downloading data from external systems, your team is headed in the wrong direction.
+> Start with manual processes — like SQL queries or API pulls — to understand the problem space. Next, automate the repetitive parts and start manually monitoring that automation. Finally, automate the actions taken to correct issues found via monitoring and manually check performance metrics.
+> Frequent small changes over infrequent large changes
 
 [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 
-- > I’ve found it useful to push as much as you can out of the backend into the data platform.
+> I’ve found it useful to push as much as you can out of the backend into the data platform.
 
 [A Beginner’s Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 
@@ -38,7 +38,7 @@ Framing and Approaches
 
 [Consider SQL when writing your next processing pipeline](https://dataform.co/blog/consider-sql-when-writing-your-next-processing-pipeline/)
 
-- > We’re seeing a general move towards expressing pipelines in plain SQL.
+> We’re seeing a general move towards expressing pipelines in plain SQL.
 
 [An on-demand high-powered Jupyter notebook server](https://medium.com/harrys-engineering/an-on-demand-high-powered-jupyter-notebook-server-12ee73d4612a)
 
@@ -69,11 +69,11 @@ Framing and Approaches
 
 [Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 
-- > Our goal is to give you an understanding of how a product evolves from infancy to maturity; a holistic sense of the product metric ecosystem of growth, engagement and monetization; a framework to define goals for your company; and a toolkit you can use to analyze your product’s performance against those goals.
+> Our goal is to give you an understanding of how a product evolves from infancy to maturity; a holistic sense of the product metric ecosystem of growth, engagement and monetization; a framework to define goals for your company; and a toolkit you can use to analyze your product’s performance against those goals.
 
 [One Model to Rule Them All](https://bentoml.com/posts/2019-04-19-one-model/)
 
-- > This post discusses our obsession with finding the best model and emphasizes what we should do instead: Take a step back and see the bigger picture...
+> This post discusses our obsession with finding the best model and emphasizes what we should do instead: Take a step back and see the bigger picture...
 
 ## Selected Approaches
 

@@ -10,11 +10,11 @@ Framing, Cleaning, Approaches
 
 [Tukey, Design Thinking, and Better Questions](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
 
-- > In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
+> In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
 
 [Trustworthy Data Analysis](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/)
 
-- > It’s entirely possible to trust an analysis but not believe the final conclusions.
+> It’s entirely possible to trust an analysis but not believe the final conclusions.
 
 [20 Questions to Ask Prior to Starting Data Analysis](https://towardsdatascience.com/20-questions-to-ask-prior-to-starting-data-analysis-6ec11d6a504b)
 
@@ -24,17 +24,17 @@ Framing, Cleaning, Approaches
 
 [Tidy Data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 
-- > The principles of tidy data provide a standard way to organize data values within a dataset.
+> The principles of tidy data provide a standard way to organize data values within a dataset.
 
 [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 
-- > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+> An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
 ## Selected Approaches
 
 [Importance of Skepticism in Data Science](https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html)
 
-- > Here we examine three common ways that can lead to misinterpreting data.
+> Here we examine three common ways that can lead to misinterpreting data.
 
 [Conversion rates – you are (most likely) computing them wrong](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
 
@@ -78,7 +78,7 @@ Framing, Approaches, Significance Pitfalls
 
 [Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work)](https://eng.uber.com/mediation-modeling/)
 
-- > Mediation modeling goes beyond simple cause and effect relationships in an attempt to understand what underlying mechanisms led to a result.
+> Mediation modeling goes beyond simple cause and effect relationships in an attempt to understand what underlying mechanisms led to a result.
 
 [Experimentation & Measurement for Search Engine Optimization](https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760)
 
@@ -86,7 +86,7 @@ Framing, Approaches, Significance Pitfalls
 
 [The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
-- > Our key point here is that it is possible to have multiple potential comparisons, in the sense of a data analysis whose details are highly contingent on data, without the researcher performing any conscious procedure of fishing or examining multiple p-values.
+> Our key point here is that it is possible to have multiple potential comparisons, in the sense of a data analysis whose details are highly contingent on data, without the researcher performing any conscious procedure of fishing or examining multiple p-values.
 
 [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](https://journals.sagepub.com/doi/full/10.1177/0956797611417632?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed)
 

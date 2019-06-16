@@ -11,11 +11,11 @@ title: Teams and Orgs
 
 [The Ten Fallacies of Data Science](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
 
-- > There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
+> There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
 
 [Scaling Knowledge](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)
 
-- > Most companies suck at disseminating factual knowledge. Yours probably does too.
+> Most companies suck at disseminating factual knowledge. Yours probably does too.
 
 [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/):
 
@@ -23,15 +23,15 @@ title: Teams and Orgs
 
 [The Problem With Hands-Off Analytics](https://mode.com/blog/problem-with-hands-off-analytics)
 
-- > To put it another way, the only things self-serve helps scale is SQL ...
+> To put it another way, the only things self-serve helps scale is SQL ...
 
 [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
-- > Start with a platform, and then use it for everything ...
+> Start with a platform, and then use it for everything ...
 
 [Hadley Wickham's Readings in Applied Data Science](https://github.com/hadley/stats337)
 
-- > These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated.
+> These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated.
 
 [Does my Startup Data Team Need a Data Engineer?](https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9)
 
@@ -49,7 +49,7 @@ title: Teams and Orgs
 
 [Titles](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 
-- > Mo’ Titles, Mo’ Problems
+> Mo’ Titles, Mo’ Problems
 
 [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
 
@@ -59,7 +59,7 @@ title: Teams and Orgs
 
 [Responses to Negative Data: Four Senior Leadership Archetypes](https://www.kaushik.net/avinash/leadership-archetypes-responses-to-negative-data/)
 
-- > If you are in the data business – my bread, butter and tofu – you often carry the burden of being the bearer of bad news.
+> If you are in the data business – my bread, butter and tofu – you often carry the burden of being the bearer of bad news.
 
 [How startups die from their addiction to paid marketing](https://andrewchen.co/paid-marketing-addiction/)
 

@@ -49,27 +49,27 @@ I try to limit these but I'm sharing a few things that have particularly influen
 
 [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 
-- > I always do that, get into something and see how far I can go.
+> I always do that, get into something and see how far I can go.
 
 [Lying](https://www.amazon.com/Lying-Sam-Harris/dp/1940051002)
 
-- > Lying is, almost by definition, a refusal to cooperate with others.
-- > Honest people are a refuge: You know they mean what they say.
+> Lying is, almost by definition, a refusal to cooperate with others.
+> Honest people are a refuge: You know they mean what they say.
 
 [Inadequate Equilibria: Where and How Civilizations Get Stuck](https://www.amazon.com/Inadequate-Equilibria-Where-Civilizations-Stuck-ebook/dp/B076Z64CPG)
 
-- > So far, every time I've asked you why someone is acting insane, you've claimed that it's secretly a sane response to someone else acting insane.
+> So far, every time I've asked you why someone is acting insane, you've claimed that it's secretly a sane response to someone else acting insane.
 
 [Kitchen Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220)
 
-- > Cook free or die.
+> Cook free or die.
 
 ## Podcasts / Videos
 
 [Making Sense Podcast](https://samharris.org/podcast/)
 
 - Particularly the first 100 episodes or so.
-- > All you have to offer others is your mind in each moment.
+> All you have to offer others is your mind in each moment.
 
 [Hello Internet](http://www.hellointernet.fm/)
 
