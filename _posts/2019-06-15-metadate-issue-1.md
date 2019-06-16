@@ -24,7 +24,7 @@ Content \| Source
 
 [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) \| [NYC Data](https://tinyletter.com/nycdatajobs)
 
-- Spreadsheets continue to be the gateway drug to data literacy. TBD on how this works out in the long run as a common struggle among analysts is _untraining_ stakeholder's bad habits from extensive spreadsheet use.
+- Spreadsheets continue to be the gateway drug of choice to data literacy. TBD on how this works out in the long run as a common struggle among analysts is _untraining_ stakeholder's bad habits from extensive spreadsheet use.
 
 [Research quality data and research quality databases](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/) \| [O'Reilly Data Newsletter](https://www.oreilly.com/data/newsletter.html)
 
@@ -38,20 +38,21 @@ Content \| Source
 
 [A Wave of Acquisitions in Business Intelligence](https://blog.fishtownanalytics.com/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8) \| [The Data Science Roundup](http://roundup.fishtownanalytics.com)
 
+> My personal opinion is that the underlying tech—the ingestion, transformation, and warehouse layers—actually matter more than the BI layer, but buyers rarely see it this way. Buyers in this space buy the front-end. It’s how they, and how most of an organization’s users, interact with the underlying technology.
+
 - Tristan Handy riffs on what all the recent BI acquisitions mean for the data stack.
-- > My personal opinion is that the underlying tech—the ingestion, transformation, and warehouse layers—actually matter more than the BI layer, but buyers rarely see it this way. Buyers in this space buy the front-end. It’s how they, and how most of an organization’s users, interact with the underlying technology.
 
 [Big Mood Machine: Spotify pursues emotional surveillance for global profit](https://thebaffler.com/downstream/big-mood-machine-pelly) \| [Pocket Hits](https://getpocket.com/explore/pocket-hits)
 
-- > But a more careful look into Spotify’s history shows that the decision to define audiences by their moods was part of a strategic push to grow Spotify’s advertising business in the years leading up to its IPO—and today, Spotify’s enormous access to mood-based data is a pillar of its value to brands and advertisers, allowing them to target ads on Spotify by moods and emotions.
+> But a more careful look into Spotify’s history shows that the decision to define audiences by their moods was part of a strategic push to grow Spotify’s advertising business in the years leading up to its IPO—and today, Spotify’s enormous access to mood-based data is a pillar of its value to brands and advertisers, allowing them to target ads on Spotify by moods and emotions.
 
 [Justin Kan: 10+1 Lessons from a Serial Entrepreneur](https://a16z.com/2019/06/10/lessons-from-serial-entrepreneur-justin-kan/) \| [a16z Podcast](https://a16z.com/podcasts/)
 
-- > I had a huge ego attachment to the outcome of the company. My identity and the companies were very intertwined... what I realized was that I need to start reminding myself that no matter what happens with this company, I'm not going to be any happier or any less happy in the long run.
+> I had a huge ego attachment to the outcome of the company. My identity and the companies were very intertwined... what I realized was that I need to start reminding myself that no matter what happens with this company, I'm not going to be any happier or any less happy in the long run.
 
-- > Culture eats strategy... when you're not intentional about your culture, or what type of company you want to be, then the culture ends up being the accidental collection of good and bad choices, and personality quirks, and good and bad behaviors that your founding and executive teams propagate.
+> Culture eats strategy... when you're not intentional about your culture, or what type of company you want to be, then the culture ends up being the accidental collection of good and bad choices, and personality quirks, and good and bad behaviors that your founding and executive teams propagate.
 
-- > I think a lot of companies in Silicon Valley succeed despite their management, not because of it. And what I mean by that is the idea was so good that a bunch of 25 year olds could run the company.
+> I think a lot of companies in Silicon Valley succeed despite their management, not because of it. And what I mean by that is the idea was so good that a bunch of 25 year olds could run the company.
 
 ---
 
@@ -59,11 +60,12 @@ Content \| Source
 
 [How to build something that lasts 10,000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years) \| [Pocket Hits](https://getpocket.com/explore/pocket-hits)
 
-- > Alexander Rose and a team of engineers at The Long Now Foundation are building a clock in the Texan desert that will last for 10,000 years. He explains what he's learnt about designing for extreme longevity.
+> Alexander Rose and a team of engineers at The Long Now Foundation are building a clock in the Texan desert that will last for 10,000 years. He explains what he's learnt about designing for extreme longevity.
 
 ---
 
-# From the Bookmarks 
+**From the Bookmarks...**
+
 # The Garden of Forking Paths
 
 [The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
@@ -88,16 +90,16 @@ One way to frame the differences between p-hacking and the Garden is intent. P-h
 
 > Criticism is easy, doing research is hard.
 
-The author's go on to offer guidelines to avoid this pitfall by defining your methodology beforehand and conducting follow-up experiments when the analysis is unavoidably contingent on the data. This advice follows what is generally a good rule of thumb for experimental analysis— lean into experimental design and analysis methodology *before* conducting the experiment, not afterwards. You can't move fast and break things here.
+The authors go on to offer guidelines to avoid this pitfall by defining your methodology beforehand and conducting follow-up experiments when the analysis is unavoidably contingent on the data. This advice follows what is generally a good rule of thumb for experimental analysis— lean into experimental design and analysis methodology *before* conducting the experiment, not afterwards. You can't move fast and break things here.
 
 The paper is a good read with multiple real world examples. A few quotes follow:
 
-- > Our key point here is that it is possible to have multiple potential comparisons, in the sense of a data analysis whose details are highly contingent on data, without the researcher performing any conscious procedure of fishing or examining multiple p-values.
+> Our key point here is that it is possible to have multiple potential comparisons, in the sense of a data analysis whose details are highly contingent on data, without the researcher performing any conscious procedure of fishing or examining multiple p-values.
 
-- > In this garden of forking paths, whatever route you take seems predetermined, but that’s because the choices are done implicitly. The researchers are not trying multiple tests to see which has the best p-value; rather, they are using their scientific common sense to formulate their hypotheses in a reasonable way, given the data they have. The mistake is in thinking that, if the particular path that was chosen yields statistical significance, that this is strong evidence in favor of the hypothesis.
+> In this garden of forking paths, whatever route you take seems predetermined, but that’s because the choices are done implicitly. The researchers are not trying multiple tests to see which has the best p-value; rather, they are using their scientific common sense to formulate their hypotheses in a reasonable way, given the data they have. The mistake is in thinking that, if the particular path that was chosen yields statistical significance, that this is strong evidence in favor of the hypothesis.
 
-- > When we say an analysis was subject to multiple comparisons or “researcher degrees of freedom,” this does not require that the people who did the analysis were actively trying out different tests in a search for statistical significance. Rather, they can be doing an analysis which at each step is contingent on the data. The researcher degrees of freedom do not feel like degrees of freedom because, conditional on the data, each choice appears to be deterministic. But if we average over all possible data that could have occurred, we need to look at the entire garden of forking paths and recognize how each path can lead to statistical significance in its own way. Averaging over all paths is the fundamental principle underlying p-values and statistical significance and has an analogy in path diagrams developed by Feynman to express the indeterminacy in quantum physics.
+> When we say an analysis was subject to multiple comparisons or “researcher degrees of freedom,” this does not require that the people who did the analysis were actively trying out different tests in a search for statistical significance. Rather, they can be doing an analysis which at each step is contingent on the data. The researcher degrees of freedom do not feel like degrees of freedom because, conditional on the data, each choice appears to be deterministic. But if we average over all possible data that could have occurred, we need to look at the entire garden of forking paths and recognize how each path can lead to statistical significance in its own way. Averaging over all paths is the fundamental principle underlying p-values and statistical significance and has an analogy in path diagrams developed by Feynman to express the indeterminacy in quantum physics.
 
 ---
 
-You can view my current sources [here](https://pdtenpas.github.io/pages/newsletter/sources/), learn more about my process for creating the newsletter [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/), or see my favorite past finds in the bookmarks section of my personal site [here](https://pdtenpas.github.io/).
+You can view my current sources [here](https://pdtenpas.github.io/pages/newsletter/sources/), learn more about my process for writing the newsletter [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/), or see my favorite past finds in the bookmarks section of my personal site [here](https://pdtenpas.github.io/).
