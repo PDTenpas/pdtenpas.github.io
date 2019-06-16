@@ -31,7 +31,7 @@ title: Misc
 
 [Uncertainty + Visualization, Explained](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 
-[Continuous Encodings](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
+[Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
 
 [Working with timezones](https://davecturner.github.io/2018/08/12/working-with-timezones.html)
 
