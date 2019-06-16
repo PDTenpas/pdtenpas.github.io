@@ -131,4 +131,4 @@ The paper is a good read with multiple real world examples. A few quotes follow:
 
 ---
 
-You can view my current sources [here](https://pdtenpas.github.io/pages/newsletter/sources/), learn more about my process for writing the newsletter [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/), or see my favorite past finds in the bookmarks section of my personal site [here](https://pdtenpas.github.io/).
+You can view my current sources [**here**](https://pdtenpas.github.io/pages/newsletter/sources/), learn more about my process for writing the newsletter [**here**](https://pdtenpas.github.io/pages/newsletter/read_newsletters/), or see my favorite past finds in the bookmarks section of my personal site [**here**](https://pdtenpas.github.io/).
