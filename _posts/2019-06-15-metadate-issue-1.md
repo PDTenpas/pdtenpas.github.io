@@ -129,4 +129,4 @@ The paper is a good read with multiple real world examples. A few quotes follow:
 
 ---
 
-You can subscribe to the newsletter [**here**](https://metadata.substack.com/), learn more about my process for writing the newsletter [**here**](https://pdtenpas.github.io/pages/newsletter/read_newsletters/), view my current sources [**here**](https://pdtenpas.github.io/pages/newsletter/sources/), or see my favorite past finds in the bookmarks section of my personal site [**here**](https://pdtenpas.github.io/).
+You can subscribe to the newsletter [**here**](https://metadata.substack.com/), learn more about my process for writing it [**here**](https://pdtenpas.github.io/pages/newsletter/read_newsletters/), view my current sources [**here**](https://pdtenpas.github.io/pages/newsletter/sources/), or see my favorite past finds in the bookmarks section of my personal site [**here**](https://pdtenpas.github.io/).
