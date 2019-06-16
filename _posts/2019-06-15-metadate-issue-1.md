@@ -10,24 +10,24 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 **Content \| Source**
 
-- **TL;DR:** Summary
-- My thoughts
+- **TL;DR:** Summary.
+- My thoughts.
 
-> Quotes
+> Quotes.
 
 ---
 
 # Tools
 
-[**Releasing lookml-tools: better Looker code, user experience, and data governance](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly**](https://www.datascienceweekly.org/)
+[**Releasing lookml-tools: better Looker code, user experience, and data governance**](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly**](https://www.datascienceweekly.org/)
 
 - The library contains three tools: Linter for styling, Grapher for network diagrams, and Updater dimension description changes.
 
-[Usage of Asterisks in Python](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [DataCamp Weekly](https://www.datacamp.com/)
+[Usage of Asterisks in Python](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [**DataCamp Weekly**](https://www.datacamp.com/)
 
 > Asterisks have many particular use cases in Python. In general, we are familiar with the multiplication and power operators. It can perform some other operations like unpacking, arguments passing, etc.., in different situations
 
-[How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/) \| [PyCoder's Weekly](https://pycoders.com/)
+[**How to Implement a Python Stack**](https://realpython.com/how-to-implement-python-stack/) \| [**PyCoder's Weekly**](https://pycoders.com/)
 
 > A stack is a data structure that stores items in an Last-In/First-Out manner. This is frequently referred to as LIFO. This is in contrast to a queue, which stores items in a First-In/First-Out (FIFO) manner.
 
@@ -35,31 +35,47 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 # Approaches
 
-[How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) \| [NYC Data](https://tinyletter.com/nycdatajobs)
+[**How We Helped Our Reporters Learn to Love Spreadsheets**](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) \| [**NYC Data**](https://tinyletter.com/nycdatajobs)
+
+- TL;DR: The New York Times has open-sourced it’s data training program based on Google Sheets.
 
 - Spreadsheets continue to be the gateway drug of choice to data literacy. TBD on how this works out in the long run as a common struggle among analysts is _untraining_ stakeholder's bad habits from extensive spreadsheet use.
 
-[Research quality data and research quality databases](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/) \| [O'Reilly Data Newsletter](https://www.oreilly.com/data/newsletter.html)
+[**Research quality data and research quality databases**](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/) \| [**O'Reilly Data Newsletter**](https://www.oreilly.com/data/newsletter.html)
 
-[Testing Statistical Software](https://www.alexpghayes.com/blog/testing-statistical-software) \| [Data Elixir](https://dataelixir.com/)
+> No matter where you are doing data science - in academia, in a non-profit, or in a company - you are doing research.
+
+> Research quality data is data that:
+> 1. Is summarized the right amount
+> 2. Is formatted to work with the tools you are going to use
+> 3. Is easy to manipulate and use
+> 4. Is valid and accurately reflects the underlying data collection
+> 5. Has potential biases clearly documented.
+> 6. Combines all the relevant data types you need to answer questions
+
+[**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software) \| [**Data Elixir**](https://dataelixir.com/)
+
+> In this post, I describe how I evaluate the trustworthiness of a modeling package, and in particular what I want from the test suite. If you use statistical software, this post will help you evaluate whether a package is worth using. If you write statistical software, this post will help you confirm the correctness of the code that you write.
 
 ---
 
 # Industry
 
-[The Truth About Finding Your First Engineering Job](https://angel.co/blog/the-truth-about-finding-your-first-engineering-job) \| [AngelList Weekly](https://angel.co/newsletters)
+[**The Truth About Finding Your First Engineering Job**](https://angel.co/blog/the-truth-about-finding-your-first-engineering-job) \| [**AngelList Weekly**](https://angel.co/newsletters)
 
-[A Wave of Acquisitions in Business Intelligence](https://blog.fishtownanalytics.com/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8) \| [The Data Science Roundup](http://roundup.fishtownanalytics.com)
+> How many jobs should I apply to? What kind of companies do I have the best odds with? Do I apply to roles I'm not qualified for? Which roles are the most open to junior-level candidates? Am I a failure if I don't make $200,000? What do you want?
 
-> My personal opinion is that the underlying tech—the ingestion, transformation, and warehouse layers—actually matter more than the BI layer, but buyers rarely see it this way. Buyers in this space buy the front-end. It’s how they, and how most of an organization’s users, interact with the underlying technology.
+[**A Wave of Acquisitions in Business Intelligence**](https://blog.fishtownanalytics.com/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8) \| [**The Data Science Roundup**](http://roundup.fishtownanalytics.com)
 
 - Tristan Handy riffs on what all the recent BI acquisitions mean for the data stack.
 
-[Big Mood Machine: Spotify pursues emotional surveillance for global profit](https://thebaffler.com/downstream/big-mood-machine-pelly) \| [Pocket Hits](https://getpocket.com/explore/pocket-hits)
+> My personal opinion is that the underlying tech—the ingestion, transformation, and warehouse layers—actually matter more than the BI layer, but buyers rarely see it this way. Buyers in this space buy the front-end. It’s how they, and how most of an organization’s users, interact with the underlying technology.
+
+[**Big Mood Machine: Spotify pursues emotional surveillance for global profit**](https://thebaffler.com/downstream/big-mood-machine-pelly) \| [**Pocket Hits**](https://getpocket.com/explore/pocket-hits)
 
 > But a more careful look into Spotify’s history shows that the decision to define audiences by their moods was part of a strategic push to grow Spotify’s advertising business in the years leading up to its IPO—and today, Spotify’s enormous access to mood-based data is a pillar of its value to brands and advertisers, allowing them to target ads on Spotify by moods and emotions.
 
-[Justin Kan: 10+1 Lessons from a Serial Entrepreneur](https://a16z.com/2019/06/10/lessons-from-serial-entrepreneur-justin-kan/) \| [a16z Podcast](https://a16z.com/podcasts/)
+[**Justin Kan: 10+1 Lessons from a Serial Entrepreneur**](https://a16z.com/2019/06/10/lessons-from-serial-entrepreneur-justin-kan/) \| [**a16z Podcast**](https://a16z.com/podcasts/)
 
 > I had a huge ego attachment to the outcome of the company. My identity and the companies were very intertwined... what I realized was that I need to start reminding myself that no matter what happens with this company, I'm not going to be any happier or any less happy in the long run.
 
@@ -71,7 +87,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 # From the Real World
 
-[How to build something that lasts 10,000 years](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years) \| [Pocket Hits](https://getpocket.com/explore/pocket-hits)
+[**How to build something that lasts 10,000 years**](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years) \| [**Pocket Hits**](https://getpocket.com/explore/pocket-hits)
 
 > Alexander Rose and a team of engineers at The Long Now Foundation are building a clock in the Texan desert that will last for 10,000 years. He explains what he's learnt about designing for extreme longevity.
 
@@ -81,7 +97,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 # The Garden of Forking Paths
 
-[The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+[**The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time**](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
 **TL;DR:** The goal of an experiment isn't to find significant results— don't go looking for them and don't decide how to conduct an experimental analysis based on the experimental data.
 
