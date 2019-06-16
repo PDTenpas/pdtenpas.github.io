@@ -83,6 +83,8 @@ Framing and Approaches
 
 [**Understanding Latent Style**](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
 
+[**Learning Market Dynamics for Optimal Pricing**](https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3)
+
 [**Scalable approach to building Time Series forecasting Pipelines**](https://towardsdatascience.com/scalable-approach-to-building-time-series-forecasting-pipelines-eadfd75b15ff)
 
 [**How to deliver on Machine Learning projects: A guide to the ML Engineering Loop**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
