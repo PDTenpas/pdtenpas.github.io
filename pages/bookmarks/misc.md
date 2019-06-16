@@ -38,6 +38,7 @@ title: Misc
 [UTC is enough for everyone... right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 
 - A great post covering why handling time is far more complicated than you probably thought it was.
+
 > Programming time, dates, timezones, recurring events, leap seconds... everything is pretty terrible.
 
 [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/)
