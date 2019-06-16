@@ -89,7 +89,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [How do you decide what to model in dbt vs LookML?](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
 
-[How we structure our dbt projects](How we structure our dbt projects)
+[How we structure our dbt projects](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
 
 ## Snowflake
 
