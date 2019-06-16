@@ -26,6 +26,7 @@ navbar-links:
   home: "https://pdtenpas.github.io"
   newsletter:
     - subscribe: "https://metadata.substack.com/"
+    - archive: "pages/newsletter/archive"
     - sources: "pages/newsletter/sources"
     - how I read newsletters: "pages/newsletter/read_newsletters"
   bookmarks:
