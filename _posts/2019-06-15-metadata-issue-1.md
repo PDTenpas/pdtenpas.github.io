@@ -19,7 +19,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 [**Releasing lookml-tools: better Looker code, user experience, and data governance**](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [**Data Science Weekly**](https://www.datascienceweekly.org/)
 
-- The library contains three tools: Linter for styling, Grapher for network diagrams, and Updater dimension description changes.
+- **TL;DR:** The library contains three tools: Linter for styling, Grapher for network diagrams, and Updater for dimension description changes.
 
 [**Usage of Asterisks in Python**](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [**DataCamp Weekly**](https://www.datacamp.com/)
 
@@ -35,7 +35,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 [**How We Helped Our Reporters Learn to Love Spreadsheets**](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) \| [**NYC Data**](https://tinyletter.com/nycdatajobs)
 
-- TL;DR: The New York Times has open-sourced it’s data training program based on Google Sheets.
+- **TL;DR:** The New York Times has open-sourced it’s data training program based on Google Sheets.
 
 - Spreadsheets continue to be the gateway drug of choice to data literacy. TBD on how this works out in the long run as a common struggle among analysts is _untraining_ stakeholder's bad habits from extensive spreadsheet use.
 
