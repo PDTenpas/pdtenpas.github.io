@@ -8,17 +8,28 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 [Subscribe](https://metadata.substack.com/)
 
-Content \| Source
+**Content | Source**
+
+- **TL;DR:** Summary
+- My thoughts
+
+> Quotes
 
 ---
 
 # Tools
 
-[Releasing lookml-tools: better Looker code, user experience, and data governance](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly](https://www.datascienceweekly.org/)
+[**Releasing lookml-tools: better Looker code, user experience, and data governance](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly**](https://www.datascienceweekly.org/)
+
+- The library contains three tools: Linter for styling, Grapher for network diagrams, and Updater dimension description changes.
 
 [Usage of Asterisks in Python](https://www.datacamp.com/community/tutorials/usage-asterisks-python) \| [DataCamp Weekly](https://www.datacamp.com/)
 
+> Asterisks have many particular use cases in Python. In general, we are familiar with the multiplication and power operators. It can perform some other operations like unpacking, arguments passing, etc.., in different situations
+
 [How to Implement a Python Stack](https://realpython.com/how-to-implement-python-stack/) \| [PyCoder's Weekly](https://pycoders.com/)
+
+> A stack is a data structure that stores items in an Last-In/First-Out manner. This is frequently referred to as LIFO. This is in contrast to a queue, which stores items in a First-In/First-Out (FIFO) manner.
 
 ---
 
