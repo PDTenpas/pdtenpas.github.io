@@ -3,7 +3,7 @@ layout: page
 title: Newsletter Sources
 ---
 
-I am constantly adding new sources and culling the herd of those that stop producing gems. Read more about my process [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/). I try to keep the below list up to date of those I'm currently tracking.
+I am constantly adding new sources and culling the herd of those that stop producing gems. Read more about my process [here](https://pdtenpas.github.io/pages/newsletter/read_newsletters/). I try to keep the below list up to date.
 
 # Data
 
