@@ -19,7 +19,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 # Tools
 
-[**Releasing lookml-tools: better Looker code, user experience, and data governance**](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [Data Science Weekly**](https://www.datascienceweekly.org/)
+[**Releasing lookml-tools: better Looker code, user experience, and data governance**](https://medium.com/ww-tech-blog/releasing-lookml-tools-better-looker-code-user-experience-and-data-governance-a24c0324257c) \| [**Data Science Weekly**](https://www.datascienceweekly.org/)
 
 - The library contains three tools: Linter for styling, Grapher for network diagrams, and Updater dimension description changes.
 
