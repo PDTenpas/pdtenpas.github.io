@@ -8,7 +8,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 [Subscribe](https://metadata.substack.com/)
 
-**Content | Source**
+**Content \| Source**
 
 - **TL;DR:** Summary
 - My thoughts
