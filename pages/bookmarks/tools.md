@@ -5,6 +5,8 @@ title: Data Tools
 
 There's really too many of these to cover in any sort of useful summary. I'm going to list a few lists of resources I've found useful and pull out some of my favorites below.
 
+---
+
 ## Resource Lists
 
 [**Awesome Business Intelligence**](https://github.com/thenaturalist/awesome-business-intelligence)
