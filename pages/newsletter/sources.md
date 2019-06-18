@@ -71,7 +71,7 @@ title: Newsletter Sources
 
 [**Statistical Modeling, Causal Inference, and Social Science**](http://andrewgelman.com/): Written by Columbia University Statistics Prof Andrew Gelman, this blog is the place to go for the latest on the current statistical crisis in science.
 
-[**Erik Bernhardsson's Blog**](https://erikbern.com/): The blog of Better's CTO, and the guy you can thank for Spotify's Discover Weekly.
+[**Erik Bernhardsson's Blog**](https://erikbern.com/): The blog of Better's CTO and the guy you can thank for Spotify's Discover Weekly.
 
 [**Variance Explained**](http://varianceexplained.org/posts/): The blog of DataCamp's Chief Data Scientist, David Robinson.
 
@@ -83,17 +83,13 @@ title: Newsletter Sources
 
 ## Newsletters
 
+[**Stratechery**](https://stratechery.com/): Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society.
+
 [**Exponential View**](https://www.exponentialview.co/): Get smarter about AI & the near future with Azeem Azhar’s Exponential View
 
 [**Machine Learnings**](http://subscribe.machinelearnings.co): Understand how AI will change your work and life.
 
 [**Noteworthy in Tech**](https://usejournal.com/newsletter/): Wake up every Sunday morning to the week’s most noteworthy stories in Tech waiting in your inbox.
-
-[**No Mercy / No Malice**](https://www.l2inc.com/archive?blog-types=nmnm): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
-
-[**Stratechery**](https://stratechery.com/): Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society.
-
-[**Ark-Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
 
 [**AngelList Weekly**](https://angel.co/newsletters): The best of the startup world, curated weekly.
 
@@ -102,6 +98,10 @@ title: Newsletter Sources
 [**Andrew Chen's Newsletter**](https://andrewchen.co/): Long-form essays on startups, growth, metrics, and network effects.
 
 [**Snippets 2.0**](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
+
+[**No Mercy / No Malice**](https://www.l2inc.com/archive?blog-types=nmnm): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
+
+[**Ark-Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
 
 [**How It Actually Works**](https://www.howitactuallyworks.com/): I read every corner of the Internet to find the best material to answer the question: how does the world actually work?
 
