@@ -62,6 +62,7 @@ I try to limit these but I'm sharing a few things that have particularly influen
 [**Lying**](https://www.amazon.com/Lying-Sam-Harris/dp/1940051002)
 
 > Lying is, almost by definition, a refusal to cooperate with others.
+
 > Honest people are a refuge: You know they mean what they say.
 
 [**Inadequate Equilibria: Where and How Civilizations Get Stuck**](https://www.amazon.com/Inadequate-Equilibria-Where-Civilizations-Stuck-ebook/dp/B076Z64CPG)
