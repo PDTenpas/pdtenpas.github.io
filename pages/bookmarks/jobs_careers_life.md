@@ -3,6 +3,8 @@ layout: page
 title: Jobs, Careers, Life
 ---
 
+---
+
 # Jobs
 
 [**Red Flags in Data Science Interviews**](https://hookedondata.org/red-flags-in-data-science-interviews/)
