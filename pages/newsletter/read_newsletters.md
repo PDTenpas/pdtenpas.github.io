@@ -3,6 +3,8 @@ layout: page
 title: How I Read Newsletters
 ---
 
+---
+
 During my stint in graduate school I learned that one of the most difficult parts of scientific work is keeping up with the never ending flood of new research. It's one thing to know the literature of your field, it's an entirely different thing to keep up with it. You simply cannot read everything new that's relevant, however if you don't keep up you can never be sure you're doing important work. So how does one keep up?
 
 At the time, I adopted the approach of the [Leek Research Group](http://jtleek.com/) ([documented here on github](https://github.com/jtleek/readingpapers)). I'd summarize it as setting up a firehose of good sources and then regularly skimming and filtering it at different levels. First the title, then the key take-aways, then the evidence behind those take-aways. Finally, if a paper has managed to maintain your interest through all of that, you read the whole thing.
