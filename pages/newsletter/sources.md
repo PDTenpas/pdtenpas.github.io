@@ -43,6 +43,8 @@ title: Newsletter Sources
 
 [**Data Science Community Newsletter**](https://cds.nyu.edu/newsletter/): Journalism, research papers, events, tools/software, jobs, and more.
 
+[**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter): I send an email newsletter every Tuesday with my notes for the past week — the stories and links that I thought were interesting, plus any new posts or projects I’ve been working on.
+
 ## Podcasts
 
 [**The Data Engineering Podcast**](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
@@ -74,8 +76,6 @@ title: Newsletter Sources
 [**Variance Explained**](http://varianceexplained.org/posts/): The blog of DataCamp's Chief Data Scientist, David Robinson.
 
 [**Hooked on Data**](https://hookedondata.org/): Emily Robinson's blog. Emily currently works at DataCamp and was previously at Etsy.
-
-[**Conor Dewey's Blog/Newsletter**](https://www.conordewey.com/newsletter): I send an email newsletter every Tuesday with my notes for the past week — the stories and links that I thought were interesting, plus any new posts or projects I’ve been working on.
 
 ---
 
