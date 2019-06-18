@@ -15,6 +15,8 @@ title: Jobs, Careers, Life
 
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
 
+---
+
 # Careers
 Cheesy titles on some of these but the content is good.
 
@@ -30,6 +32,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Becoming a Level 3.0 Data Scientist**](https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3)
 
+---
+
 # Your Career
 
 [**Hamming, "You and Your Research" (June 6, 1995)**](https://www.youtube.com/watch?v=a1zDuOPkMSw)
@@ -43,6 +47,8 @@ Cheesy titles on some of these but the content is good.
 [**Sam Altman: How To Be Successful**](http://blog.samaltman.com/how-to-be-successful)
 
 [**My Journey Towards Authentic Leadership**](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
+
+---
 
 # Life
 I try to limit these but I'm sharing a few things that have particularly influenced me.
