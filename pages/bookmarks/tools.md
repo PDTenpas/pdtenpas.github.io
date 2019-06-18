@@ -69,6 +69,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Introduction to the Python Calendar Module**](https://stackabuse.com/introduction-to-the-python-calendar-module/)
 
+[**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/)
+
 [**Usage of Asterisks in Python**](https://www.datacamp.com/community/tutorials/usage-asterisks-python)
 
 [**How to Implement a Python Stack**](https://realpython.com/how-to-implement-python-stack/)
