@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MetaData Newsletter
+title: Metadata Newsletter
 subtitle: Issue 1 - The Garden of Forking Paths
 ---
 
