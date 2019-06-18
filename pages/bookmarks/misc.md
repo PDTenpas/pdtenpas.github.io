@@ -5,14 +5,6 @@ title: Misc
 
 ---
 
-# Finding Things
-
-[**Google Dataset Search**](https://toolbox.google.com/datasetsearch)
-
-[**Arxiv Sanity Preserver**](http://arxiv-sanity.com)
-
-[**My List of Data/Tech News Sources**](https://pdtenpas.github.io/pages/newsletter/sources/)
-
 # Abstract Concepts
 
 [**Up and Down the Ladder of Abstraction**](http://worrydream.com/#!2/LadderOfAbstraction)
@@ -50,6 +42,18 @@ title: Misc
 [**Leek Lab's guide to reading academic papers**](https://github.com/jtleek/readingpapers)
 
 - I.e. how to keep up with a field/industry. Check out my version of this [**here**](https://pdtenpas.github.io/pages/newsletter/read_newsletters/).
+
+---
+
+# Finding Things
+
+[**Google Dataset Search**](https://toolbox.google.com/datasetsearch)
+
+[**Arxiv Sanity Preserver**](http://arxiv-sanity.com)
+
+[**My List of Data/Tech News Sources**](https://pdtenpas.github.io/pages/newsletter/sources/)
+
+---
 
 # History
 
