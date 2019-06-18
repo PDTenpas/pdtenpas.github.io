@@ -13,7 +13,9 @@ Framing and Approaches
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 
 > If it’s someone’s job to handle all data requests by writing a new SQL query or to downloading data from external systems, your team is headed in the wrong direction.
+
 > Start with manual processes — like SQL queries or API pulls — to understand the problem space. Next, automate the repetitive parts and start manually monitoring that automation. Finally, automate the actions taken to correct issues found via monitoring and manually check performance metrics.
+
 > Frequent small changes over infrequent large changes
 
 [**Data architecture vs backend architecture**](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
