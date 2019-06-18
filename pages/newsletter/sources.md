@@ -49,6 +49,8 @@ title: Newsletter Sources
 
 [**Talk Python To Me**](https://talkpython.fm/): Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies.
 
+[**The Python Podcast.__init**](https://www.pythonpodcast.com/): Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.
+
 [**Not So Standard Deviations**](http://nssdeviations.com/): Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 
 [**Data Skeptic**](https://dataskeptic.com/): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science.
