@@ -118,3 +118,21 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**How to Design Your Looker Explores**](https://blog.fishtownanalytics.com/how-to-design-your-looker-explores-171e28465add)
 
 [**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
+
+# git / code review
+
+[**Flight rules for Git**](https://github.com/k88hudson/git-flight-rules#git-bash)
+
+> A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
+
+[**Learn git concepts, not commands**](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+
+[**Git Immersion**](http://gitimmersion.com/index.html)
+
+> A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+
+[**How to Write a Git Commit Message**](https://chris.beams.io/posts/git-commit/)
+
+[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+
+[**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
