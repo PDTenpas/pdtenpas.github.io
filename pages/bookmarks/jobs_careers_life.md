@@ -40,7 +40,9 @@ Cheesy titles on some of these but the content is good.
 
 - A phenomenal talk that goes beyond academic research and serves as a guide on how to do great work.
 
-[**Cargo Cult Science: Some remarks on science, pseudoscience, and learning how to not fool yourself. Caltech’s 1974 commencement address.**](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
+[**Cargo Cult Science: Some remarks on science, pseudoscience, and learning how to not fool yourself.**](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
+
+- Caltech’s 1974 commencement address.
 
 > So I wish to you—I have no more time, so I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity.  May you have that freedom.
 
