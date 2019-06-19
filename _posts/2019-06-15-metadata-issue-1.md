@@ -4,18 +4,7 @@ title: Metadata Newsletter
 subtitle: Issue 1 - The Garden of Forking Paths
 ---
 
-test 1
-
-[![MetaData Banner]({{ site.url }}/img/metadata_banner.png)](https://pdtenpas.github.io/2019-06-15-metadata-issue-1/)
-
-test 2
-
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)
-
-default
-
-[![MetaData Banner]({{ site.url }}/img/metadata_banner.png)]({{ site.url }}/img/metadata_banner.png)
-
 
 **Content \| Source**
 
