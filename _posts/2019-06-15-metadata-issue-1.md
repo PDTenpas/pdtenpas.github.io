@@ -95,7 +95,7 @@ subtitle: Issue 1 - The Garden of Forking Paths
 
 # The Garden of Forking Paths
 
-[![Garden]({{ site.url }}/img/garden.png)]({{ site.url }}/img/garden.png)
+![Garden]({{ site.url }}/img/garden.png)
 
 [**The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time**](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
