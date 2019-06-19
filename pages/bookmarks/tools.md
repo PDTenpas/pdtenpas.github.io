@@ -119,7 +119,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
 
-# git / code review
+## git / code review
 
 [**Flight rules for Git**](https://github.com/k88hudson/git-flight-rules#git-bash)
 
