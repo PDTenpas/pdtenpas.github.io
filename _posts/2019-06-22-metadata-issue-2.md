@@ -37,7 +37,7 @@ subtitle: Metadata Newsletter - Issue 2
 
 - **TL;DR:** This story is wild. Lyric website Genius accused Google of scraping their song lyric data to surface it in search results. When Google denied the claims, Genius used apostrophe formatting patterns to watermark the text and catch Google red-handed.
 
-[**The Internet Trends Report**](https://www.bondcap.com/report/itr19/) \| [**Ark-Disrupt (and many others)**](https://ark-invest.com/ark-newsletter)
+[**The Internet Trends Report**](https://www.bondcap.com/report/itr19/) \| [**Ark Disrupt**](https://ark-invest.com/ark-newsletter) (and many others)
 
 - Mary Meeker’s annual absolute-monster-of-a-slide-deck Internet Trends Report is out. If you're not familiar, once a year VC's gather to hit the right arrow key over the deck and spin hot takes on Twitter. Here are ten trends ARK Invest picked out:
 

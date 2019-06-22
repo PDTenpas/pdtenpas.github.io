@@ -105,7 +105,7 @@ title: Newsletter Sources
 
 [**No Mercy / No Malice**](https://www.profgalloway.com/): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
 
-[**Ark-Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
+[**Ark Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
 
 [**How It Actually Works**](https://www.howitactuallyworks.com/): I read every corner of the Internet to find the best material to answer the question: how does the world actually work?
 
