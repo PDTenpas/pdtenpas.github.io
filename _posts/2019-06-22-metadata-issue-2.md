@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Honorable Robber
-subtitle: Metadata Newsletter - Issue 2 
+subtitle: Metadata Newsletter - Issue 2
 ---
 
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)
@@ -14,8 +14,6 @@ subtitle: Metadata Newsletter - Issue 2
 > Quotes.
 
 ---
-
-[![MetaData Banner]({{ site.url }}/img/metadata_banner.png)]({{ site.url }}/img/metadata_banner.png)
 
 # Tools
 
