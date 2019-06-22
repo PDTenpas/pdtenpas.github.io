@@ -79,7 +79,7 @@ Facebook has announced details on [their new currency, Libra](https://libra.org/
 
 [**Facebook Will Make the Money Now**](https://www.bloomberg.com/opinion/articles/2019-06-18/facebook-will-make-the-money-now) \| [**Money Stuff**](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
 
-- Matt Levine dug into the nitty gritty of Libra's governance and asset structure:
+- Matt Levine dug into the nitty gritty of Libra's governance and asset structure.
 
 > If you mostly spend dollars, and Libra is always going up and down against the dollar, that will be annoying and you won’t want as many Libras. But if you mostly spend Libras—if Facebook is successful at making this the main currency of the internet—then that dynamic will reverse. If the dollar is always going up and down against the Libra, that will be annoying and you’ll want more Libras. The dollar will start to seem unstable and useless.
 
