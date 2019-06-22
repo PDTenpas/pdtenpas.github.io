@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Metadata Newsletter
-subtitle: Issue 1 - The Garden of Forking Paths
+title: The Garden of Forking Paths
+subtitle: Metadata Newsletter - Issue 1
 ---
 
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)

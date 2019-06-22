@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Metadata Newsletter
-subtitle: Issue 2 - The Honorable Robber
+title: The Honorable Robber
+subtitle: Metadata Newsletter - Issue 2 
 ---
 
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)
