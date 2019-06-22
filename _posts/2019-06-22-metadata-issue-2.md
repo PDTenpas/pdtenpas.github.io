@@ -106,3 +106,10 @@ The whole thing reminds me of this passage from "Narrative of the Life of Freder
 The spectacle of Libra's announcement reeks of Facebook's past humanitarian efforts that offered a similar bargain (I mean [check out this onsite branding](https://libra.org/en-US/)). Remember when [they wanted to fly internet-providing drones over remote parts of the world](https://www.wired.com/story/what-happened-to-facebooks-grand-plan-to-wire-the-world/) but then it was revealed users could only access a Facebook-approved subset of the internet, one that would of course benefit them, and the whole thing was kiboshed?
 
 It turns out they actually did end up carrying out [this project](https://medium.com/@anneconnelly/why-facebooks-new-libra-coin-is-good-and-really-bad-for-the-world-4446a816fa23) just more discreetly by partnering with mobile providers. It's been wildly successful. Take for example that 65% of Nigerians believe Facebook is synonymous with the internet— it's the only window they've had to the web. From that perspective, Libra's approach sounds awful familiar: Find those in need of a service, offer to provide it but in an altered structure that heavily benefits the provider, claim the moral high ground as if you're solving Humanity's most important problems. The honorable robber robs on.
+
+---
+
+[Subscribe](https://metadata.substack.com/)
+[View past favorites in the bookmarks](https://pdtenpas.github.io/)
+[Newsletters / Blogs / Podcasts I follow]((https://pdtenpas.github.io/pages/newsletter/sources/)
+[How I Write This Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
