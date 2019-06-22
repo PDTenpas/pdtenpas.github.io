@@ -131,8 +131,8 @@ The paper is a good read with multiple real world examples. A few quotes follow:
 
 [Subscribe](https://metadata.substack.com/)
 
-[View past favorites in the bookmarks](https://pdtenpas.github.io/)
+[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/)
 
-[Newsletters / Blogs / Podcasts I follow](https://pdtenpas.github.io/pages/newsletter/sources/)
+[Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/newsletter/sources/)
 
-[How I Write This Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
+[How I Write the Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)

@@ -113,8 +113,8 @@ From that perspective, Libra's approach sounds awfully familiar: Find those desp
 
 [Subscribe](https://metadata.substack.com/)
 
-[View past favorites in the bookmarks](https://pdtenpas.github.io/)
+[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/)
 
-[Newsletters / Blogs / Podcasts I follow](https://pdtenpas.github.io/pages/newsletter/sources/)
+[Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/newsletter/sources/)
 
-[How I Write This Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
+[How I Write the Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
