@@ -93,7 +93,7 @@ Facebook has announced details on [their new currency, Libra](https://libra.org/
 
 > Within financial services, the remittance industry (wires, sending money home) is a $500 billion industry where the unbanked (the poor) are molested with 7% fees. A stablecoin that facilitates inexpensive transfers of funds across borders could be the largest tax cut for the poor since vaccinations. In addition, hundreds of millions of banked people are vulnerable to poor governance and unstable currencies that result in vaporization of their savings (Argentina) or eating trash to survive (Venezuela).
 
-This framing of the upside certainly sounds great. Just imagine a scenario where the same fees existed domestically:
+This framing of the upside certainly sounds great. Just imagine a scenario where the same fees exist domestically:
 
 You grow up in a lower class family in the rust belt. Despite the odds, you take on a boat load of loans, get a good education, escape to a coastal city where earning potential sky rockets and manage to climb a few rungs into the upper-middle class pretty quickly. Someone in your family is hit with a chronic illness and thanks to our healthcare system your family's finances are decimated. You can afford to help and contact a bank to set up a recurring transfer back home. The bank tells you if it's in-state, fine, but if it's across any of these arbitrary lines they're taking a cool 7% off the top.
 
