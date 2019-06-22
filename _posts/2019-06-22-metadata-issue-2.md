@@ -17,15 +17,15 @@ subtitle: Metadata Newsletter - Issue 2
 
 # Tools
 
-[**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/) | [**PyCoder's Weekly**](https://pycoders.com/)
+[**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/) \| [**PyCoder's Weekly**](https://pycoders.com/)
 
 > Python’s for loops don’t work the way for loops do in other languages. In this article we’re going to dive into Python’s for loops to take a look at how they work under the hood and why they work the way they do.
 
-[**Learn git concepts, not commands**](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) | [**Software Weekly**](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b)
+[**Learn git concepts, not commands**](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) \| [**Software Weekly**](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b)
 
 > An interactive git tutorial meant to teach you how git works, not just which commands to execute.
 
-[**edaviz**](https://github.com/tkrabel/edaviz) | [**Data Elixir**](https://dataelixir.com/)
+[**edaviz**](https://github.com/tkrabel/edaviz) \| [**Data Elixir**](https://dataelixir.com/)
 
 - A nice looking python package for helping take the tedium out of exploring dataframes in jupyter; Currently under development.
 
@@ -33,11 +33,11 @@ subtitle: Metadata Newsletter - Issue 2
 
 # Industry
 
-[**Lyrics Site Accuses Google of Lifting Its Content**](https://www.wsj.com/articles/lyrics-site-genius-com-accuses-google-of-lifting-its-content-11560677400?mod=hp_lead_pos2) | [**Pocket Hits**](https://getpocket.com/explore/pocket-hits)
+[**Lyrics Site Accuses Google of Lifting Its Content**](https://www.wsj.com/articles/lyrics-site-genius-com-accuses-google-of-lifting-its-content-11560677400?mod=hp_lead_pos2) \| [**Pocket Hits**](https://getpocket.com/explore/pocket-hits)
 
 - **TL;DR:** This story is wild. Lyric website Genius accused Google of scraping their song lyric data to surface it in search results. When Google denied the claims, Genius used apostrophe formatting patterns to watermark the text and catch Google red-handed.
 
-[**The Internet Trends Report**](https://www.bondcap.com/report/itr19/) | [**Ark-Disrupt (and many others)**](https://ark-invest.com/ark-newsletter)
+[**The Internet Trends Report**](https://www.bondcap.com/report/itr19/) \| [**Ark-Disrupt (and many others)**](https://ark-invest.com/ark-newsletter)
 
 - Mary Meeker’s absolute-monster-of-a-slide-deck internet trends report is out. If you're not familiar, once a year VC's gather to hit the right arrow key over the deck and spin hot takes on Twitter. Here are ten trends ARK Invest picked out:
 
@@ -56,14 +56,14 @@ subtitle: Metadata Newsletter - Issue 2
 
 # Society
 
-[**Would you accept cheaper rent in exchange for an Amazon purchasing quota?**](https://alexdanco.com/2019/06/12/would-you-accept-cheaper-rent-in-exchange-for-a-monthly-amazon-purchasing-quota/) | [**Snippets 2.0**](https://danco.substack.com/)
+[**Would you accept cheaper rent in exchange for an Amazon purchasing quota?**](https://alexdanco.com/2019/06/12/would-you-accept-cheaper-rent-in-exchange-for-a-monthly-amazon-purchasing-quota/) \| [**Snippets 2.0**](https://danco.substack.com/)
 
 - **TL;DR:** Alex Danco mulls over what could happen if we allow companies to bundle themselves with our broken housing system. This thought experiment reads like a Black Mirror episode (back when they were good at least).
 
 > Why am I bringing this up? Well, I’ve heard the idea thrown around, in serious discussion, that part of the reason housing remains stubbornly expensive is that the free market and the software boys haven’t been able or allowed to use software and the internet to its full potential to creatively bring down costs.
 
 
-[**Uber's Path of Destruction**](https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/) | [**Exponential View**](https://www.exponentialview.co/)
+[**Uber's Path of Destruction**](https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/) \| [**Exponential View**](https://www.exponentialview.co/)
 
 - The hottest of hot takes on Uber's grow-at-all-cost expansion strategy:
 
@@ -77,7 +77,7 @@ subtitle: Metadata Newsletter - Issue 2
 
 Facebook has announced details on [their new currency, Libra](https://libra.org/en-US/), and everyone has a hot take. Two stuck out to me:
 
-[**Facebook Will Make the Money Now**](https://www.bloomberg.com/opinion/articles/2019-06-18/facebook-will-make-the-money-now) | [**Money Stuff**](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
+[**Facebook Will Make the Money Now**](https://www.bloomberg.com/opinion/articles/2019-06-18/facebook-will-make-the-money-now) \| [**Money Stuff**](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
 
 - Matt Levine dug into the nitty gritty of Libra's governance and asset structure:
 
@@ -87,7 +87,7 @@ Facebook has announced details on [their new currency, Libra](https://libra.org/
 
 > Libra knows that you don’t necessarily trust Facebook to run the currency. It’s just asking you to trust Facebook to turn the currency over to a truly decentralized system, sometime, somehow, when it figures out what that system might look like.
 
-[**ProfG Coin — Scorpio**](https://www.profgalloway.com/profg-coin) | [**No Mercy / No Malice**](https://www.profgalloway.com/)
+[**ProfG Coin — Scorpio**](https://www.profgalloway.com/profg-coin) \| [**No Mercy / No Malice**](https://www.profgalloway.com/)
 
 - Scott Galloway had a slightly more optimistic take though he thinks lack of trust will kill the project in the end.
 
