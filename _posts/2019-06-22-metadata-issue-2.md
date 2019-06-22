@@ -110,6 +110,9 @@ It turns out they actually did end up carrying out [this project](https://medium
 ---
 
 [Subscribe](https://metadata.substack.com/)
+
 [View past favorites in the bookmarks](https://pdtenpas.github.io/)
+
 [Newsletters / Blogs / Podcasts I follow]((https://pdtenpas.github.io/pages/newsletter/sources/)
+
 [How I Write This Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
