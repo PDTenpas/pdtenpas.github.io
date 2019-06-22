@@ -27,7 +27,7 @@ subtitle: Metadata Newsletter - Issue 2
 
 [**edaviz**](https://github.com/tkrabel/edaviz) \| [**Data Elixir**](https://dataelixir.com/)
 
-- **TL;DR:** A nice looking python package for helping take the tedium out of exploring dataframes in jupyter; Currently under development.
+- **TL;DR:** A nice looking python package for helping take the tedium out of exploring dataframes in jupyter; currently under development.
 
 ---
 
