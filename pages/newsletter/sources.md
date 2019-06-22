@@ -15,9 +15,11 @@ title: Newsletter Sources
 
 [**Data is Plural**](https://tinyletter.com/data-is-plural): A weekly newsletter of useful/curious datasets.
 
-[**Data Eng Weekly**](https://dataengweekly.com/): Data Eng Weekly covers the week's top news in the data engineering ecosystem
+[**Data Eng Weekly**](https://dataengweekly.com/): Data Eng Weekly covers the week's top news in the data engineering ecosystem.
 
-[**NYC Data**](https://tinyletter.com/nycdatajobs): A weekly listing of new data positions, events, and conferences from New York City
+[**Software Weekly**](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b): Weekly news about technical software topics.
+
+[**NYC Data**](https://tinyletter.com/nycdatajobs): A weekly listing of new data positions, events, and conferences from New York City.
 
 [**Data Science Weekly**](https://www.datascienceweekly.org/): A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 
@@ -61,7 +63,7 @@ title: Newsletter Sources
 
 [**O'Reilly Data Podcast**](https://www.oreilly.com/topics/oreilly-data-show-podcast): The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data, data science, and AI.
 
-[**DataFramed**](https://www.datacamp.com/community/podcast): What exactly is Data Science? In the podcast by DataCamp, Hugo Bowne-Anderson approaches this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best
+[**DataFramed**](https://www.datacamp.com/community/podcast): What exactly is Data Science? In the podcast by DataCamp, Hugo Bowne-Anderson approaches this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best.
 
 ## Selected Blogs
 
@@ -87,7 +89,7 @@ title: Newsletter Sources
 
 [**Stratechery**](https://stratechery.com/): Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society.
 
-[**Exponential View**](https://www.exponentialview.co/): Get smarter about AI & the near future with Azeem Azhar’s Exponential View
+[**Exponential View**](https://www.exponentialview.co/): Get smarter about AI & the near future with Azeem Azhar’s Exponential View.
 
 [**Machine Learnings**](http://subscribe.machinelearnings.co): Understand how AI will change your work and life.
 
@@ -101,7 +103,7 @@ title: Newsletter Sources
 
 [**Snippets 2.0**](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
 
-[**No Mercy / No Malice**](https://www.l2inc.com/archive?blog-types=nmnm): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
+[**No Mercy / No Malice**](https://www.profgalloway.com/): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
 
 [**Ark-Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
 
