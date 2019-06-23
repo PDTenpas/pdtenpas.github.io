@@ -24,12 +24,6 @@ title: Parker Tenpas
 # List of links in the navigation bar
 navbar-links:
   home: "https://pdtenpas.github.io"
-  newsletter:
-    - subscribe: "https://metadata.substack.com/"
-    - about: "https://metadata.substack.com/about/"
-    - archive: "pages/newsletter/archive"
-    - sources: "pages/newsletter/sources"
-    - how I read newsletters: "pages/newsletter/read_newsletters"
   bookmarks:
     - platforms and products: "pages/bookmarks/platforms_products"
     - analysis and experiments: "pages/bookmarks/analysis_experiments"
@@ -37,6 +31,12 @@ navbar-links:
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
     - tools: "pages/bookmarks/tools"
     - misc: "pages/bookmarks/misc"
+  newsletter:
+    - subscribe: "https://metadata.substack.com/"
+    - about: "https://metadata.substack.com/about/"
+    - archive: "pages/newsletter/archive"
+    - sources: "pages/newsletter/sources"
+    - how I read newsletters: "pages/newsletter/read_newsletters"
   podcast: "pages/podcast"
   about: "pages/about"
 
