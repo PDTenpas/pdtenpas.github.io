@@ -42,6 +42,10 @@ Framing, Cleaning, Approaches
 
 [**The Power User Curve: The best way to understand your most engaged users**](https://andrewchen.co/power-user-curve/)
 
+[**Forecasting at scale**](https://peerj.com/preprints/3190/)
+
+[**Inferring causal impact using Bayesian structural time-series models**](https://ai.google/research/pubs/pub41854)
+
 [**The 10 Statistical Techniques Data Scientists Need to Master**](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 
 [**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
