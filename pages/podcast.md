@@ -2,7 +2,7 @@
 layout: page
 ---
 
-[![View Dist]({{ site.url }}/img/lm_header.png)]({{ site.url }}/img/lm_header.png)
+[![View Dist]({{ site.url }}/img/lm_header.png)](https://local-maxima.com/)
 
 [Local Maxima](https://local-maxima.com/) is a casual conversation podcast hosted by me and good friend [Ryan Kladar](https://twitter.com/RKladar) that probably takes itself too seriously but life is effort and we'll stop when we die.
 
