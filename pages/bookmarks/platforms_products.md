@@ -34,6 +34,8 @@ Framing and Approaches
 
 ## Selected Approaches
 
+[**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc)
+
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
 
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
