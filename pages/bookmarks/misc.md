@@ -27,6 +27,8 @@ title: Misc
 
 [**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
 
+[**Ads Don't Work That Way**](https://meltingasphalt.com/ads-dont-work-that-way/)
+
 [**Working with timezones**](https://davecturner.github.io/2018/08/12/working-with-timezones.html)
 
 [**UTC is enough for everyone... right?**](https://zachholman.com/talk/utc-is-enough-for-everyone-right)

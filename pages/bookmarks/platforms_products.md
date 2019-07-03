@@ -36,6 +36,8 @@ Framing and Approaches
 
 [**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc)
 
+[**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
+
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
 
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)

@@ -51,6 +51,8 @@ title: Teams and Orgs
 
 [**Don’t Fuck Up the Culture**](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
 
+[**Choose Boring Technology**](http://boringtechnology.club/)
+
 [**Curiosity-Driven Data Science**](https://hbr.org/2018/11/curiosity-driven-data-science)
 
 [**Ten red flags signaling your analytics program will fail**](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail)
