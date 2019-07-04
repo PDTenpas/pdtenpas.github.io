@@ -21,6 +21,16 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Data Engineering How To**](https://github.com/adilkhash/Data-Engineering-HowTo)
 
+[**DataCamp Community Tutorials**](https://www.datacamp.com/community/tutorials)
+
+[**Real Python Tutorials**](https://realpython.com/)
+
+[**Recommendations for how to get started with front-end development**](https://threader.app/thread/1144173215293591555)
+
+> "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - Joel Grus
+
+[Chris Albon's Technical Notes](https://chrisalbon.com/)
+
 [**An overview of the NLP ecosystem in R**](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
 [**ML Resources**](https://sgfin.github.io/learning-resources/)
@@ -34,10 +44,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**Learning Math for Machine Learning**](https://blog.ycombinator.com/learning-math-for-machine-learning/)
 
 [**100 Days of ML Coding Infographics**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
-[**Recommendations for how to get started with front-end development**](https://threader.app/thread/1144173215293591555)
-
-> "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - Joel Grus
 
 ---
 
@@ -69,19 +75,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)**](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 
-[**Role of Underscore (\_) in Python**](https://www.datacamp.com/community/tutorials/role-underscore-python)
-
-[**Introduction to the Python Calendar Module**](https://stackabuse.com/introduction-to-the-python-calendar-module/)
-
 [**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/)
-
-[**Usage of Asterisks in Python**](https://www.datacamp.com/community/tutorials/usage-asterisks-python)
-
-[**How to Implement a Python Stack**](https://realpython.com/how-to-implement-python-stack/)
-
-[**panda's Styling Documentation**](http://pandas.pydata.org/pandas-docs/stable/user_guide/style.html)
-
-- A less well-known, but super handy feature for EDA.
 
 [**A Visual Intro to NumPy and Data Representation**](https://jalammar.github.io/visual-numpy/)
 
