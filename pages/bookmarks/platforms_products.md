@@ -96,3 +96,5 @@ Framing and Approaches
 [**Scalable approach to building Time Series forecasting Pipelines**](https://towardsdatascience.com/scalable-approach-to-building-time-series-forecasting-pipelines-eadfd75b15ff)
 
 [**How to deliver on Machine Learning projects: A guide to the ML Engineering Loop**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
+
+[**Material Design Data Visualization Principles**](https://material.io/design/communication/data-visualization.html#principles)
