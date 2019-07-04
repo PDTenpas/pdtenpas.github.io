@@ -9,7 +9,7 @@ title: Newsletter Archive
 
 [**Issue 3 - Cortical Homunculi**](https://pdtenpas.github.io/2019-07-04-metadata-issue-3/)
 
-[![homunculus]({{ site.url }}/img/homunculus.png)](https://pdtenpas.github.io/2019-07-04-metadata-issue-3/)
+[![homunculus]({{ site.url }}/img/brain.png)](https://pdtenpas.github.io/2019-07-04-metadata-issue-3/)
 
 [**Issue 2 - The Honorable Robber**](https://pdtenpas.github.io/2019-06-22-metadata-issue-2/)
 
