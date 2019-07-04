@@ -95,7 +95,7 @@ subtitle: Metadata Newsletter - Issue 3
 
 ---
 
-# Cortical Homunculi
+# The Cortex Man
 
 ![Brain]({{ site.url }}/img/brain.png)
 
