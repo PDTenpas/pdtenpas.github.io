@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cortical Homunculi
+title: The Cortex Man
 subtitle: Metadata Newsletter - Issue 3
 ---
 
