@@ -109,7 +109,9 @@ So, depending on what function we're talking about, you're mostly just a pair of
 
 It's interesting to think of analogies to this in the code or databases behind apps and websites. Which parts of the front-end have disproportionate monitoring? Which have the most fine-grained data collection, test coverage, or logging? Do those proportions align with what's actually important to the function of the system? Put another way, what is the back-end's perception of the front?
 
-Like the homunculus, it could be useful to visualize this distortion and it could even help guide improvements. I'm imagining a view of all of a website's pages at once where each is distorted by a metric related to its relative instrumentation. I would not expect any part of the system to be completely unmonitored or all parts to be monitored equally. Take ecommerce as an example. I'd expect the checkout experience to be like the hands of the homunculus pictured above, over instrumented to pick up every nuance, while other pages are much more barebones. I.e. something has gone horribly wrong if your homunculus has a floating arm and massive calves.
+Like the homunculus, it could be useful to visualize this distortion and it could even help guide improvements. I'm imagining a view of all of a website's pages at once where each is distorted by a metric related to its relative instrumentation. Take ecommerce as an example. I'd expect the checkout experience to be like the hands of the homunculus pictured above, over instrumented to pick up every nuance, while other pages are much more barebones.
+
+I'd imagine this could be extended to an entire company or any system for that matter. The questions are the same: what is being monitored, how robustly is it monitored, what does that say about what is actually valued, and do those values align with the goals and priorities of the system? Regardless of the system, I would not expect all parts to be monitored equally or any parts to be completely unmonitored, i.e. something has gone horribly wrong if your homunculus looks like a bodybuilder or a floating arm with massive calves.
 
 ---
 
