@@ -99,7 +99,7 @@ subtitle: Metadata Newsletter - Issue 3
 
 > "A cortical homunculus, or 'cortex man', illustrates the concept of a representation of the body lying within the brain." - [Wikipedia](https://en.wikipedia.org/wiki/Cortical_homunculus)
 
-It turns out that the regions of the brain that control or sense body parts aren't proportionate with those parts. To detect this, experimenters do things like measure the [minimal perceptible distance between two points](https://en.wikipedia.org/wiki/Two-point_discrimination) across the body or watch brain the light up in an FMRI during motor tasks. These measurements can then be used to help visualize the difference in proportions by creating a cortical homunculus— a distorted mapping of the body according to its relative instrumentation in the brain.
+It turns out that the regions of the brain that control or sense body parts aren't proportionate with those parts. To detect this, experimenters do things like measure the [minimal perceptible distance between two points](https://en.wikipedia.org/wiki/Two-point_discrimination) across the body or watch brain the light up in an FMRI during motor tasks. These measurements can then be used to help visualize the difference in proportions by creating a cortical homunculus or cortex man— a distorted mapping of the body according to its relative instrumentation in the brain.
 
 ![homunculus]({{ site.url }}/img/homunculus.png){: .center-block :}
 
@@ -109,7 +109,7 @@ So, depending on what function we're talking about, you're mostly just a pair of
 
 It's interesting to think of analogies to this in the code or databases behind apps and websites. Which parts of the front-end have disproportionate monitoring? Which have the most fine-grained data collection, test coverage, or logging? Do those proportions align with what's actually important to the function of the system? Put another way, what is the back-end's perception of the front?
 
-Like the homunculus, it could be useful to visualize this distortion and it could even help guide improvements. I'm imagining a view of all of a website's pages at once where each is distorted by a metric related to its relative instrumentation. Take ecommerce as an example. I'd expect the checkout experience to be like the hands of the homunculus pictured above, over instrumented to pick up every nuance, while other pages are much more barebones. I would not expect any part of the system to be completely unmonitored or all parts to be monitored equally. I.e. something has gone horribly wrong if your homunculus has a floating limb and otherwise looks like a bodybuilder that's skipping leg day.
+Like the homunculus, it could be useful to visualize this distortion and it could even help guide improvements. I'm imagining a view of all of a website's pages at once where each is distorted by a metric related to its relative instrumentation. I would not expect any part of the system to be completely unmonitored or all parts to be monitored equally. Take ecommerce as an example. I'd expect the checkout experience to be like the hands of the homunculus pictured above, over instrumented to pick up every nuance, while other pages are much more barebones. I.e. something has gone horribly wrong if your homunculus has a floating limb and otherwise looks like a bodybuilder skipping leg day.
 
 ---
 
