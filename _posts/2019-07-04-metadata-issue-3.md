@@ -6,7 +6,7 @@ subtitle: Metadata Newsletter - Issue 3
 
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)
 
-**Content \\| Source**
+**Content \| Source**
 
 - **TL;DR:** Summary.
 - My thoughts.
@@ -58,8 +58,6 @@ subtitle: Metadata Newsletter - Issue 3
 > Birdsong researchers are among the hottest hires in a wide range of AI fields.
 
 - **TL;DR:** The tough problems in animal research actually have a lot in common with those facing ML research; big tech has noticed and is poaching talent.
-
-- I.e. "Hey, this is wrong but he's the President."
 
 [**Testifying at the Senate about A.I.-Selected Content on the Internet**](https://blog.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/) \| [**Benedict's Newsletter**](https://www.ben-evans.com/newsletter)
 
