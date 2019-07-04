@@ -9,6 +9,8 @@ title: Jobs, Careers, Life
 
 [**Red Flags in Data Science Interviews**](https://hookedondata.org/red-flags-in-data-science-interviews/)
 
+[**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
+
 [**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
@@ -47,6 +49,8 @@ Cheesy titles on some of these but the content is good.
 > So I wish to you—I have no more time, so I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity.  May you have that freedom.
 
 [**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/2013/02/the-psychology-of-human-misjudgement/)
+
+[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
 
 [**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 

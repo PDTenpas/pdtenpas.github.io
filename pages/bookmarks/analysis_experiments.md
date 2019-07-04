@@ -62,6 +62,8 @@ Framing, Approaches, Significance Pitfalls
 
 ## Framing
 
+[**Common statistical tests are linear models (or: how to teach stats)**](https://lindeloev.github.io/tests-as-linear/)
+
 [**North Star or sign post metrics: which should one optimize?**](https://medium.com/@leapingllamas/north-star-or-sign-post-metrics-which-should-one-optimize-24bcc9c05bfb)
 
 [**How Not To Run an A/B Test**](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
