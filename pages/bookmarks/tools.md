@@ -35,6 +35,10 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**100 Days of ML Coding Infographics**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
+[**Recommendations for how to get started with front-end development**](https://threader.app/thread/1144173215293591555)
+
+> "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - Joel Grus
+
 ---
 
 ## Style Guides
@@ -78,6 +82,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**panda's Styling Documentation**](http://pandas.pydata.org/pandas-docs/stable/user_guide/style.html)
 
 - A less well-known, but super handy feature for EDA.
+
+[**A Visual Intro to NumPy and Data Representation**](https://jalammar.github.io/visual-numpy/)
 
 ## jupyter
 

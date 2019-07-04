@@ -44,6 +44,8 @@ Framing, Cleaning, Approaches
 
 [**Forecasting at scale**](https://peerj.com/preprints/3190/)
 
+[**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/)
+
 [**Inferring causal impact using Bayesian structural time-series models**](https://ai.google/research/pubs/pub41854)
 
 [**The 10 Statistical Techniques Data Scientists Need to Master**](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)

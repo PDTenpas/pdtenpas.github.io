@@ -29,6 +29,8 @@ title: Misc
 
 [**Ads Don't Work That Way**](https://meltingasphalt.com/ads-dont-work-that-way/)
 
+> Cultural imprinting is the mechanism whereby an ad, rather than trying to change our minds individually, instead changes the landscape of cultural meanings — which in turn changes how we are perceived by others when we use a product.
+
 [**Working with timezones**](https://davecturner.github.io/2018/08/12/working-with-timezones.html)
 
 [**UTC is enough for everyone... right?**](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
