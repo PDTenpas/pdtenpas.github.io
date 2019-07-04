@@ -61,6 +61,8 @@ title: Teams and Orgs
 
 > If you are in the data business – my bread, butter and tofu – you often carry the burden of being the bearer of bad news.
 
+[**The Tool that Will Help You Choose Better Product Ideas**](https://medium.com/@itamargilad/finding-winning-ideas-using-the-confidence-tool-d8f2d8cc2c15)
+
 [**How startups die from their addiction to paid marketing**](https://andrewchen.co/paid-marketing-addiction/)
 
 [**You Don't Know Your Customer Acquisition Cost**](https://blog.usejournal.com/you-dont-know-your-customer-acquisition-cost-f7bf820f9d4a)
