@@ -6,7 +6,7 @@ subtitle: Metadata Newsletter - Issue 3
 
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)
 
-**Content \| Source**
+**Content \\| Source**
 
 - **TL;DR:** Summary.
 - My thoughts.
@@ -17,17 +17,17 @@ subtitle: Metadata Newsletter - Issue 3
 
 # Tools
 
-[**Introducing kepler.gl for Jupyter**](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf) | [**Data Elixir**](https://dataelixir.com/)
+[**Introducing kepler.gl for Jupyter**](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf) \| [**Data Elixir**](https://dataelixir.com/)
 
 - **TL;DR:** Uber's geospatial data viz tool now supports Jupyter.
 
-[**Open-sourcing PyRobot to accelerate AI robotics research**](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/) | [**Data Science Community Newsletter**](https://cds.nyu.edu/newsletter/)
+[**Open-sourcing PyRobot to accelerate AI robotics research**](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/) \| [**Data Science Community Newsletter**](https://cds.nyu.edu/newsletter/)
 
 - **TL;DR:** Facebook has released PyRobot, a simple python interface for robotics work.
 
 - More side projects with robots, please.
 
-[**Recommendations for how to get started with front-end development**](https://threader.app/thread/1144173215293591555) | [**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter)
+[**Recommendations for how to get started with front-end development**](https://threader.app/thread/1144173215293591555) \| [**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter)
 
 > "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - [Joel Grus](https://twitter.com/joelgrus)
 
@@ -35,15 +35,15 @@ subtitle: Metadata Newsletter - Issue 3
 
 # Approaches
 
-[**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc) | [**@seanjtaylor**](https://twitter.com/seanjtaylor) - Decision Science Products at Lyft
+[**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc) \| [**@seanjtaylor**](https://twitter.com/seanjtaylor) - Decision Science Products at Lyft
 
 - **TL;DR:** Lyft has automated a substantial amount of marketing work with an end-to-end system that handles LTV forecasting, budget allocation, and bidding, yet still leaves marketers in the loop where it counts.
 
-[**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/) | [**O'Reilly Data Newsletter**](https://www.oreilly.com/data/newsletter.html)
+[**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/) \| [**O'Reilly Data Newsletter**](https://www.oreilly.com/data/newsletter.html)
 
 - Uber has gone hardcore into causal inference judging by their recent blog posts. This is so different from the magic machine learning dust so many other companies are sprinkling that it's worth keeping an eye on.
 
-[**How Superhuman Built an Engine to Find Product/Market Fit**](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/) | [**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter)
+[**How Superhuman Built an Engine to Find Product/Market Fit**](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/) \| [**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter)
 
 > Just ask users “how would you feel if you could no longer use the product?” and measure the percent who answer “very disappointed.”
 
@@ -53,7 +53,7 @@ subtitle: Metadata Newsletter - Issue 3
 
 # Industry
 
-[**Apple, Google, and Facebook Are Raiding Animal Research Labs**](https://www.bloomberg.com/news/features/2019-06-18/apple-google-and-facebook-are-raiding-animal-research-labs) | [**Benedict's Newsletter**](https://www.ben-evans.com/newsletter)
+[**Apple, Google, and Facebook Are Raiding Animal Research Labs**](https://www.bloomberg.com/news/features/2019-06-18/apple-google-and-facebook-are-raiding-animal-research-labs) \| [**Benedict's Newsletter**](https://www.ben-evans.com/newsletter)
 
 > Birdsong researchers are among the hottest hires in a wide range of AI fields.
 
@@ -61,11 +61,11 @@ subtitle: Metadata Newsletter - Issue 3
 
 - I.e. "Hey, this is wrong but he's the President."
 
-[**Testifying at the Senate about A.I.-Selected Content on the Internet**](https://blog.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/) | [**Benedict's Newsletter**](https://www.ben-evans.com/newsletter)
+[**Testifying at the Senate about A.I.-Selected Content on the Internet**](https://blog.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/) \| [**Benedict's Newsletter**](https://www.ben-evans.com/newsletter)
 
 - Stephen Wolfram spent some time thinking and writing about the problems of "A.I. Selected Content," i.e. Facebook / Twitter / Youtube, as well as potential solutions. Stephen is an interesting writer and rarely covers things this current.
 
-[**Top AI researchers race to detect ‘deepfake’ videos**](https://www.washingtonpost.com/technology/2019/06/12/top-ai-researchers-race-detect-deepfake-videos-we-are-outgunned/) | [**Data Science Community Newsletter**](https://cds.nyu.edu/newsletter/)
+[**Top AI researchers race to detect ‘deepfake’ videos**](https://www.washingtonpost.com/technology/2019/06/12/top-ai-researchers-race-detect-deepfake-videos-we-are-outgunned/) \| [**Data Science Community Newsletter**](https://cds.nyu.edu/newsletter/)
 
 > We are outgunned... Farid said, "The number of people working on the video-synthesis side, as opposed to the detector side, is 100 to 1." This is sociological warfare. We haven't even figured out that we should attempt to put up a fight.
 
@@ -79,17 +79,17 @@ subtitle: Metadata Newsletter - Issue 3
 
 # Old but more relevant than ever
 
-[**Ads Don't Work That Way**](https://meltingasphalt.com/ads-dont-work-that-way/) | [**How It Actually Works**](https://www.howitactuallyworks.com/)
+[**Ads Don't Work That Way**](https://meltingasphalt.com/ads-dont-work-that-way/) \| [**How It Actually Works**](https://www.howitactuallyworks.com/)
 
 > Cultural imprinting is the mechanism whereby an ad, rather than trying to change our minds individually, instead changes the landscape of cultural meanings — which in turn changes how we are perceived by others when we use a product.
 
 - This may change some of your beliefs on how ads work.
 
-[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms) | [**How It Actually Works**](https://www.howitactuallyworks.com/)
+[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms) \| [**How It Actually Works**](https://www.howitactuallyworks.com/)
 
 > Once you understand the job that needs to be done, improvements become obvious.
 
-[**Choose Boring Technology**](http://boringtechnology.club/) | [**Data Science Roundup**](http://roundup.fishtownanalytics.com/)
+[**Choose Boring Technology**](http://boringtechnology.club/) \| [**Data Science Roundup**](http://roundup.fishtownanalytics.com/)
 
 - A needed reminder as the data science bubble grows on. This recently [re-surfaced on Hacker News](https://news.ycombinator.com/item?id=20323246) as well and there was some good discussion.
 
