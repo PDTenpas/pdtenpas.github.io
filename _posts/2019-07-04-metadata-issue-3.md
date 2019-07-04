@@ -105,7 +105,7 @@ It turns out that the regions of the brain that control or sense body parts aren
 
 ![homunculus]({{ site.url }}/img/homunculus.png){: .center-block :}
 
-<center><a href="https://www.google.com/search?q=cortical+homunculus&tbm=isch">More Homunculi</a></center>
+<center><i><a href="https://www.google.com/search?q=cortical+homunculus&tbm=isch">More Homunculi</a></i></center>
 
 So, depending on what function we're talking about, you're mostly just a pair of hands and a face as far as your brain's perception is concerned. Every nuance in those parts is picked up as compared to your legs or back where things are much more conservative and the data more coarse.
 
