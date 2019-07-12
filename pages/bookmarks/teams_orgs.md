@@ -63,6 +63,8 @@ title: Teams and Orgs
 
 > If you are in the data business – my bread, butter and tofu – you often carry the burden of being the bearer of bad news.
 
+[**Lessons from Keith Rabois Essay 3: How to be an Effective Executive**](https://delian.io/lessons-3)
+
 [**The Tool that Will Help You Choose Better Product Ideas**](https://medium.com/@itamargilad/finding-winning-ideas-using-the-confidence-tool-d8f2d8cc2c15)
 
 [**How startups die from their addiction to paid marketing**](https://andrewchen.co/paid-marketing-addiction/)
