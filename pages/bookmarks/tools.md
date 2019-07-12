@@ -29,7 +29,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 > "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - Joel Grus
 
-[Chris Albon's Technical Notes](https://chrisalbon.com/)
+[**Chris Albon's Technical Notes**](https://chrisalbon.com/)
 
 [**An overview of the NLP ecosystem in R**](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
