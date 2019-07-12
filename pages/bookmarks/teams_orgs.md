@@ -19,6 +19,8 @@ title: Teams and Orgs
 
 > Most companies suck at disseminating factual knowledge. Yours probably does too.
 
+[**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
+
 [**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/):
 
 [**What Skeptics Get Wrong About Full-Stack Engineers—And Why We Need Them**](https://angel.co/blog/what-skeptics-get-wrong-about-full-stack-engineers-and-why-we-need-them)

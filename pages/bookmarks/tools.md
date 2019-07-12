@@ -85,6 +85,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Reproducible Data Analysis in Jupyter**](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
+[**Jupyter Docker Stacks**](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
+
 [**Joel Grus' I Don't Like Notebooks Slides**](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
 
 ## Data Build Tool (DBT)

@@ -13,6 +13,8 @@ title: Jobs, Careers, Life
 
 [**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
+[**Salary Negotiation: Make More Money, Be More Valued**](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
 
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
