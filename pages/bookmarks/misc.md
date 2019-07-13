@@ -47,6 +47,8 @@ title: Misc
 
 - I.e. how to keep up with a field/industry. Check out my version of this [**here**](https://pdtenpas.github.io/pages/newsletter/read_newsletters/).
 
+[**The Age of the Essay**](http://paulgraham.com/essay.html?ck_subscriber_id=489909620)
+
 ---
 
 # Finding Things
