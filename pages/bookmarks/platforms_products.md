@@ -22,6 +22,8 @@ Framing and Approaches
 
 > I’ve found it useful to push as much as you can out of the backend into the data platform.
 
+[**Functional Data Engineering — a modern paradigm for batch data processing**](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+
 [**A Beginner’s Guide to Data Engineering**](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 
 [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
