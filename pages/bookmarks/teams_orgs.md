@@ -11,9 +11,7 @@ title: Teams and Orgs
 
 - tl;dr: Design thinking, workflows, human relationships, statistical methods, stories
 
-[**The Ten Fallacies of Data Science**](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
-
-> There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
+[**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
 [**Scaling Knowledge**](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)
 
@@ -22,6 +20,10 @@ title: Teams and Orgs
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
 [**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/):
+
+[**The Ten Fallacies of Data Science**](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
+
+> There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
 
 [**What Skeptics Get Wrong About Full-Stack Engineers—And Why We Need Them**](https://angel.co/blog/what-skeptics-get-wrong-about-full-stack-engineers-and-why-we-need-them)
 
