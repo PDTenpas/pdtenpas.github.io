@@ -65,7 +65,7 @@ My top reads from the past few weeks...
 
 # Society
 
-[Deep Adaption: A Map for Navigating Climate Tragedy](http://www.lifeworth.com/deepadaptation.pdf) \| [**A VC**](https://avc.com/subscribe/)
+[**Deep Adaption: A Map for Navigating Climate Tragedy**](http://www.lifeworth.com/deepadaptation.pdf) \| [**A VC**](https://avc.com/subscribe/)
 
 > The purpose of this conceptual paper is to provide readers with an opportunity to reassess their work and life in the face of an inevitable near-term social collapse due to climate change.
 
