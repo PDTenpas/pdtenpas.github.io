@@ -48,7 +48,7 @@ My top reads from the past few weeks...
 
 # Organizations
 
-[**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup) \| [**Twitter**](https://twitter.com/dhh)
+[**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup) \| [**@DHH**](https://twitter.com/dhh)
 
 - Basecamp co-founders [David Heinemeier Hansson](https://twitter.com/dhh) and [Jason Fried](https://twitter.com/jasonfried) have been really active in challenging modern work culture with books like [Remote: Office Not Required](https://www.amazon.com/gp/product/0804137501/ref=dbs_a_def_rwt_bibl_vppi_i2) and [It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0062874780/ref=dbs_a_def_rwt_bibl_vppi_i1). Their latest work, Shape Up, covers their product development process for shipping software while keeping things calm and orderly.
 
@@ -56,7 +56,7 @@ My top reads from the past few weeks...
 
 # Industry
 
-[**The Portal Podcast: Peter Thiel**](https://podcasts.apple.com/us/podcast/peter-thiel/id1469999563?i=1000444670908) \| [Twitter](**https://twitter.com/PDTenpas**)
+[**The Portal Podcast: Peter Thiel**](https://podcasts.apple.com/us/podcast/peter-thiel/id1469999563?i=1000444670908) \| [**@EricRWeinstein**](https://twitter.com/EricRWeinstein)
 
 - Thiel rarely makes podcast appearances and it's interesting to see where his head is at two years into Trump--- he was a big supporter in 2016 but has been fairly under the radar since.
 - Speaking of Thiel, he made some wild claims this past week that Google has been infiltrated by the Chinese government: [Check it out](https://www.axios.com/peter-thiel-says-fbi-cia-should-probe-google-9846a042-e689-49bc-bdc7-595988ce5d8c.html).
@@ -93,7 +93,7 @@ A few months after noticing this we had a particularly grueling day and they rep
 
 "That. We had an insane day. It's like midnight on a Tuesday. They were all fried too and they left laughing."
 
-"Oh, whenever I walk into a room, when I come through that door I think 'what do the people in here need from me? How can I help make this the best possible experience for everyone?''"
+"Oh, whenever I walk into a room, when I come through that door I think 'What do the people in here need from me? What's the ideal outcome? How can I help get us there and help make the experience a good one?'"
 
 That was it and I went home and here I am still thinking about it many years later.
 
