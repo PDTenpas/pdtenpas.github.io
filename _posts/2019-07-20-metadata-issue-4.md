@@ -1,7 +1,7 @@
 ---
 layout: page
-title: [Write-up Title]
-subtitle: Metadata Newsletter - Issue [#]
+title: The Conference Room Dementors
+subtitle: Metadata Newsletter - Issue 4
 ---
 
 ![MetaData Banner]({{ site.url }}/img/metadata_banner.png)
