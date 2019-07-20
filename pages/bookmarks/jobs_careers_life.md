@@ -28,6 +28,8 @@ Cheesy titles on some of these but the content is good.
 
 -  tl;dr: titles and roles are *very* muddy in the data world, title inflation is abundant. Just do the work.
 
+[**Data Carpentry**](http://www.mimno.org/articles/carpentry/)
+
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
 
 [**How to Build a Data Science Portfolio**](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
