@@ -79,7 +79,7 @@ My top reads from the past few weeks...
 
 > "Dementors are among the foulest creatures that walk this earth. They infest the darkest, filthiest places, they glory in decay and despair, they drain peace, hope, and happiness out of the air around them... Get too near a Dementor and every good feeling, every happy memory will be sucked out of you. If it can, the Dementor will feed on you long enough to reduce you to something like itself... soulless and evil. You will be left with nothing but the worst experiences of your life." — Remus Lupin's description of dementors in the Harry Potter series
 
-I've been lucky to have many mentors. Some were awe-inspiring and other not so much, but in hindsight each imparted something that I later became grateful for. One in particular was extraordinarily busy and always overwhelmed. I detested the traits that came with this: high-pressure, anxiety, and burnout. However this mentor had a sort of superpower.
+I've been lucky to have many mentors. Some were awe-inspiring and others not so much, but in hindsight each imparted something that I later became grateful for. One in particular was extraordinarily busy and always overwhelmed. I detested the traits that came with this: high-pressure, anxiety, and burnout. However this person had a sort of superpower.
 
 We would be in the most stressful situation for hours then abruptly halt to attend something like a meeting. As soon as they entered their entire demeanor would shift. They would become centered, patient, and insightful. Further, they were never a bystander. If need be they could swiftly grab the wheel and shift the room's tone and direction to avoid derailment. People left energized and inspired.
 
@@ -104,6 +104,10 @@ Once you notice this it becomes clear that most people fall into one of a few ca
 There's a third type with a different sort of superpower: they drain energy from a room. They're like dementors. Pay close enough attention and when they enter you can feel a cold draft follow. They're engaged but often lose sight of the big picture, love to throw wrenches, avoid nuance, and otherwise create confusion. These behaviors make solutions feel more distant, not less, and leave others feeling overwhelmed. It's not intentional; it's just somehow become their default. If enough people aren't willing to engage and overpower them they can deadlock a whole room, project, or team.
 
 So, engage, seek clarity, help make things better, and find others who do the same. I was burned a bit by the person that taught me this but when I enter a room I often take a deep breath, clear my head, and briefly think about what the best possible outcome could be. For that, I am grateful.
+
+Related Reading:
+
+- [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
 
 ---
 
