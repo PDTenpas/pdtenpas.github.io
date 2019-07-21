@@ -34,7 +34,7 @@ My top reads from the past few weeks...
 
 # Teams
 
-[**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55) \| [**Justin Gage**](https://twitter.com/itunpredictable)
+[**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55) \| [**@itunpredictable**](https://twitter.com/itunpredictable)
 
 - **TL;DR:** This is a great write-up on the difference between product-oriented and service-oriented data teams. It makes the case that teams 1) must start as product-oriented and deliver before carefully navigating the shift to service-oriented, and 2) the difference between the two styles is critical for hiring decisions. Its got some good quips too.
 
