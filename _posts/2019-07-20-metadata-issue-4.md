@@ -93,7 +93,7 @@ A few months after noticing this we had a particularly grueling day and they rep
 
 "That. We had an insane day. It's like midnight on a Tuesday. They were all fried too and they left laughing."
 
-"Oh, whenever I walk into a room, when I come through that door I think 'What do the people in here need from me? What's the ideal outcome? How can I help get us there and help make the experience a good one?'"
+"Oh, whenever I walk into a room, when I come through that door I think 'What do the people in here need from me? What's the ideal outcome? How can I help get us there and make the experience a good one?'"
 
 That was it and I went home and here I am still thinking about it many years later.
 
