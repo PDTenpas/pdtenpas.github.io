@@ -83,6 +83,8 @@ I try to limit these but I'm sharing a few things that have particularly influen
 
 [**Inadequate Equilibria: Where and How Civilizations Get Stuck**](https://www.amazon.com/Inadequate-Equilibria-Where-Civilizations-Stuck-ebook/dp/B076Z64CPG)
 
+> When should you think that you may be able to do something unusually well?
+
 > So far, every time I've asked you why someone is acting insane, you've claimed that it's secretly a sane response to someone else acting insane.
 
 [**Kitchen Confidential**](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220)
