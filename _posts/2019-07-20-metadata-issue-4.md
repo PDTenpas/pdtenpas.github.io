@@ -95,7 +95,7 @@ A few months after noticing this we had a particularly grueling day and they rep
 
 "Oh, whenever I walk into a room, when I come through that door I think 'What do the people in here need from me? What's the ideal outcome? How can I help get us there and make the experience a good one?'"
 
-That was it and I went home and here I am still thinking about it many years later.
+That was it. I went home and here I am still thinking about it many years later.
 
 Whatever room you enter next the people in that room have no idea what's on your mind. It doesn't matter; don't burden them with it. Your goal is to empathize, make things better if you can, and certainly help avoid things getting any worse. You don't have to dominate or be the boss to do this. You just have to remember the goal, pay attention, and engage.
 
