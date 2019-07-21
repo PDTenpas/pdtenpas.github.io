@@ -39,7 +39,7 @@ Open each source and read every title. Open titles that interest you in new tabs
 
 A rough guideline on how much to read:
 - **100%** - Read the title
-- **10-20%** - Skim the article/docs or sample the first ~5 mins of the podcast/video
+- **10-20%** - Skim the article/docs or sample the ~5 mins of the podcast/video
 - **1-5%** - Read/listen/watch the entire article/podcast/video
 - **<1%** - Save for future reference
 
