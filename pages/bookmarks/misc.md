@@ -57,8 +57,6 @@ title: Misc
 
 [**Arxiv Sanity Preserver**](http://arxiv-sanity.com)
 
-[**My List of Data/Tech News Sources**](https://pdtenpas.github.io/pages/newsletter/sources/)
-
 ---
 
 # History
