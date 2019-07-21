@@ -96,6 +96,7 @@ I try to limit these but I'm sharing a few things that have particularly influen
 [**Making Sense Podcast**](https://samharris.org/podcast/)
 
 - Particularly the first 100 episodes or so.
+
 > All you have to offer others is your mind in each moment.
 
 [**Hello Internet**](http://www.hellointernet.fm/)
