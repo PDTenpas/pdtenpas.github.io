@@ -25,17 +25,19 @@ title: Parker Tenpas
 navbar-links:
   home: "https://pdtenpas.github.io"
   bookmarks:
+    - tools: "pages/bookmarks/tools"
     - platforms and products: "pages/bookmarks/platforms_products"
     - analysis and experiments: "pages/bookmarks/analysis_experiments"
     - teams and orgs: "pages/bookmarks/teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
-    - tools: "pages/bookmarks/tools"
+    - news sources: "pages/newsletter/sources"
     - misc: "pages/bookmarks/misc"
+
   newsletter:
     - subscribe: "https://metadata.substack.com/"
     - about: "https://metadata.substack.com/about/"
     - archive: "pages/newsletter/archive"
-    - sources: "pages/newsletter/sources"
+    - news sources: "pages/newsletter/sources"
     - how I read newsletters: "pages/newsletter/read_newsletters"
   podcast: "pages/podcast"
   about: "pages/about"

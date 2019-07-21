@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newsletter Sources
+title: News Sources
 ---
 
 ---
