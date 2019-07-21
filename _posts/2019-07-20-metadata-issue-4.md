@@ -101,9 +101,9 @@ Whatever room you enter next the people in that room have no idea what's on your
 
 Once you notice this it becomes clear that most people fall into one of a few camps. Some share this higher goal. Finding and aligning yourself with these people is a good strategy if you actually want to get things done and do so happily. Most are ambivalent or unintentional. They drift in and out aimlessly. If the situation degrades they are quick to reach for their phone or otherwise disengage. They don't actively make things worse but they can't be depended on to make things better.
 
-There's a third type with a different sort of superpower: they drain energy from a room. They're like dementors. Pay close enough attention and when they enter you can feel a cold draft follow. They're engaged but lose sight of the big picture often, charge down rabbit holes, get lost in problems, and otherwise create confusion. This behavior makes solutions feel more distant, not less, and leaves others overwhelmed. It's not intentional; it's just somehow become their default. If enough people aren't willing to engage and overpower them they can deadlock a whole room, project, or team.
+There's a third type with a different sort of superpower: they drain energy from a room. They're like dementors. Pay close enough attention and when they enter you can feel a cold draft follow. They're engaged but often lose sight of the big picture, love to throw wrenches, avoid nuance, and otherwise create confusion. These behaviors make solutions feel more distant, not less, and leave others feeling overwhelmed. It's not intentional; it's just somehow become their default. If enough people aren't willing to engage and overpower them they can deadlock a whole room, project, or team.
 
-So, engage, help make things better, and find others who do the same. I was burned a bit by the person that taught me this but when I enter a room I often take a deep breath, clear my head, and briefly think about what the best possible outcome could be. For that, I am grateful.
+So, engage, seek clarity, help make things better, and find others who do the same. I was burned a bit by the person that taught me this but when I enter a room I often take a deep breath, clear my head, and briefly think about what the best possible outcome could be. For that, I am grateful.
 
 ---
 
