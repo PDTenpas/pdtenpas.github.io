@@ -113,7 +113,7 @@ title: News Sources
 
 [**A VC**](https://avc.com/subscribe/): Fred Wilson muses about VC life.
 
-[**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters)
+[**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters): Receive the latest intelligence on emerging tech from MIT Technology Review, delivered straight to your inbox.
 
 ## Podcasts
 
