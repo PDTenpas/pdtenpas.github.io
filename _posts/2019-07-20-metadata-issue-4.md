@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Conference Room Dementors
+title: The Dementors
 subtitle: Metadata Newsletter - Issue 4
 ---
 
@@ -73,7 +73,7 @@ My top reads from the past few weeks...
 
 ---
 
-# The Conference Room Dementors
+# The Dementors
 
 ![Dementors]({{ site.url }}/img/dementors.png)
 

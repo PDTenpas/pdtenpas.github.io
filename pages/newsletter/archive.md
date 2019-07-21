@@ -7,7 +7,7 @@ title: Newsletter Archive
 
 ---
 
-[**Issue 4 - The Conference Room Dementors**](https://pdtenpas.github.io/2019-07-20-metadata-issue-4/) \| *2019-07-20*
+[**Issue 4 - The Dementors**](https://pdtenpas.github.io/2019-07-20-metadata-issue-4/) \| *2019-07-20*
 
 [![Dementors]({{ site.url }}/img/dementors.png)](https://pdtenpas.github.io/2019-07-20-metadata-issue-4/)
 
