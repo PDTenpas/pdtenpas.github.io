@@ -79,7 +79,7 @@ My top reads from the past few weeks...
 
 > "Dementors are among the foulest creatures that walk this earth. They infest the darkest, filthiest places, they glory in decay and despair, they drain peace, hope, and happiness out of the air around them... Get too near a Dementor and every good feeling, every happy memory will be sucked out of you. If it can, the Dementor will feed on you long enough to reduce you to something like itself... soulless and evil. You will be left with nothing but the worst experiences of your life." — Remus Lupin's description of dementors in the Harry Potter series
 
-I've been lucky to have many mentors. Some were awe-inspiring and other not so much, but in hindsight each imparted something that I later became grateful for. One in particular was extraordinarily busy and always overwhelmed. I detested the traits that came with this: pressure, anxiety, and burnout. However this mentor had a sort of superpower.
+I've been lucky to have many mentors. Some were awe-inspiring and other not so much, but in hindsight each imparted something that I later became grateful for. One in particular was extraordinarily busy and always overwhelmed. I detested the traits that came with this: high-pressure, anxiety, and burnout. However this mentor had a sort of superpower.
 
 We would be in the most stressful situation for hours then abruptly halt to attend something like a meeting. As soon as they entered their entire demeanor would shift. They would become centered, patient, and insightful. Further, they were never a bystander. If need be they could swiftly grab the wheel and shift the room's tone and direction to avoid derailment. People left energized and inspired.
 
