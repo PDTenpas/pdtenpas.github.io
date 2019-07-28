@@ -36,8 +36,6 @@ Framing and Approaches
 
 ## Selected Approaches
 
-[**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc)
-
 [**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
@@ -94,6 +92,10 @@ Framing and Approaches
 [**Understanding Latent Style**](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
 
 [**Learning Market Dynamics for Optimal Pricing**](https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3)
+
+[**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc)
+
+[**Data Science and the Art of Producing Entertainment at Netflix**](https://medium.com/netflix-techblog/studio-production-data-science-646ee2cc21a1)
 
 [**Scalable approach to building Time Series forecasting Pipelines**](https://towardsdatascience.com/scalable-approach-to-building-time-series-forecasting-pipelines-eadfd75b15ff)
 

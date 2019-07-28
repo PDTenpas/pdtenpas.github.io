@@ -19,7 +19,7 @@ title: Teams and Orgs
 
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
-[**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/):
+[**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 
 [**Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function**](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 

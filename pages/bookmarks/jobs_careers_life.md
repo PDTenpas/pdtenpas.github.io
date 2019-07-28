@@ -30,6 +30,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Data Carpentry**](http://www.mimno.org/articles/carpentry/)
 
+> I don’t know as much as I’d like about woodworking, but my impression is that it is not so much a single discipline as a vast array of specific skills. None of these are particularly difficult by themselves, but knowing which tool or method to use at each stage and carrying out each one cleanly and efficiently takes years of practice. Data carpentry, which I’ve been practicing in one way or another for about 15 years (though never as my official responsibility), is likewise not a single process but a thousand little skills and techniques.
+
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
 
 [**How to Build a Data Science Portfolio**](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
@@ -67,7 +69,7 @@ Cheesy titles on some of these but the content is good.
 ---
 
 # Life
-I try to limit these but I'm sharing a few things that have particularly influenced me.
+I limit these but am sharing a few finds that have influenced me.
 
 ## Books
 
@@ -116,6 +118,8 @@ I try to limit these but I'm sharing a few things that have particularly influen
 [**Different Worlds**](https://slatestarcodex.com/2017/10/02/different-worlds/)
 
 [**Your Life in Weeks**](https://waitbutwhy.com/2014/05/life-weeks.html)
+
+[**Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)**](https://fs.blog/mental-models/)
 
 [**Taming the Mammoth: Why You Should Stop Caring What Other People Think**](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 

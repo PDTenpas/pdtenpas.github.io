@@ -35,7 +35,7 @@ title: News Sources
 
 [**Data Machina**](https://datamachina.substack.com/): A weekly digest of machine learning curiosities, data science geekery, and other data amenities.
 
-[**The Analytics Dispatch**](https://mode.com/newsletter/): Mode Analytics weekly newsletter chock-full of relevant articles about data, data science, and analytics
+[**The Analytics Dispatch**](https://mode.com/newsletter/): Mode Analytics' weekly newsletter chock-full of relevant articles about data, data science, and analytics.
 
 [**Hacker News Digest**](https://www.hndigest.com/): The top stories on Hacker News in your inbox.
 
