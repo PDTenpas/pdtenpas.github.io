@@ -39,8 +39,6 @@ title: News Sources
 
 [**Hacker News Digest**](https://www.hndigest.com/): The top stories on Hacker News in your inbox.
 
-[**The Wild Week in AI**](https://www.getrevue.co/profile/wildml): The Wild Week in AI is a weekly AI & Deep Learning newsletter.
-
 [**O'Reilly Data Newsletter**](https://www.oreilly.com/data/newsletter.html): Weekly insight from industry insiders.
 
 [**Import AI**](https://jack-clark.net/): Import AI is a weekly newsletter about artificial intelligence, read by more than ten thousand experts.
@@ -114,6 +112,8 @@ title: News Sources
 [**A VC**](https://avc.com/subscribe/): Fred Wilson muses about VC life.
 
 [**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters): Receive the latest intelligence on emerging tech from MIT Technology Review, delivered straight to your inbox.
+
+[**a16z Newsletters**](https://pages.a16z.com/Email): Monthly newsletters covering FinTech, Bio, and more.
 
 ## Podcasts
 

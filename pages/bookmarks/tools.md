@@ -31,6 +31,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Chris Albon's Technical Notes**](https://chrisalbon.com/)
 
+[**Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning)
+
 [**An overview of the NLP ecosystem in R**](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
 [**ML Resources**](https://sgfin.github.io/learning-resources/)
@@ -62,6 +64,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**Minimally Sufficient Pandas**](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
 > In this article, I will offer an opinionated perspective on how to best use the Pandas library for data analysis. My objective is to argue that only a small subset of the library is sufficient to complete nearly all of the data analysis tasks that one will encounter. This minimally sufficient subset of the library will benefit both beginners and professionals using Pandas.
+
+[**The Little Book of Python Anti-Patterns**](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 
 [**What's the future of the pandas library?**](https://www.dataschool.io/future-of-pandas/)
 
