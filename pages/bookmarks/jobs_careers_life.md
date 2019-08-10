@@ -70,6 +70,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
 
+[**Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)**](https://fs.blog/mental-models/)
+
 ---
 
 # Life
@@ -117,20 +119,18 @@ I limit these but am sharing a few finds that have influenced me.
 
 [**I Have Died Many Times**](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
-[**Humans Cannot Survive Alone**](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
-
 [**Different Worlds**](https://slatestarcodex.com/2017/10/02/different-worlds/)
 
-[**Your Life in Weeks**](https://waitbutwhy.com/2014/05/life-weeks.html)
+[**Who by Very Slow Decay**](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 
-[**Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)**](https://fs.blog/mental-models/)
+[**Humans Cannot Survive Alone**](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
+
+Favorites from [Wait But Why](https://waitbutwhy.com/):
+
+[**Your Life in Weeks**](https://waitbutwhy.com/2014/05/life-weeks.html)
 
 [**Taming the Mammoth: Why You Should Stop Caring What Other People Think**](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
 [**Religion for the Nonreligious**](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
 
-[**Why Procrastinators Procrastinate**](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
-
-[**How to Beat Procrastination**](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html)
-
-[**The Procrastination Matrix**](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
+[**Why Procrastinators Procrastinate**](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [**How to Beat Procrastination**](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [**The Procrastination Matrix**](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
