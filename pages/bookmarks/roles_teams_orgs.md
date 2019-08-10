@@ -27,7 +27,7 @@ title: Roles, Teams, Orgs
 
 [**The Tentpoles of Data Science**](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 
-- tl;dr: Design thinking, workflows, human relationships, statistical methods, stories
+- TL;DR: Design thinking, workflows, human relationships, statistical methods, stories
 
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
