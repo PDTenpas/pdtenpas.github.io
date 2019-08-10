@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roles, Teams, and Orgs
+title: Roles, Teams, Orgs
 ---
 
 ---
