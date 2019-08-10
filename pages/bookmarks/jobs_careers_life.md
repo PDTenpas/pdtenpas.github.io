@@ -32,7 +32,11 @@ Cheesy titles on some of these but the content is good.
 
 > I don’t know as much as I’d like about woodworking, but my impression is that it is not so much a single discipline as a vast array of specific skills. None of these are particularly difficult by themselves, but knowing which tool or method to use at each stage and carrying out each one cleanly and efficiently takes years of practice. Data carpentry, which I’ve been practicing in one way or another for about 15 years (though never as my official responsibility), is likewise not a single process but a thousand little skills and techniques.
 
+[**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
+
+[**Breakout List: Career Planning Guide for People in the Technology Industry**](https://breakoutlist.com/career-planning/)
 
 [**How to Build a Data Science Portfolio**](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 
@@ -56,8 +60,6 @@ Cheesy titles on some of these but the content is good.
 
 [**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/2013/02/the-psychology-of-human-misjudgement/)
 
-[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
-
 [**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 
 [**Prof Galloway's Career Advice**](https://www.youtube.com/watch?v=1T22QxTkPoM)
@@ -65,6 +67,8 @@ Cheesy titles on some of these but the content is good.
 [**Sam Altman: How To Be Successful**](http://blog.samaltman.com/how-to-be-successful)
 
 [**My Journey Towards Authentic Leadership**](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
+
+[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
 
 ---
 

@@ -22,6 +22,10 @@ Framing and Approaches
 
 > I’ve found it useful to push as much as you can out of the backend into the data platform.
 
+[**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+
+- A better fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
+
 [**Functional Data Engineering — a modern paradigm for batch data processing**](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
 [**A Beginner’s Guide to Data Engineering**](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
@@ -32,7 +36,7 @@ Framing and Approaches
 
 [**4 Pillars of Analytics**](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
 
-- Acquire, Process, Surface, Act
+- Acquire, Process, Surface, Act.
 
 ## Selected Approaches
 
