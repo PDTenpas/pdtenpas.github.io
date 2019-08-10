@@ -63,6 +63,8 @@ title: Roles, Teams, Orgs
 
 [**10 Reads for Data Scientists Getting Started with Business Models**](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models)
 
+[**Towards an understanding of technical debt**](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
+
 ---
 
 # Organizations
@@ -84,6 +86,8 @@ title: Roles, Teams, Orgs
 > If you are in the data business – my bread, butter and tofu – you often carry the burden of being the bearer of bad news.
 
 [**Lessons from Keith Rabois Essay 3: How to be an Effective Executive**](https://delian.io/lessons-3)
+
+[**FAQs from Coaching Technical Leadership**](https://kellanem.com/notes/faqs-from-coaching)
 
 [**The Tool that Will Help You Choose Better Product Ideas**](https://medium.com/@itamargilad/finding-winning-ideas-using-the-confidence-tool-d8f2d8cc2c15)
 

@@ -99,3 +99,5 @@ Framing, Approaches, Significance Pitfalls
 [**False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant**](https://journals.sagepub.com/doi/full/10.1177/0956797611417632?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed)
 
 [**Why Most Published Research Findings Are False**](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+
+[**The Control Group is Out of Control**](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
