@@ -77,13 +77,11 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Python for Data Science: 8 Concepts You May Have Forgotten**](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
 
-[**11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)**](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
-
 [**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/)
 
 [**A Visual Intro to NumPy and Data Representation**](https://jalammar.github.io/visual-numpy/)
 
-## jupyter
+## Jupyter
 
 [**Bringing the best out of Jupyter Notebooks for Data Science**](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 
@@ -93,39 +91,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Joel Grus' I Don't Like Notebooks Slides**](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
 
-## Data Build Tool (DBT)
-
-[**Build Your Data Analytics Like An Engineer (podcast)**](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
-
-[**How do you decide what to model in dbt vs LookML?**](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
-
-[**How we structure our dbt projects**](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
-
-## Snowflake
-
-[**How we configure Snowflake**](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4)
-
-[**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
-
-## SQL
-
-[**postgresql: Don't Do This**](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
-
-[**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
-
-[**Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position**](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
-
-[**The Most Underutilized Function in SQL (md5)**](https://blog.fishtownanalytics.com/the-most-underutilized-function-in-sql-9279b536ed1a)
-
-[**SQL Window Functions to Pass a Data Analytics Interview**](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
-
-## Looker
-
-[**How to Design Your Looker Explores**](https://blog.fishtownanalytics.com/how-to-design-your-looker-explores-171e28465add)
-
-[**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
-
-## git / code review
+## Git / Code Review
 
 [**Flight rules for Git**](https://github.com/k88hudson/git-flight-rules#git-bash)
 
@@ -142,3 +108,35 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 
 [**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
+
+## SQL
+
+[**postgresql: Don't Do This**](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+
+[**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
+
+[**Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position**](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
+
+[**The Most Underutilized Function in SQL (md5)**](https://blog.fishtownanalytics.com/the-most-underutilized-function-in-sql-9279b536ed1a)
+
+[**SQL Window Functions to Pass a Data Analytics Interview**](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
+
+## Data Build Tool (DBT)
+
+[**Build Your Data Analytics Like An Engineer (podcast)**](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
+
+[**How do you decide what to model in dbt vs LookML?**](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
+
+[**How we structure our dbt projects**](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
+
+## Snowflake
+
+[**How we configure Snowflake**](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4)
+
+[**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
+
+## Looker
+
+[**How to Design Your Looker Explores**](https://blog.fishtownanalytics.com/how-to-design-your-looker-explores-171e28465add)
+
+[**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
