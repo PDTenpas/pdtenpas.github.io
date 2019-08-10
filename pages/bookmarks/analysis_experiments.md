@@ -101,3 +101,7 @@ Framing, Approaches, Significance Pitfalls
 [**Why Most Published Research Findings Are False**](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
 [**The Control Group is Out of Control**](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
+
+[**Beware The Man of One Study**](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/)
+
+> Decrease your confidence about most things if you’re not sure that you’ve investigated every piece of evidence.
