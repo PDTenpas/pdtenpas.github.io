@@ -38,6 +38,8 @@ Framing and Approaches
 
 - Acquire, Process, Surface, Act.
 
+> Start with a platform, and then use it for everything...
+
 ## Selected Approaches
 
 [**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)

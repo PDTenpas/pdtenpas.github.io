@@ -24,10 +24,6 @@ title: Jobs, Careers, Life
 # Data Careers
 Cheesy titles on some of these but the content is good.
 
-[**What’s in a name?: The semantics of Science at Lyft**](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
-
--  tl;dr: titles and roles are *very* muddy in the data world, title inflation is abundant. Just do the work.
-
 [**Data Carpentry**](http://www.mimno.org/articles/carpentry/)
 
 > I don’t know as much as I’d like about woodworking, but my impression is that it is not so much a single discipline as a vast array of specific skills. None of these are particularly difficult by themselves, but knowing which tool or method to use at each stage and carrying out each one cleanly and efficiently takes years of practice. Data carpentry, which I’ve been practicing in one way or another for about 15 years (though never as my official responsibility), is likewise not a single process but a thousand little skills and techniques.

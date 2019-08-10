@@ -28,7 +28,7 @@ navbar-links:
     - tools: "pages/bookmarks/tools"
     - platforms and products: "pages/bookmarks/platforms_products"
     - analysis and experiments: "pages/bookmarks/analysis_experiments"
-    - teams and orgs: "pages/bookmarks/teams_orgs"
+    - roles, teams, orgs: "pages/bookmarks/roles_teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
     - news sources: "pages/newsletter/sources"
     - misc: "pages/bookmarks/misc"
