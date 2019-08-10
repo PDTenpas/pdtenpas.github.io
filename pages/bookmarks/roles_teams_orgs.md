@@ -23,6 +23,8 @@ title: Roles, Teams, Orgs
 
 [**The three kinds of data scientists**](http://www.residentmar.io/2018/10/18/roles-in-data-science.html)
 
+[**One Data Science Job Doesn’t Fit All**](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
+
 # Teams
 
 [**The Tentpoles of Data Science**](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
