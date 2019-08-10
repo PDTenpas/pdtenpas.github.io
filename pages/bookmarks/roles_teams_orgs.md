@@ -33,6 +33,10 @@ title: Roles, Teams, Orgs
 
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
+[**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+
+- A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
+
 [**Scaling Knowledge**](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)
 
 > Most companies suck at disseminating factual knowledge. Yours probably does too.

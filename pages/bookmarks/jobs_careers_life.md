@@ -9,15 +9,13 @@ title: Jobs, Careers, Life
 
 [**Red Flags in Data Science Interviews**](https://hookedondata.org/red-flags-in-data-science-interviews/)
 
-[**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
-
-[**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
-
 [**Salary Negotiation: Make More Money, Be More Valued**](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
 
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
+
+[**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 
 ---
 
@@ -29,6 +27,8 @@ Cheesy titles on some of these but the content is good.
 > I don’t know as much as I’d like about woodworking, but my impression is that it is not so much a single discipline as a vast array of specific skills. None of these are particularly difficult by themselves, but knowing which tool or method to use at each stage and carrying out each one cleanly and efficiently takes years of practice. Data carpentry, which I’ve been practicing in one way or another for about 15 years (though never as my official responsibility), is likewise not a single process but a thousand little skills and techniques.
 
 [**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+
+[**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
 

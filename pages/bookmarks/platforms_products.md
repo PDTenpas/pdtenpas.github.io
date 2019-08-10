@@ -24,7 +24,7 @@ Framing and Approaches
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
-- A better fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
+- A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
 
 [**Functional Data Engineering — a modern paradigm for batch data processing**](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
