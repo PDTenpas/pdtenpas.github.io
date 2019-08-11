@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Open Bookmarks
+subtitle: Reading in public.
 ---
+
+![bm_con]({{ site.url }}/img/bookmark_con_inline.png)
 
 I'm moving my bookmarks to the web! Well, at least the ones worth sharing.
 
