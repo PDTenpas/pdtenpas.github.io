@@ -34,7 +34,6 @@ navbar-links:
     - misc: "pages/bookmarks/misc"
 
   newsletter:
-    - subscribe: "https://metadata.substack.com/"
     - about: "https://metadata.substack.com/about/"
     - archive: "pages/newsletter/archive"
     - news sources: "pages/newsletter/sources"
