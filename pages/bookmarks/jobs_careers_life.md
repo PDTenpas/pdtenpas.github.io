@@ -135,6 +135,8 @@ Favorites from [**Slate Star Codex**](https://slatestarcodex.com/):
 
 [**Who by Very Slow Decay**](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 
+[*Which Slate Star Codex articles have most changed the way you think?*](https://www.reddit.com/r/slatestarcodex/comments/c72uq3/which_slatestarcodex_articles_have_most_changed/)
+
 Favorites from [Wait But Why](https://waitbutwhy.com/):
 
 [**Your Life in Weeks**](https://waitbutwhy.com/2014/05/life-weeks.html)
