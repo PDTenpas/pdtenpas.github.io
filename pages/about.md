@@ -11,4 +11,4 @@ I work in data. Past experiences include time at the Harlow Center for Biologica
 
 Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I'm usually working on something new and tend to share it here. I'm currently maintaining:
 
-![eye_con]({{ site.url }}/img/eye_con_256.png)  **TESTING**: You can find me elsewhere on the internet by clicking the icons down below.
+![eye_con]({{ site.url }}/img/eye_con_inline.png) **Metadata Newsletter**: You can find me elsewhere on the internet by clicking the icons down below.
