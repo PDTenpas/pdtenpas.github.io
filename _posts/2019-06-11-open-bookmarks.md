@@ -4,9 +4,15 @@ title: Open Bookmarks
 subtitle: Reading in public.
 ---
 
-![bm_con]({{ site.url }}/img/bookmark_con_inline.png) **I'm moving my bookmarks to the web!**
+![bm_con]({{ site.url }}/img/bookmark_con_inline.png)
 
-... well, at least the ones worth sharing. For now they mostly contain resources I've found useful in a day-to-day data job. Check them out in the nav-bar above, or hop to a category from below:
+**I've moved my bookmarks to the web!**
+
+... well, at least the ones worth sharing.
+
+For now they mostly contain resources I've found useful in a day-to-day data job.
+
+Check them out in the nav-bar above, or hop to a category from below:
 
 - [**Tools**](https://pdtenpas.github.io/pages/bookmarks/tools/): Tools of the trade.
 
