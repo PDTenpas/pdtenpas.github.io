@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News Sources
+subtitle: Data and tech newsletters, blogs, and podcasts.
 ---
 
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data Tools
+subtitle: Tools of the trade.
 ---
 
 There's really too many of these to cover in any sort of useful summary. I'm going to list a few lists of resources I've found useful and pull out some of my favorites below.

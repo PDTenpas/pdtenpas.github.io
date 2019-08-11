@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jobs, Careers, Life
+subtitle: Useful framing for getting a job/career/life.
 ---
 
 ---
