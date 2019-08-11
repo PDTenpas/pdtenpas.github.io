@@ -170,6 +170,4 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**The Knowledge Project**](https://fs.blog/the-knowledge-project/): The Knowledge Project Podcast with Shane Parrish helps you master the best of what other people have already figured out.
 
-[**Rationally Speaking with Julia Galef**](http://rationallyspeakingpodcast.org/): Join Julia Galef and guests as they explore the borderlands between reason and nonsense, likely and unlikely, science and pseudoscience.
-
 [**Conversations with Tyler**](https://conversationswithtyler.com/): On the Conversations with Tyler podcast, produced by the Mercatus Center at George Mason University, celebrated polymath and academic economist Tyler Cowen explores the minds and methods of today’s top thinkers.
