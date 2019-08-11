@@ -117,13 +117,23 @@ I limit these but am sharing a few finds that have influenced me.
 
 ## Blog Posts
 
+Misc:
+
 [**I Have Died Many Times**](http://www.cgpgrey.com/blog/i-have-died-many-times)
+
+[**Humans Cannot Survive Alone**](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
+
+Favorites from [**Slate Star Codex**](https://slatestarcodex.com/):
 
 [**Different Worlds**](https://slatestarcodex.com/2017/10/02/different-worlds/)
 
-[**Who by Very Slow Decay**](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
+[**Meditations on Moloch**](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-[**Humans Cannot Survive Alone**](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
+> The implicit question is – if everyone hates the current system, who perpetuates it?
+
+> I’m not really sure how widely people appreciate the value of analogizing capitalism to evolution.
+
+[**Who by Very Slow Decay**](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 
 Favorites from [Wait But Why](https://waitbutwhy.com/):
 
