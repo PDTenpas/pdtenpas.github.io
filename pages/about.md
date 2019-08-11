@@ -7,8 +7,12 @@ Hello, I'm Parker.
 
 I'm from Oshkosh, Wisconsin and live in Brooklyn, New York. I've had stints in Denver, Colorado and Honolulu, Hawaii as well.
 
-I work in data. Past experiences include time at the Harlow Center for Biological Psychology, the 2016 Clinton Presidential Campaign, and Casper Sleep. Very different industries but always data. I'm currently continuing my ecommerce streak at primary.com. 
+I work in data. Past experiences include time at the Harlow Center for Biological Psychology, the 2016 Clinton Presidential Campaign, and Casper Sleep. Very different industries but always data. I'm currently continuing my ecommerce streak at primary.com.
 
-Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I'm usually working on something new and tend to share it here.
+Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I'm usually working on something new and tend to share it here. I'm currently maintaining:
 
-Find me elsewhere on the internet by clicking the icons down below.
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="iOS resume application project app icon">
+
+**TESTING**:
+
+You can find me elsewhere on the internet by clicking the icons down below.
