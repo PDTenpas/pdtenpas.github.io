@@ -11,8 +11,4 @@ I work in data. Past experiences include time at the Harlow Center for Biologica
 
 Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I'm usually working on something new and tend to share it here. I'm currently maintaining:
 
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="iOS resume application project app icon">
-<br/><br/>
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="iOS resume application project app icon">
-
- **TESTING**: You can find me elsewhere on the internet by clicking the icons down below.
+![eye_con]({{ site.url }}/img/eye_con_256.png)  **TESTING**: You can find me elsewhere on the internet by clicking the icons down below.
