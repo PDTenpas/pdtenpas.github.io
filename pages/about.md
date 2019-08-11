@@ -11,10 +11,10 @@ I work in data. Past experiences include time at the Harlow Center for Biologica
 
 Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I'm usually working on something new and tend to share it here. I'm currently maintaining:
 
-![eye_con]({{ site.url }}/img/eye_con_inline.png) **Open Bookmarks**
+![bm_con]({{ site.url }}/img/bookmark_con_inline.png) **Open Bookmarks**
 
 ![eye_con]({{ site.url }}/img/eye_con_inline.png) **Metadata Newsletter**
 
-![eye_con]({{ site.url }}/img/lm_con_inline.png) **Local Maxima Podcast**  
+![lm_con]({{ site.url }}/img/lm_con_inline.png) **Local Maxima Podcast**  
 
 You can find me elsewhere on the internet by clicking the icons down below.
