@@ -16,7 +16,7 @@ Check them out in the nav-bar above, or hop to a category from below:
 
 - [**Tools**](https://pdtenpas.github.io/pages/bookmarks/tools/): Tools of the trade.
 
-- [**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Data Platforms and the products built on them.
+- [**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Data platforms and the products built on them.
 
 - [**Analysis and Experiments**](https://pdtenpas.github.io/pages/bookmarks/analysis_experiments/): Useful framing for escaping the noise.
 
