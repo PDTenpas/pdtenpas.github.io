@@ -13,7 +13,5 @@ Outside of the day job I work on side projects from data stuff to podcasts, news
 
 <img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="iOS resume application project app icon">
 
-# **TESTING**:
 
-
-You can find me elsewhere on the internet by clicking the icons down below.
+ **TESTING**: You can find me elsewhere on the internet by clicking the icons down below.
