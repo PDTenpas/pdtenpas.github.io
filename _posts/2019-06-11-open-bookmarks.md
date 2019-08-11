@@ -24,7 +24,7 @@ Check them out in the nav-bar above, or hop to a category from below:
 
 - [**Jobs, Careers, Life**](https://pdtenpas.github.io/pages/bookmarks/jobs_careers_life/): Useful framing for getting a job/career/life.
 
-- [**News Sources**](https://pdtenpas.github.io/pages/newsletter/sources/): Data and tech newsletters, blogs, and podcasts.
+- [**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Data and tech newsletters, blogs, and podcasts.
 
 - [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Abstract concepts and more.
 

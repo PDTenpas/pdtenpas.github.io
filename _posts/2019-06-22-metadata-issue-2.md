@@ -115,6 +115,6 @@ From that perspective, Libra's underlying model is awfully familiar: Find those 
 
 [View Past Favorites in the Bookmarks](https://pdtenpas.github.io/)
 
-[Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/newsletter/sources/)
+[Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/bookmarks/sources/)
 
 [How I Write the Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)

@@ -30,13 +30,13 @@ navbar-links:
     - analysis and experiments: "pages/bookmarks/analysis_experiments"
     - roles, teams, orgs: "pages/bookmarks/roles_teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
-    - news sources: "pages/newsletter/sources"
+    - news sources: "pages/bookmarks/sources"
     - misc: "pages/bookmarks/misc"
 
   newsletter:
     - about: "https://metadata.substack.com/about/"
     - archive: "pages/newsletter/archive"
-    - news sources: "pages/newsletter/sources"
+    - news sources: "pages/bookmarks/sources"
     - how I read newsletters: "pages/newsletter/read_newsletters"
   podcast: "pages/podcast"
   about: "pages/about"
