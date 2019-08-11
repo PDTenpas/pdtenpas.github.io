@@ -40,7 +40,7 @@ Framing and Approaches
 
 > Start with a platform, and then use it for everything...
 
-## Selected Approaches
+## Approaches
 
 [**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 
@@ -89,7 +89,7 @@ Framing and Approaches
 
 > This post discusses our obsession with finding the best model and emphasizes what we should do instead: Take a step back and see the bigger picture...
 
-## Selected Approaches
+## Approaches
 
 [**Your Client Engagement Program Isn't Doing What You Think It Is**](https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/)
 

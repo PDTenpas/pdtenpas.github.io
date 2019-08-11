@@ -32,7 +32,7 @@ Framing, Cleaning, Approaches
 
 > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
-## Selected Approaches
+## Approaches
 
 [**Importance of Skepticism in Data Science**](https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html)
 
@@ -74,7 +74,7 @@ Framing, Approaches, Significance Pitfalls
 
 [**Against A/B Tests**](https://www.locallyoptimistic.com/post/against-ab-tests/)
 
-## Selected Approaches
+## Approaches
 
 [**Guidelines for A/B Testing**](https://hookedondata.org/guidelines-for-ab-testing/)
 
