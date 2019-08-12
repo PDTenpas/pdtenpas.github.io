@@ -30,6 +30,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 > "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - Joel Grus
 
+[**Computer Science Courses with Video Lectures**](https://github.com/Developer-Y/cs-video-courses)
+
 [**Chris Albon's Technical Notes**](https://chrisalbon.com/)
 
 [**Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning)
