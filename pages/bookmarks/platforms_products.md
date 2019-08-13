@@ -27,6 +27,10 @@ Framing and Approaches
 
 - A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
 
+[**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
+
+> Start with a platform, then use it for everything...
+
 [**Functional Data Engineering — a modern paradigm for batch data processing**](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
 [**A Beginner’s Guide to Data Engineering**](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
