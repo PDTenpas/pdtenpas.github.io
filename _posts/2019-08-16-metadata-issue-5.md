@@ -74,7 +74,8 @@ My top reads from the past few weeks...
 
 # You and Your Research
 
-[![Chalkboard]({{ site.url }}/img/chalkboard.png)]({{ site.url }}/img/chalkboard.png)
+
+![Chalkboard]({{ site.url }}/img/chalkboard.png)
 
 > I have to get you to quit your modesty. I have to get you, individually, to respond to my challenge that you're going to be great. You have to say to yourself, “Yes, if that guy Hamming can go out and become a great scientist, I can. Or I can become a great person.” I have to get you to say to yourself that you want to. That's it's worth the effort. And that you're going to try to be something more than just the average person.
 
