@@ -117,18 +117,19 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - You must have a vision to judge yourself against in order to make progress. Without one, you will wander.
 
 **What makes a problem important?**
-- Importance is not based on the consequence of solving a problem alone.
+- Importance is not based on the consequences of solving a problem alone.
 - It also depends on whether or not a problem has an attack: a new approach or potential way of solving it.
 - EX: Teleportation is not an important problem. It has massive consequences but there is no attack.
-- Redefine, invert, and change the nature of the problem; important problems hide.
 - Problems can rapidly become important when there is a new attack towards a solution.
 - Most great scientists have 10-20 problems in their mind. When they get a clue about how to attack one, they drop everything and rush to that problem to finish it off.
-- Spend ~10% of your time thinking about what these important problems may be, what's happening more broadly, and where things are headed.
 
-**Put hooks on ideas.**
+**Put hooks on ideas; find important problems.**
 - "*Often someone would tell me something I knew was true, but I couldn't think of it first. This frustrated me.*"
 - When you get new piece of information turn it around many ways until it's connected to many other pieces of information.
 - I.e. form a mental map. What you're working on has to fit into the bigger picture.
+- Redefine, invert, and change the nature of the problem; important problems hide.
+- Spend ~10% of your time thinking about what these important problems may be, what's happening more broadly, and where things are headed.
+- Talk about important problems and find others who do the same.
 
 **Those who work with their door shut, don't know what to work on.**
 - An open door and an open mind are correlated.
