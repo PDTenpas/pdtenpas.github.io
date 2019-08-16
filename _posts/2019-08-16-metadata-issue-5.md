@@ -81,11 +81,11 @@ My top reads from the past few weeks...
 
 Los Alamos, Bell Labs, ~10 books, a who's who list of collaborators, and [many scientific contributions stamped with his name](https://en.wikipedia.org/wiki/Richard_Hamming)—Richard Hamming had quite the career.
 
-After Bell Labs, he took up teaching positions and ended up teaching a graduate capstone titled "The Art of Doing Science and Engineering: Learning to Learn," later publishing a book of the same name which, today, can be bought [used on Amazon for ~$1K](https://www.amazon.com/gp/offer-listing/9056995014/ref=tmm_pap_used_olp_sr?ie=UTF8&condition=used&qid=&sr=).
+After Bell Labs, he took up teaching positions and ended up teaching a graduate capstone titled "*The Art of Doing Science and Engineering: Learning to Learn*," later publishing a book of the same name which, today, can be bought [used on Amazon for ~$1K](https://www.amazon.com/gp/offer-listing/9056995014/ref=tmm_pap_used_olp_sr?ie=UTF8&condition=used&qid=&sr=).
 
-The course's last lecture, "You and Your Research," had a huge impact on me as an undergraduate. We watched it on Youtube, projected in a mostly empty lecture hall on a day when the professor couldn't make it in. It may as well have been called "You and Your Life" and even Hamming jokes at the start that the title isn't quite right but research is what he knows best.
+The course's last lecture, "*You and Your Research*," had a huge impact on me as an undergraduate. We watched it on Youtube, projected in a mostly empty lecture hall on a day when the professor couldn't make it in. It may as well have been called "*You and Your Life*" and even Hamming jokes at the start that the title isn't quite right but research is what he knows best.
 
-The premise of the lecture is this: Hamming noticed early in his career that he wasn't on track for doing significant things with his life. He was determined to figure out why and whether it was worth the effort try. The lecture is a report on what he learned in pursuit these questions.   
+The premise of the lecture is this: Hamming noticed early in his career that he wasn't on track towards doing significant things with his life. He was determined to figure out why and whether it was worth the effort to change course. The lecture is a report on what he learned in pursuit these questions.   
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/a1zDuOPkMSw' frameborder='0' allowfullscreen></iframe></div>
 
@@ -104,7 +104,7 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 - The day-to-day is constant hard work. Nothing more, nothing less.
 
 **Great people believe they can do great work.**
-- Beware of overconfidence but if you don't believe you can do great work it's not likely you ever will.
+- Beware of overconfidence, but if you don't believe you can do great work it's not likely you ever will.
 - When stuck, charge forward. Attack problems with courage.
 
 **If you don't work on important problems you will not do important things.**
@@ -112,7 +112,7 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 - If what you're working on is not important, and is not likely to lead to important things, why are you working on it?
 - Many abandon a good idea too soon or cling to a bad idea too long.
 - If you cling to anything, cling to the desire to do excellent work.
-- If you have a vision you will go a long way.
+- You must have a vision to judge yourself against in order to make progress. Without one, you will wander.
 
 **What is an important problem?**
 - Importance is not based on the consequence of solving a problem alone.
