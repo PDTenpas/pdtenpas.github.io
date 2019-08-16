@@ -125,7 +125,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 **Put hooks on ideas; find important problems.**
 - "*Often someone would tell me something I knew was true, but I couldn't think of it first. This frustrated me.*"
-- When you get new piece of information turn it around many ways until it's connected to many other pieces of information.
+- When you get a new piece of information turn it around many ways until it's connected to many other pieces of information.
 - I.e. form a mental map. What you're working on has to fit into the bigger picture.
 - Redefine, invert, and change the nature of the problem; important problems hide.
 - Spend ~10% of your time thinking about what these important problems may be, what's happening more broadly, and where things are headed.
