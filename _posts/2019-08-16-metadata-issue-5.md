@@ -91,7 +91,7 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 
 <center><i>You and Your Research - The last lecture of Hamming's 1995 course</i></center>
 
-#### My notes
+#### My Notes
 
 **Why try to do significant work? Is the effort worth it?**
 - The unexamined life is not worth living.
