@@ -120,7 +120,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 **What is an important problem?**
 - Importance is not based on the consequence of solving a problem alone.
-- It's also based on whether or not a problem has an attack: a new approach or potential way of solving it.
+- It also depends on whether or not a problem has an attack: a new approach or potential way of solving it.
 - EX: Teleportation is not an important problem. It has massive consequences but there is no attack.
 - Redefine, invert, and change the nature of the problem; important problems hide.
 - Problems can rapidly become important when there is a new attack towards a solution.
@@ -139,10 +139,10 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - You must communicate with others to find important problems.
 
 **You must become good at communicating.**
-- You must be good at writing, conference-style talks, and casual talks.
+- The best way to communicate a problem is often completely different than the way you found that problem.
 - You must be really clear and straightforward in communicating problems, attacks, and solutions.
-- The way you communicate a problem is often completely different than the way you found a problem.
-- To learn this always listen for two things 1) the content and 2) the style.
+- You must be good at doing this in writing, conference-style talks, and casual talks.
+- To learn this always listen for two things: 1) the content and 2) the style.
 - Style is hard to define. It's answers to questions like: what was effective? Why was it effective? What can you adapt?
 - When you find someone who is very effective, you must try to figure out why and adapt it to you.
 - You must learn and adapt your own style, you can't copy one fully.
@@ -170,8 +170,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 **Reorganize your life.**
 - Cut the cruft. Organize your life around doing significant things, whatever that means to you. "*Get down and be somebody worth being.*"
-- "*I've told you things about how to succeed. No one ever told me these things I've been telling you. Nobody. I had to find them for myself.*"
-- "*I have told you how to succeed. You have no excuse for not doing better than I did.*"
+- "*I've told you things about how to succeed. No one ever told me these things I've been telling you. Nobody. I had to find them for myself. I have told you how to succeed. You have no excuse for not doing better than I did.*"
 
 *If you want more Hamming:*
 - [Videos of all the lectures in this course can be found here.](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
