@@ -56,7 +56,7 @@ My top reads from the past few weeks...
 
 [**Skinner as Self-manager (pdf)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf) \| The source was lost to the void, apologies.
 
-- B. F. Skinner is most well-known for establishing the field of experimental behavior research in psychology. Today, many of his theories on conditioning are [now baked into software](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) to make features and products stickier to users.
+- B. F. Skinner is most well-known for establishing the field of experimental behavior research in psychology. Today, many of his theories on conditioning are [baked into software](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) to make features and products stickier to users.
 
 - **TL;DR:** It turns out Skinner used the same ideas from his research to modify his own behavior. I.e. he may have been one of the first methodical life / productivity hackers—sorry Tim Ferriss.
 
@@ -165,7 +165,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 **The onus is on you to demonstrate greatness.**
 - Demonstrate you can do it, then the freedom to pursue it fully will come.
 - "*The more we leave him alone, the more he'll think about what should be done, and the more we'll actually get done.*"
-- Remember most people, when given freedom, do nothing. So don't think freedom would magically solve all your problems.
+- Remember most people, when given freedom, do nothing. So don't think freedom will magically solve all your problems.
 - Don't blame the system if you can't change it. This behavior won't help you solve important problems. Do the best you can given your circumstances.
 
 **Reorganize your life.**
