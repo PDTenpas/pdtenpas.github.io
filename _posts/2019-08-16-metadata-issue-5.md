@@ -74,9 +74,9 @@ My top reads from the past few weeks...
 
 # You and Your Research
 
-[![Chalkboard]({{ site.url }}/img/chalkboard_banner.png)]({{ site.url }}/img/chalkboard_banner.png)
+[![Chalkboard]({{ site.url }}/img/chalkboard.png)]({{ site.url }}/img/chalkboard.png)
 
-> I have to get you to quit your modesty. I have to get you individually, to respond to my challenge that you're going to be great. You have to say to yourself, “Yes, if that guy Hamming can go out and become a great scientist, I can. Or I can become a great person.” I have to get you to say to yourself that you want to. That's it's worth the effort. And you're going to try to be something more than just the average person.
+> I have to get you to quit your modesty. I have to get you, individually, to respond to my challenge that you're going to be great. You have to say to yourself, “Yes, if that guy Hamming can go out and become a great scientist, I can. Or I can become a great person.” I have to get you to say to yourself that you want to. That's it's worth the effort. And that you're going to try to be something more than just the average person.
 
 Los Alamos, Bell Labs, ~10 books, a who's who list of collaborators, and [many scientific contributions stamped with his name](https://en.wikipedia.org/wiki/Richard_Hamming)—Richard Hamming had quite the career.
 
@@ -90,12 +90,12 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 
 <center><i>You and Your Research - The last lecture of Hamming's 1995 course</i></center>
 
-### Below are my notes:
+### Below are my notes
 
 **Why try to do significant work? Is the effort worth it?**
-- You have one life to lead, I'd recommend you try to do something significant.
-- In old age, which do you want to say: "well, I didn't do any harm, I had an enjoyable life, I had a good time." OR "I did something I thought was important."
 - The unexamined life is not worth living.
+- You have one life to lead, I'd recommend you try to do something significant.
+- In old age, which do you want to say: "*well, I didn't do any harm, I had an enjoyable life, I had a good time.*" OR "*I did something I thought was important.*"
 - All those that accomplish great things say it was the best experience of their life.
 
 **Isn't it just luck?**

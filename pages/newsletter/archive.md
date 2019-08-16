@@ -7,6 +7,10 @@ title: Newsletter Archive
 
 ---
 
+[**Issue 4 - You and Your Research**](https://pdtenpas.github.io/2019-08-16-metadata-issue-5/) \| *2019-08-16*
+
+[![Chalkboard]({{ site.url }}/img/chalkboard.png)](https://pdtenpas.github.io/2019-07-20-metadata-issue-4/)
+
 [**Issue 4 - The Dementors**](https://pdtenpas.github.io/2019-07-20-metadata-issue-4/) \| *2019-07-20*
 
 [![Dementors]({{ site.url }}/img/dementors.png)](https://pdtenpas.github.io/2019-07-20-metadata-issue-4/)
