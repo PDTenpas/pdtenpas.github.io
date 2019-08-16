@@ -106,6 +106,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - What you're born with is just one small piece of the puzzle.
 
 **Great people believe they can do great work.**
+- Significant things come from great work on important problems.
 - Beware of overconfidence, but if you don't believe you can do great work it's not likely you ever will.
 - When stuck, charge forward. Attack problems with courage.
 
