@@ -182,7 +182,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 [Subscribe](https://metadata.substack.com/)
 
-[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/)
+[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
 [Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/bookmarks/sources/)
 

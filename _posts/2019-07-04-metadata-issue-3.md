@@ -117,7 +117,7 @@ I'd imagine this could be extended to an entire company or any system for that m
 
 [Subscribe](https://metadata.substack.com/)
 
-[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/)
+[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
 [Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/bookmarks/sources/)
 

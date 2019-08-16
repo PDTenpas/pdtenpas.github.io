@@ -131,7 +131,7 @@ The paper is a good read with multiple real world examples. A few quotes follow:
 
 [Subscribe](https://metadata.substack.com/)
 
-[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/)
+[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
 [Newsletters / Blogs / Podcasts I Follow](https://pdtenpas.github.io/pages/bookmarks/sources/)
 
