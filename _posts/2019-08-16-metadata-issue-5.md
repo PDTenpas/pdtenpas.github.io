@@ -118,7 +118,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - If you cling to anything, cling to the desire to do excellent work.
 - You must have a vision to judge yourself against in order to make progress. Without one, you will wander.
 
-**What is an important problem?**
+**What makes a problem important?**
 - Importance is not based on the consequence of solving a problem alone.
 - It also depends on whether or not a problem has an attack: a new approach or potential way of solving it.
 - EX: Teleportation is not an important problem. It has massive consequences but there is no attack.
@@ -170,7 +170,8 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 **Reorganize your life.**
 - Cut the cruft. Organize your life around doing significant things, whatever that means to you. "*Get down and be somebody worth being.*"
-- "*I've told you things about how to succeed. No one ever told me these things I've been telling you. Nobody. I had to find them for myself. I have told you how to succeed. You have no excuse for not doing better than I did.*"
+- "*I've told you things about how to succeed. No one ever told me these things I've been telling you. Nobody. I had to find them for myself.*"
+- "*I have told you how to succeed. You have no excuse for not doing better than I did.*"
 
 *If you want more Hamming:*
 - [Videos of all the lectures in this course can be found here.](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
