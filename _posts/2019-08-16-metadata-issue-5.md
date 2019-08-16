@@ -85,7 +85,9 @@ After Bell Labs, he took up teaching positions and ended up teaching a graduate 
 
 The course's last lecture, *You and Your Research*, had a huge impact on me as an undergraduate. We watched it on Youtube, projected in a mostly empty lecture hall on a day when the professor couldn't make it in. It may as well have been called *You and Your Life* and even Hamming jokes at the start that the title isn't quite right but research is what he knows best.
 
-The premise of the lecture is this: Hamming noticed early in his career that he wasn't on track towards doing significant things with his life. He was determined to figure out why and whether it was worth the effort to change course. The lecture is a report on what he learned in pursuit these questions.   
+The premise of the lecture is this: Hamming noticed early on in his career that he wasn't on track towards doing significant things with his life. He was determined to figure out why and whether it was worth the effort to change course. The lecture is a report on what he learned in pursuit of these questions.   
+
+My favorite take-away was his idea on what makes a problem important: it depends both on the consequences of the problem being solved and whether or not the problem has an attack. There are more thoughts on this and his other ideas in the notes below.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/a1zDuOPkMSw' frameborder='0' allowfullscreen></iframe></div>
 
@@ -156,9 +158,9 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 - No change = no progress
 - This will not be comfortable for you and many you work with. Learn to welcome it against your intuition.
 
-**The onus is on you to demonstrate greatness**
-- Demonstrate you can do it first, then you will get the freedom to pursue it fully.
-- "The more we leave him alone, the more he'll think about what should be done, and the more we'll actually get done."
+**The onus is on you to demonstrate greatness.**
+- Demonstrate you can do it, then the freedom to pursue it fully will come.
+- "*The more we leave him alone, the more he'll think about what should be done, and the more we'll actually get done.*"
 - Remember most people, when given freedom, do nothing.
 - Don't blame the system, it won't help you solve important problems, do the best you can given your circumstances.
 
