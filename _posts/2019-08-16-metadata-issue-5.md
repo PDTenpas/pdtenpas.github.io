@@ -57,6 +57,7 @@ My top reads from the past few weeks...
 [**Skinner as Self-manager (pdf)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf) \| The source was lost to the void, apologies.
 
 - B. F. Skinner is most well-known for establishing the field of experimental behavior research in psychology. Today, many of his theories on conditioning are [now baked into software](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) to make features and products stickier to users.
+
 - **TL;DR:** It turns out Skinner used the same ideas from his research to modify his own behavior. I.e. he may have been one of the first methodical life / productivity hackers—sorry Tim Ferriss.
 
 ---
@@ -89,7 +90,7 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 
 <center><i>You and Your Research - The last lecture of Hamming's 1995 course</i></center>
 
-## Below are my notes:
+### Below are my notes:
 
 **Why try to do significant work? Is the effort worth it?**
 - You have one life to lead, I'd recommend you try to do something significant.
