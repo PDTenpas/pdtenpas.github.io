@@ -42,6 +42,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > Most companies suck at disseminating factual knowledge. Yours probably does too.
 
+[**Being Glue**](https://noidea.dog/glue)
+
 [**The Ten Fallacies of Data Science**](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
 
 > There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
