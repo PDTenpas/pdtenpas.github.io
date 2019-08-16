@@ -174,8 +174,9 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - "*I have told you how to succeed. You have no excuse for not doing better than I did.*"
 
 *If you want more Hamming:*
-- [Videos of all the lectures in this course can be found here.](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
-- [A free PDF of the book can be found here.](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)
+- [*Videos of all the lectures in this course.](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+- [*A free PDF of the book.](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)
+- [*If you're rolling in dough, buy a hard copy.](https://www.amazon.com/gp/offer-listing/9056995014/ref=tmm_pap_used_olp_sr?ie=UTF8&condition=used&qid=&sr=)
 
 ---
 
