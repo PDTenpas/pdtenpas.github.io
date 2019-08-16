@@ -141,7 +141,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 **You must become good at communicating.**
 - The best way to communicate a problem is often completely different than the way you found that problem.
 - You must be really clear and straightforward in communicating problems, attacks, and solutions.
-- You must be good at doing this in writing, conference-style talks, and casual talks.
+- You must be good at doing this in writing, presentations, and casual talks.
 - To learn this always listen for two things: 1) the content and 2) the style.
 - Style is hard to define. It's answers to questions like: what was effective? Why was it effective? What can you adapt?
 - When you find someone who is very effective, you must try to figure out why and adapt it to you.
