@@ -121,48 +121,50 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - It's also based on whether or not a problem has an attack: a new approach or potential way of solving it.
 - EX: Teleportation is not an important problem. It has massive consequences but there is no attack.
 - Redefine, invert, and change the nature of the problem; important problems hide.
-- Problems become important when there is an attack towards a solution.
+- Problems can rapidly become important when there is a new attack towards a solution.
 - Most great scientists have 10-20 problems in their mind. When they get a clue about how to attack one, they drop everything and rush to that problem to finish it off.
 - Spend ~10% of your time thinking about what these important problems may be, what's happening more broadly, and where things are headed.
 
 **Put hooks on ideas.**
-- "Often someone would tell me something I knew was true, but I couldn't think of it first. This frustrated me.""
+- "*Often someone would tell me something I knew was true, but I couldn't think of it first. This frustrated me.*"
 - When you get new piece of information turn it around many ways until it's connected to many other pieces of information.
 - I.e. form a mental map. What you're working on has to fit into the bigger picture.
 
 **Those who work with their door shut, don't know what to work on.**
 - An open door and an open mind are correlated.
-- Many people believe ignoring others is a good method for focusing on important problems.
+- Many people incorrectly believe ignoring others is a good method for focusing on important problems.
 - Almost always, door-closed people work on *slightly* the wrong problem.
-- You have to communicate with others to find important problems.
+- You must communicate with others to find important problems.
 
 **You must become good at communicating.**
-- You must be good at writing, conference talks, and casual talks.
-- You must be really clear and straightforward in communicating problems and solutions.
-- The way you communicate a problem is often completely different then the way you found a problem.
+- You must be good at writing, conference-style talks, and casual talks.
+- You must be really clear and straightforward in communicating problems, attacks, and solutions.
+- The way you communicate a problem is often completely different than the way you found a problem.
 - To learn this always listen for two things 1) the content and 2) the style.
 - Style is hard to define. It's answers to questions like: what was effective? Why was it effective? What can you adapt?
-- When you find someone who is very effective, you have to try and adapt it to you. You must learn your own style, you can't copy one.
+- When you find someone who is very effective, you must try to figure out why and adapt it to you.
+- You must learn and adapt your own style, you can't copy one fully.
 
 **Study Success.**
 - Stop studying failure so much. When you see something great, study that.
-- Why did this talk succeed? Why did this project succeed? Why did this person succeed? Ask more of these questions.
-- It was the right problem, attacked the right way, at the right time. How so for each of those?  
+- Why did this talk succeed? Why did this project succeed? Why did this person succeed? Ask and think more about these types of questions.
+- Success = the right problem, attacked the right way, at the right time. How did that person do each of those?  
 
 **Tolerate Ambiguity.**
-- Both believe and disbelieve: believe enough to keep working, disbelieve enough to question it.
 - Stop being so certain everything you hear is correct.
+- Both believe and disbelieve: believe enough to keep working, disbelieve enough to question.
 - Hamming admits this trait is difficult to teach / communicate.
 
 **Embrace Change.**
-- No change = no progress
-- This will not be comfortable for you and many you work with. Learn to welcome it against your intuition.
+- No change = no progress.
+- Change is not comfortable for you or those you work with.
+- Learn to welcome it against your intuition.
 
 **The onus is on you to demonstrate greatness.**
 - Demonstrate you can do it, then the freedom to pursue it fully will come.
 - "*The more we leave him alone, the more he'll think about what should be done, and the more we'll actually get done.*"
-- Remember most people, when given freedom, do nothing.
-- Don't blame the system, it won't help you solve important problems, do the best you can given your circumstances.
+- Remember most people, when given freedom, do nothing. So don't think freedom would magically solve all your problems.
+- Don't blame the system if you can't change it. This behavior won't help you solve important problems. Do the best you can given your circumstances.
 
 **Reorganize your life.**
 - Cut the cruft. Organize your life around doing significant things, whatever that means to you. "*Get down and be somebody worth being.*"
