@@ -56,10 +56,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated.
 
-[**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
-
-> Start with a platform, then use it for everything...
-
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
 [**10 Reads for Data Scientists Getting Started with Business Models**](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models)
