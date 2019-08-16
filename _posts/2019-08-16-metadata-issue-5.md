@@ -93,6 +93,8 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 <center><i>You and Your Research - The last lecture of Hamming's 1995 course</i></center>
 
+\n
+
 #### My Notes
 
 **Why try to do significant work? Is the effort worth it?**
