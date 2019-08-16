@@ -103,6 +103,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 **Isn't it just luck?**
 - Yes and no. You prepare yourself day by day and when the lightening strikes (luck) you're either ready or you're not.
 - The day-to-day is constant hard work. Nothing more, nothing less.
+- What you're born with is just one small piece of the puzzle.
 
 **Great people believe they can do great work.**
 - Beware of overconfidence, but if you don't believe you can do great work it's not likely you ever will.
