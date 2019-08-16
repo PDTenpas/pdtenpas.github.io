@@ -162,7 +162,7 @@ The premise of the lecture is this: Hamming noticed early in his career that he 
 - Remember most people, when given freedom, do nothing.
 - Don't blame the system, it won't help you solve important problems, do the best you can given your circumstances.
 
-**Reorganize your life**
+**Reorganize your life.**
 - Cut the cruft. Organize your life around doing significant things, whatever that means to you. "Get down and be somebody worth being."
 - "I've told you things about how to succeed. No one ever told me these things I've been telling you. Nobody. I had to find them for myself."
 - "I have told you how to succeed. You have no excuse for not doing better than I did.""
