@@ -92,7 +92,6 @@ My favorite take-away was his idea on what makes a problem important: it depends
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/a1zDuOPkMSw' frameborder='0' allowfullscreen></iframe></div>
 
 <center><i>You and Your Research - The last lecture of Hamming's 1995 course</i></center>
-
 <br />
 
 #### My Notes
