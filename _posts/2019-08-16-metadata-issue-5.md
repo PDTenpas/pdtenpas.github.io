@@ -147,17 +147,17 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - When you find someone who is very effective, you must try to figure out why and adapt it to you.
 - You must learn and adapt your own style, you can't copy one fully.
 
-**Study Success.**
+**Study success.**
 - Stop studying failure so much. When you see something great, study that.
 - Why did this talk succeed? Why did this project succeed? Why did this person succeed? Ask and think more about these types of questions.
 - Success = the right problem, attacked the right way, at the right time. How did that person do each of those?  
 
-**Tolerate Ambiguity.**
+**Tolerate ambiguity.**
 - Stop being so certain everything you hear is correct.
 - Both believe and disbelieve: believe enough to keep working, disbelieve enough to question.
 - Hamming admits this trait is difficult to teach / communicate.
 
-**Embrace Change.**
+**Embrace change.**
 - No change = no progress.
 - Change is not comfortable for you or those you work with.
 - Learn to welcome it against your intuition.
