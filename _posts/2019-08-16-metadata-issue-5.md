@@ -83,7 +83,7 @@ Los Alamos, Bell Labs, ~10 books, a who's who list of collaborators, and [many s
 
 After Bell Labs, he took up teaching positions and ended up teaching a graduate capstone titled *The Art of Doing Science and Engineering: Learning to Learn*, later publishing a book of the same name which, today, can be bought [used on Amazon for ~$1K](https://www.amazon.com/gp/offer-listing/9056995014/ref=tmm_pap_used_olp_sr?ie=UTF8&condition=used&qid=&sr=).
 
-The course's last lecture, *You and Your Research*, had a huge impact on me as an undergraduate. We watched it on Youtube, projected in a mostly empty lecture hall on a day when the professor couldn't make it in. It may as well have been called *You and Your Life* and even Hamming jokes in the book that the title isn't quite right but research is what he knows best.
+The course's last lecture, *You and Your Research*, had a huge impact on me as an undergraduate. We watched it on Youtube, projected in a mostly empty lecture hall on a day when the professor couldn't make it in. It may as well have been called *You and Your Life* and even Hamming comments that the title isn't quite right but research is what he knows best.
 
 The premise of the lecture is this: Hamming noticed early on in his career that he wasn't on track towards doing significant things with his life. He was determined to figure out why and whether it was worth the effort to change course. The lecture is a report on what he learned in pursuit of these questions.   
 
