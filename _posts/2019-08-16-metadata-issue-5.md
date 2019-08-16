@@ -132,7 +132,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 - Spend ~10% of your time thinking about what these important problems may be, what's happening more broadly, and where things are headed.
 - Talk about important problems and find others who do the same.
 
-**Those who work with their door shut, don't know what to work on.**
+**Those who work with their door shut don't know what to work on.**
 - An open door and an open mind are correlated.
 - Many people incorrectly believe ignoring others is a good method for focusing on important problems.
 - Almost always, door-closed people work on *slightly* the wrong problem.
