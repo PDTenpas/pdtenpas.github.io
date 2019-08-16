@@ -28,7 +28,7 @@ My top reads from the past few weeks...
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90) \| [**Locally Optimistic Slack**](https://www.locallyoptimistic.com/community/)
 
-- This is a phenomenal article. A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
+- This is a phenomenal article. A more fitting title may be: *A reference guide to impactful engineering work and the cultures that allow for it.*
 
 - **TL;DR:** It starts by making the case that your problems probably aren't the same as Twitter/Instagram/etc so stop obsessing over what they're doing. Then it lays out what the important problems are at each level of software systems, how to choose what to buy vs build, how teams should be organized, how to prioritize systemic fixes and maintenance work, why you should build platforms, how to become an excellent engineer, and the pitfalls along the way.
 
@@ -44,7 +44,7 @@ My top reads from the past few weeks...
 
 # Careers
 
-[**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) \| Referenced on [Dangerous Engineering](https://medium.com/dangerous-engineering)
+[**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) \| [**Dangerous Engineering**](https://medium.com/dangerous-engineering)
 
 - **TL;DR:** Don't forget that architecture is simply a means to an end; your job is to provide value.
 
@@ -52,17 +52,18 @@ My top reads from the past few weeks...
 
 [**Breakout List: Career Planning Guide for People in the Technology Industry**](https://breakoutlist.com/career-planning/) \| [**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter)
 
-- **TL;DR:** A great list of content for thinking about and planning a tech career.
+- A great list of content for thinking about and planning a tech career.
 
 [**Skinner as Self-manager (pdf)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf) \| The source was lost to the void, apologies.
 
-- B. F. Skinner is most well-known for establishing the field of experimental behavior research in psychology. Today, many of his theories on conditioning are [now baked into software](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) to make features and products stickier to users. It turns out Skinner used these same ideas from his research to modify his own behavior. I.e. he may have been one of the first methodical life / productivity hackers—sorry Tim Ferriss.
+- B. F. Skinner is most well-known for establishing the field of experimental behavior research in psychology. Today, many of his theories on conditioning are [now baked into software](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) to make features and products stickier to users.
+- **TL;DR:** It turns out Skinner used the same ideas from his research to modify his own behavior. I.e. he may have been one of the first methodical life / productivity hackers—sorry Tim Ferriss.
 
 ---
 
 # Elsewhere in Tech...
 
-[**Animation Is Eating The World: Lessons from the past, present, and future of animation.**](http://www.michaeldempsey.me/animation/) \| [**@mhdempsey**](https://twitter.com/mhdempsey)
+[**Animation Is Eating The World: Lessons from the past, present, and future of animation**](http://www.michaeldempsey.me/animation/) \| [**@mhdempsey**](https://twitter.com/mhdempsey)
 
 - A long read covering the incredible progress happening in animation.
 
@@ -84,13 +85,11 @@ The course's last lecture, "You and Your Research," had a huge impact on me as a
 
 The premise of the lecture is this: Hamming noticed early in his career that he wasn't on track for doing significant things with his life. He was determined to figure out why and whether it was worth the effort try. The lecture is a report on what he learned in pursuit these questions.   
 
-https://www.youtube.com/watch?v=a1zDuOPkMSw
-
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/a1zDuOPkMSw' frameborder='0' allowfullscreen></iframe></div>
 
 <center><i>You and Your Research - The last lecture of Hamming's 1995 course</i></center>
 
-Below are my notes:
+## Below are my notes:
 
 **Why try to do significant work? Is the effort worth it?**
 - You have one life to lead, I'd recommend you try to do something significant.
