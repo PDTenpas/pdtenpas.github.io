@@ -96,8 +96,7 @@ My favorite take-away was his idea on what makes a problem important: it depends
 #### My Notes
 
 **Why try to do something significant? Is the effort worth it?**
-- The unexamined life is not worth living.
-- You have one life to lead, I'd recommend you try to do something significant.
+- You have one life to lead, why not do something significant with it?
 - In old age, which do you want to say: "*well, I didn't do any harm, I had an enjoyable life, I had a good time.*" OR "*I did something I thought was important.*"
 - All those that accomplish great things say it was the best experience of their life.
 
