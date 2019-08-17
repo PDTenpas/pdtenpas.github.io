@@ -78,6 +78,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Curiosity-Driven Data Science**](https://hbr.org/2018/11/curiosity-driven-data-science)
 
+[**Models for integrating data science teams within organizations**](https://medium.com/swlh/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
+
 [**Ten red flags signaling your analytics program will fail**](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail)
 
 [**Responses to Negative Data: Four Senior Leadership Archetypes**](https://www.kaushik.net/avinash/leadership-archetypes-responses-to-negative-data/)
