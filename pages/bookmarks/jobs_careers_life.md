@@ -29,6 +29,10 @@ Cheesy titles on some of these but the content is good.
 
 [**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 
+[**Speed matters: Why working quickly is more important than it seems**](http://jsomers.net/blog/speed-matters)
+
+> The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
+
 [**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
