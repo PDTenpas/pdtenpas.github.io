@@ -114,6 +114,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ## SQL
 
+[**Learning SQL 201: Optimizing Queries, Regardless of Platform**](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
+
 [**postgresql: Don't Do This**](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 
 [**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
