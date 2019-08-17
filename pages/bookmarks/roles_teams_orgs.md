@@ -64,6 +64,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Towards an understanding of technical debt**](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
 
+[**Choose Boring Technology**](http://boringtechnology.club/)
+
 ---
 
 # Organizations
@@ -73,8 +75,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 > Mo’ Titles, Mo’ Problems
 
 [**Don’t Fuck Up the Culture**](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
-
-[**Choose Boring Technology**](http://boringtechnology.club/)
 
 [**Curiosity-Driven Data Science**](https://hbr.org/2018/11/curiosity-driven-data-science)
 
@@ -99,8 +99,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Think Your Company Needs a Data Scientist? You're Probably Wrong.**](https://www.entrepreneur.com/article/310505)
 
 [**The Startup Founder’s Guide to Analytics**](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
-
-[**Your Deep-Learning-Tools-for-Enterprises Startup Will Fail**](https://medium.com/thelaunchpad/your-deep-learning-tools-for-enterprises-startup-will-fail-94fb70683834)
 
 [**How the 100 largest marketplaces solved the chicken and egg problem**](https://medium.com/@elichait/how-the-100-largest-marketplaces-solved-the-chicken-and-egg-problem-11597b5a54fb)
 
