@@ -16,6 +16,8 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
 
+[**The Holloway Guide to Equity Compensation**](https://www.holloway.com/g/equity-compensation)
+
 [**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 
 ---
