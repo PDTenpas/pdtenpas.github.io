@@ -106,22 +106,6 @@ I limit these but am sharing a few finds that have influenced me.
 
 > Cook free or die.
 
-## Podcasts / Videos
-
-[**Making Sense Podcast**](https://samharris.org/podcast/)
-
-- Particularly the first 100 episodes or so.
-
-> All you have to offer others is your mind in each moment.
-
-[**Hello Internet**](http://www.hellointernet.fm/)
-
-[**The Knowledge Project: The Angel Philosopher**](https://fs.blog/naval-ravikant/)
-
-[**The Algebra of Happiness**](https://www.youtube.com/watch?v=qMW6xgPgY4s)
-
-[**Why you should define your fears instead of your goals**](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en)
-
 ## Blog Posts
 
 Misc:
@@ -151,3 +135,21 @@ Favorites from [Wait But Why](https://waitbutwhy.com/):
 [**Religion for the Nonreligious**](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
 
 [**Why Procrastinators Procrastinate**](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [**How to Beat Procrastination**](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [**The Procrastination Matrix**](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
+
+## Podcasts / Videos / Talks
+
+[**Making Sense Podcast**](https://samharris.org/podcast/)
+
+- Particularly the first 100 episodes or so.
+
+> All you have to offer others is your mind in each moment.
+
+[**This is Water by David Foster Wallace**](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
+
+[**Hello Internet**](http://www.hellointernet.fm/)
+
+[**The Knowledge Project: The Angel Philosopher**](https://fs.blog/naval-ravikant/)
+
+[**The Algebra of Happiness**](https://www.youtube.com/watch?v=qMW6xgPgY4s)
+
+[**Why you should define your fears instead of your goals**](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en)
