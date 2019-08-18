@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Open Bookmarks
-subtitle: Reading in public.
 ---
 
-<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />
-
-**I've moved my bookmarks to the web!**
+<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" /> **I've moved my bookmarks to the web!**
 
 ... well, at least the ones worth sharing.
 
