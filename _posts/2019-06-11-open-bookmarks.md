@@ -3,7 +3,9 @@ layout: post
 title: Open Bookmarks
 ---
 
-<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" /> **I've moved my bookmarks to the web!**
+<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />
+
+**I've moved my bookmarks to the web!**
 
 ... well, at least the ones worth sharing.
 
@@ -25,4 +27,4 @@ Check them out in the nav-bar above, or hop to a category from below:
 
 - [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Abstract concepts and more.
 
-Stay tuned... lots of work in progress but there are some gems in there.
+Lots of work in progress but there are some gems in there.
