@@ -4,7 +4,7 @@ title: Open Bookmarks
 subtitle: Reading in public.
 ---
 
-![bm_con]({{ site.url }}/img/bookmark_con_inline.png)
+<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />
 
 **I've moved my bookmarks to the web!**
 

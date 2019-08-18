@@ -13,7 +13,7 @@ Outside of the day job I work on side projects from data stuff to podcasts, news
 
 **I'm currently working on:**
 
-[![bm_con]({{ site.url }}/img/bookmark_con_inline.png)](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)   **Open Bookmarks**
+[<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />](https://pdtenpas.github.io/2019-06-11-open-bookmarks/) **Open Bookmarks**
 
 [<img src="https://pdtenpas.github.io/img/eye_con.png" width="51" height="51" />](https://metadata.substack.com/about/) **Metadata Newsletter**
 
