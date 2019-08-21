@@ -36,8 +36,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning)
 
-[**An overview of the NLP ecosystem in R**](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
-
 [**ML Resources**](https://sgfin.github.io/learning-resources/)
 
 [**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
