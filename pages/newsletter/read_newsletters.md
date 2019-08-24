@@ -27,11 +27,9 @@ In my opinion, for someone working in the average applied data role, the best co
 
 Since a lot of these sources are poorly aggregated you need something to help expose you to new content and sources. A fantastic solution for this has become curated newsletters. [Newsletters are booming](https://medium.com/the-mission/how-on-earth-did-email-newsletters-become-popular-again-3fcee1addc7e). They are often run by opinionated folks in much the same way great blogs are. The curator reads a ton of content, picks out their favorites, and sends them to you.
 
-Other ways of finding content include following those who produce great stuff on platforms like Twitter or Youtube. Subreddit communities can be great as well. Given my current work, I rarely skim through journals but when a big article drops everyone is talking about it and it comes onto my radar one way or another.
+Other ways of finding content include following those who produce/curate great stuff on platforms like Twitter or Youtube. Subreddit communities and industry slack groups can be great as well. Given my current work, I rarely skim through journals anymore but when a big article drops everyone is talking about it and it comes onto my radar one way or another—find or build a network that can serve this function for you.  
 
-Whenever you find a great blog, podcast, etc. through an aggregator you should subscribe directly.
-
-One last note on sources is that you should always be culling the herd. Unsubscribe if any of them stop producing good content or if it's better for you to get their content pre-filtered by something like a newsletter.
+Whenever you find a great blog / podcast / etc through an aggregator you should subscribe directly. However, remember to cull the herd. Unsubscribe if they stop producing or if it's better for you to get it pre-filtered by something like a newsletter.
 
 ## How much should you consume?
 
