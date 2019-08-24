@@ -5,7 +5,7 @@ title: How I Read Newsletters
 
 ---
 
-During my stint in graduate school I learned that one of the most difficult parts of scientific work is keeping up with the flood of new research. It's one thing to know the literature of your field, it's an entirely different thing to keep up with it. You simply cannot read everything new that's relevant, however if you don't keep up you can never be sure you're doing important work. So how does one keep up?
+During my stint in graduate school I learned that a major challenge in scientific work is keeping up with new research. It's one thing to know the literature of your field, it's an entirely different thing to keep up with it. You simply cannot read everything new that's relevant, however if you don't keep up you can never be sure you're doing important work. So how does one keep up?
 
 At the time, I adopted the approach of the [Leek Research Group](http://jtleek.com/) ([documented here on github](https://github.com/jtleek/readingpapers)). I'd summarize it as setting up a firehose of good sources and then regularly skimming and filtering it at different levels. First the title, then the key take-aways, then the evidence behind those take-aways. Finally, if a paper has managed to maintain your interest through all of that, you read the whole thing.
 
@@ -21,13 +21,15 @@ Most importantly you're filling in a mental map of what you know and what you kn
 
 ## What should you read / listen / watch?
 
-In my opinion, for someone working in the average applied data role, the best content is currently coming from blogs, podcasts, and newsletters. This is where real people talk about solving real problems. Startup tech blogs, consulting firms, and venture capital firms also tend to produce some good stuff. For more cutting-edge research, arXiv and the standard applied data/statistics journals should be on your radar. There's also nothing better than a great conference or Meetup talk when you find one.
+In my opinion, for someone working in the average applied data role, the best content is currently coming from blogs, podcasts, and newsletters. This is where real people talk about solving real problems. Startup tech blogs, consulting firms, and venture capital firms also tend to produce some good stuff. For more cutting-edge research, arXiv and the standard applied data/statistics journals should be on your radar. There's also nothing better than a great conference or Meetup talk when you find one, but beware there is a lot of hand waving there as well.
 
 ## How should you find content?
 
-Since a lot of these sources are poorly aggregated you need something to help expose you to new content and sources. A fantastic solution for this has become curated newsletters. [Newsletters are booming](https://medium.com/the-mission/how-on-earth-did-email-newsletters-become-popular-again-3fcee1addc7e). They are often run by opinionated folks in much the same way great blogs are. The curator reads a ton of content, picks out their favorites and sends them to you. Whenever you find a great blog, podcast, etc., subscribe directly.
+Since a lot of these sources are poorly aggregated you need something to help expose you to new content and sources. A fantastic solution for this has become curated newsletters. [Newsletters are booming](https://medium.com/the-mission/how-on-earth-did-email-newsletters-become-popular-again-3fcee1addc7e). They are often run by opinionated folks in much the same way great blogs are. The curator reads a ton of content, picks out their favorites, and sends them to you.
 
-Other ways of finding content include following those who produce great stuff on platforms like Twitter or Youtube. Subreddit communities can be great as well. Given my current work, I very rarely skim through journals but when a big journal article drops everyone is talking about it and it comes onto my radar one way or another.
+Other ways of finding content include following those who produce great stuff on platforms like Twitter or Youtube. Subreddit communities can be great as well. Given my current work, I rarely skim through journals but when a big article drops everyone is talking about it and it comes onto my radar one way or another.
+
+Whenever you find a great blog, podcast, etc. through an aggregator you should subscribe directly.
 
 One last note on sources is that you should always be culling the herd. Unsubscribe if any of them stop producing good content or if it's better for you to get their content pre-filtered by something like a newsletter.
 
@@ -39,13 +41,13 @@ Open each source and read every title. Open titles that interest you in new tabs
 
 A rough guideline on how much to read:
 - **100%** - Read the title
-- **10-20%** - Skim the article/docs or sample the ~5 mins of the podcast/video
+- **10-20%** - Skim the article/docs or sample ~5 mins of the podcast/video
 - **1-5%** - Read/listen/watch the entire article/podcast/video
 - **<1%** - Save for future reference
 
 You need to be a brutal, critical judge. If the sample code is bad, stop and move on. If the writer's logic is poor, stop and move on. If a podcast guest is clearly unknowledgeable, stop and move on. You'll develop different red flags for different types of content.
 
-When you find something good enough to save try to really understand it. Find the there there, the first principles. Then think about how broadly it applies outside the context of the source and how it fits into what you already know.
+When you find something good try to really understand it. Find the there there, the first principles. Then think about how broadly it applies outside the context of the source and how it fits into what you already know.
 
 One last note is that over time you will develop stronger and stronger filters which speeds everything up. Most things are simply over-hyped, over-sold, or aren't relevant to your day-to-day. It's ok to skip them. It's often more than enough to just know something exists.
 
