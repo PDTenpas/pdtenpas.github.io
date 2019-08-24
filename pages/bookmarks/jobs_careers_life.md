@@ -39,6 +39,10 @@ Cheesy titles on some of these but the content is good.
 
 [**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
+[**Data science is different now**](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
+
+[**Learn the Overlaps: Advice for the Aspiring Data Scientist**](https://www.locallyoptimistic.com/post/ds_advice/)
+
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
 
 [**Breakout List: Career Planning Guide for People in the Technology Industry**](https://breakoutlist.com/career-planning/)

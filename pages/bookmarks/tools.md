@@ -116,8 +116,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**postgresql: Don't Do This**](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 
-[**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
-
 [**Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position**](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
 
 [**The Most Underutilized Function in SQL (md5)**](https://blog.fishtownanalytics.com/the-most-underutilized-function-in-sql-9279b536ed1a)

@@ -68,7 +68,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Simply Statistics**](https://simplystatistics.org/post/): We are three biostatistics professors (Jeff Leek, Roger Peng, and Rafa Irizarry) who are fired up about the new era where data are abundant and statisticians are scientists.
 
-[**Tristan Handy**](https://medium.com/@jthandy): Founder and CEO of Fishtown Analytics: helping startups implement advanced analytics.
+[**Tristan Handy's Blog**](https://medium.com/@jthandy): Founder and CEO of Fishtown Analytics: helping startups implement advanced analytics.
 
 [**Locally Optimistic**](https://www.locallyoptimistic.com/): Locally Optimistic is a blog for current and aspiring data analytics leaders.
 
