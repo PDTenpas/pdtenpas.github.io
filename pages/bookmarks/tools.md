@@ -20,6 +20,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Data Oriented Design Resources**](https://github.com/dbartolini/data-oriented-design)
 
+[**Python Data Transformation Tools for ETL**](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
+
 [**Data Engineering How To**](https://github.com/adilkhash/Data-Engineering-HowTo)
 
 [**DataCamp Community Tutorials**](https://www.datacamp.com/community/tutorials)
