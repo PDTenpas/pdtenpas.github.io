@@ -46,6 +46,16 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Strengthening Products and Teams with Technical Design Reviews**](https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216)
 
+[**Towards an understanding of technical debt**](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
+
+[**Scientific Debt**](http://varianceexplained.org/r/scientific-debt/)
+
+> Scientific debt is when a team takes shortcuts in data analysis, experimental practices, and monitoring that could have long-term negative consequences.
+
+[**Prioritizing Data Science Work**](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45)
+
+> Answering one question with data often leads to new questions, so fulfilling requests often creates additional work rather than lowering the amount of work left to do.
+
 [**The Ten Fallacies of Data Science**](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
 
 > There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
@@ -63,8 +73,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
 [**10 Reads for Data Scientists Getting Started with Business Models**](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models)
-
-[**Towards an understanding of technical debt**](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
 
 [**Choose Boring Technology**](http://boringtechnology.club/)
 
