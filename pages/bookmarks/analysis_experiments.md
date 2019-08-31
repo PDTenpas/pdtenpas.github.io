@@ -75,6 +75,8 @@ Framing, Approaches, Significance Pitfalls
 
 [**Against A/B Tests**](https://www.locallyoptimistic.com/post/against-ab-tests/)
 
+[**Is Bayesian A/B Testing Immune to Peeking? Not Exactly**](http://varianceexplained.org/r/bayesian-ab-testing/)
+
 ## Approaches
 
 [**Guidelines for A/B Testing**](https://hookedondata.org/guidelines-for-ab-testing/)
