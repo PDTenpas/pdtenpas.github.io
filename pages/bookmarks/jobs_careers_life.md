@@ -33,6 +33,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Don't Call Yourself A Programmer, And Other Career Advice**](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
+[**Don't End The Week With Nothing**](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing?utm_source=neilkakkar.com)
+
 [**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 
 [**Speed matters: Why working quickly is more important than it seems**](http://jsomers.net/blog/speed-matters)
