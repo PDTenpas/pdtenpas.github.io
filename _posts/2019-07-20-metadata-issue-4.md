@@ -113,8 +113,8 @@ So, engage, seek clarity, help make things better, and find others who do the sa
 
 [Subscribe](https://metadata.substack.com/)
 
-[View Past Favorites in the Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
+[Checkout My Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
+
+[How I Read Newsletters](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
 
 [News Sources](https://pdtenpas.github.io/pages/bookmarks/sources/)
-
-[How I Write the Newsletter](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
