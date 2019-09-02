@@ -13,10 +13,10 @@ Outside of the day job I work on side projects from data stuff to podcasts, news
 
 I'm currently working on:
 
-[<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />](https://pdtenpas.github.io/2019-06-11-open-bookmarks/) **Open Bookmarks**
+[<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />](https://pdtenpas.github.io/2019-06-11-open-bookmarks/) [**Open Bookmarks**](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
-[<img src="https://pdtenpas.github.io/img/eye_con.png" width="51" height="51" />](https://metadata.substack.com/about/) **Metadata Newsletter**
+[<img src="https://pdtenpas.github.io/img/eye_con.png" width="51" height="51" />](https://metadata.substack.com/about/) [**Metadata Newsletter**](https://metadata.substack.com/about/)
 
-[<img src="https://pdtenpas.github.io/img/lm_con.png" width="51" height="51" />](https://pdtenpas.github.io/pages/podcast/) **Local Maxima Podcast**
+[<img src="https://pdtenpas.github.io/img/lm_con.png" width="51" height="51" />](https://pdtenpas.github.io/pages/podcast/) [**Local Maxima Podcast**](https://pdtenpas.github.io/pages/podcast/)
 
 You can find me elsewhere on the internet by clicking the icons down below.
