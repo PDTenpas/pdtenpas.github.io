@@ -2,10 +2,13 @@
 layout: page
 title: Newsletter Archive
 ---
-
 # 2019
 
 ---
+
+[**Issue 6 - Show Me What You Got**](https://pdtenpas.github.io/2019-09-01-metadata-issue-6/) \| *2019-09-01*
+
+[![What You Got]({{ site.url }}/img/whatyougot_banner.png)](https://pdtenpas.github.io/2019-09-01-metadata-issue-6/)
 
 [**Issue 5 - You and Your Research**](https://pdtenpas.github.io/2019-08-16-metadata-issue-5/) \| *2019-08-16*
 
