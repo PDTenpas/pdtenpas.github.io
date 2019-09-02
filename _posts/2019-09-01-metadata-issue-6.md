@@ -85,7 +85,7 @@ Consider what's involved in sharing a strong opinion. For starters, it can take 
 
 Strong opinions aren't just a good test for candidates. If a company doesn't want to hear your opinions, or is turned off by them, is that a place you'd want to work? Opinions can change! That's how teams work. It's the job of the interviewer to assume the candidate has opinions, make sure they are comfortable enough to share them, and provide the opportunity. If they can't do that, it could signal a culture that can't handle disagreement or hasn't put real thought behind hiring.
 
-I love watching people take leaps of faith. Take a risk to say something and trust that I'd help before letting it fall flat. I'd appreciate the same thing in return. That's a real conversation and a good interview, but I don't know, that's just like, my opinion, man.
+I love watching people take leaps of faith. Take a risk to say something and trust that I'd help before letting it fall flat. I'd appreciate the same in return. That's a real conversation and a good interview, but I don't know, that's just like, my opinion, man.
 
 *Related:*
 - [*Strong Opinions, Weakly Held — a framework for thinking*](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
