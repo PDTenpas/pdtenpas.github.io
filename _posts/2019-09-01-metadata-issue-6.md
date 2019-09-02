@@ -51,7 +51,7 @@ Not enough nuance is used when discussing technical debt and it only gets murkie
 
 ---
 
-# Orgs
+# Organizations
 
 [**Lessons from Stripe**](https://markmcgranaghan.com/lessons-from-stripe) \| [**Paul Graham @PaulG**](https://twitter.com/paulg)
 
