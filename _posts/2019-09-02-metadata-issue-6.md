@@ -63,7 +63,7 @@ Not enough nuance is used when discussing technical debt and it only gets murkie
 
 ---
 
-# Thinking
+# Pondering
 
 [**The problem with counterfactuals**](https://lorinhochstein.wordpress.com/2019/08/22/the-problem-with-counterfactuals/) \| [**Software Weekly**](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b)
 
