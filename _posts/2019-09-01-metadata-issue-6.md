@@ -19,13 +19,11 @@ My top reads from the past few weeks...
 
 ---
 
-- **TL;DR:**
-
 # Tools
 
 [**Using event naming conventions to keep analytics data clean**](https://davidwells.io/blog/clean-analytics) \| [**Measure Slack**](https://www.measure.chat/)
 
-- A guide for thinking about event names in terms of context, objects, and actions, along with a rollout strategy and a list of research references.
+- **TL;DR:** A guide for thinking about event names in terms of context, objects, and actions, along with a rollout strategy and a list of research references.
 
 [**Freeing the data scientist mind from the curse of vectoRization**](https://towardsdatascience.com/freeing-the-data-scientist-mind-from-the-curse-of-vectorization-11634c370107) \| [**Data Elixir**](https://dataelixir.com/)
 
@@ -57,7 +55,7 @@ Not enough nuance is used when discussing technical debt and it only gets murkie
 
 [**Lessons from Stripe**](https://markmcgranaghan.com/lessons-from-stripe) \| [**Paul Graham @PaulG**](https://twitter.com/paulg)
 
-- **TL;DR:** Ambitious and tough problems often attract the strongest people, which in turn can actually make tough problems easier to solve than trivial ones. Stripe was also relentless in its recruiting efforts, turning recruiting steps around same-day and sometimes starting relationships years in advance.
+- **TL;DR:** Ambitious and tough problems often attract the strongest people, which in turn can actually make tough problems easier to solve than trivial ones. Stripe was also relentless in its recruiting efforts and optimism.
 
 [**Aligning Business Models to Markets**](https://kwokchain.com/2019/02/22/aligning-business-models-to-markets/) \| [**How It Actually Works**](https://www.howitactuallyworks.com/)
 
@@ -67,7 +65,7 @@ Not enough nuance is used when discussing technical debt and it only gets murkie
 
 # Thinking
 
-[**The problem with counterfactuals**](https://lorinhochstein.wordpress.com/2019/08/22/the-problem-with-counterfactuals/) \| [**Software Weekly**]
+[**The problem with counterfactuals**](https://lorinhochstein.wordpress.com/2019/08/22/the-problem-with-counterfactuals/) \| [**Software Weekly**](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b)
 
 > While counterfactual reasoning helps restore our feeling that the world makes sense, the problem with it is that it doesn’t help us get better at avoiding or dealing with future incidents.
 
@@ -87,11 +85,11 @@ Consider what's involved in sharing a strong opinion. For starters, it can take 
 
 Strong opinions aren't just a good test for candidates. If a company doesn't want to hear your opinions, or is turned off by them, is that a place you'd want to work? Opinions can change! That's how teams work. It's the job of the interviewer to assume the candidate has opinions, make sure they are comfortable enough to share them, and provide the opportunity. If they can't do that, it could signal a culture that can't handle disagreement or hasn't put real thought behind hiring.
 
-I love watching people take leaps of faith, taking the risk to say something closer to the fringe, and trusting that I'd help them before letting it fall flat. That's a real conversation and a good interview, but I don't know, that's just like, my opinion, man.
+I love watching people take leaps of faith, taking a risk to say something, and trusting that I'd help them before letting it fall flat. That's a real conversation and a good interview, but I don't know, that's just like, my opinion, man.
 
-**Related:**
-- [**Strong Opinions, Weakly Held — a framework for thinking**](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
-- [**The Work Required to Have an Opinion**](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/)
+*Related:*
+- [*Strong Opinions, Weakly Held — a framework for thinking*](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
+- [*The Work Required to Have an Opinion*](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/)
 
 ---
 
