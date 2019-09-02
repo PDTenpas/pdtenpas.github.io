@@ -107,7 +107,7 @@ There's a third type with a different sort of superpower: they drain energy from
 
 So, engage, seek clarity, help make things better, and find others who do the same. I was burned a bit by the person that taught me this but when I enter a room I often take a deep breath, clear my head, and briefly think about what the best possible outcome could be. For that, I am grateful.
 
-*Related Reading:* [*Don’t Fuck Up the Culture*](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
+*Related:* [*Don’t Fuck Up the Culture*](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
 
 ---
 
