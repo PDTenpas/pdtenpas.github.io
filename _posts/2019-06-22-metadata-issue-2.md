@@ -111,10 +111,10 @@ From that perspective, Libra's underlying model is awfully familiar: Find those 
 
 ---
 
-[Subscribe](https://metadata.substack.com/)
-
 [Checkout my Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
 [How I Read Newsletters](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
 
 [News Sources](https://pdtenpas.github.io/pages/bookmarks/sources/)
+
+[Subscribe](https://metadata.substack.com/)

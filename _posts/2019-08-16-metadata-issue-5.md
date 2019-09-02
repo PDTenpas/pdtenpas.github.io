@@ -179,10 +179,10 @@ My favorite take-away was his idea on what makes a problem important: it depends
 
 ---
 
-[Subscribe](https://metadata.substack.com/)
-
 [Checkout my Bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
 [How I Read Newsletters](https://pdtenpas.github.io/pages/newsletter/read_newsletters/)
 
 [News Sources](https://pdtenpas.github.io/pages/bookmarks/sources/)
+
+[Subscribe](https://metadata.substack.com/)
