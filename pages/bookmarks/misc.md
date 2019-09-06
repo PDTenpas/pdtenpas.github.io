@@ -47,12 +47,8 @@ title: Miscellaneous
 
 # Random Data History Things
 
-[**The origin story of data science**](https://www.welcometothejungle.co/fr/articles/story-origin-data-science)
-
-- A quick read covering the milestones in academic statistics.
+[**The Future of Data Analysis (1962)**](https://projecteuclid.org/euclid.aoms/1177704711)
 
 [**Data science vs. statistics: two cultures?**](https://rd.springer.com/article/10.1007/s42081-018-0009-3)
-
-[**The Future of Data Analysis (1962)**](https://projecteuclid.org/euclid.aoms/1177704711)
 
 [**A Review of the Neural History of Natural Language Processing**](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
