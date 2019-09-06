@@ -25,6 +25,6 @@ Check them out in the nav-bar above, or hop to a category from below:
 
 - [**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Data and tech newsletters, blogs, and podcasts.
 
-- [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Abstract concepts and more.
+- [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Everything else.
 
 Lots of work in progress but there are some gems in there.

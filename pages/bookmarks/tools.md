@@ -84,6 +84,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**A Visual Intro to NumPy and Data Representation**](https://jalammar.github.io/visual-numpy/)
 
+[**Learn a new pandas trick every day**](Learn a new pandas trick every day)
+
 ## Jupyter
 
 [**Bringing the best out of Jupyter Notebooks for Data Science**](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
@@ -107,6 +109,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 > A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 
 [**How to Write a Git Commit Message**](https://chris.beams.io/posts/git-commit/)
+
+[**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
 
 [**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 

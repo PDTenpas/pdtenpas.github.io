@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Misc
-subtitle: Abstract concepts and more.
+title: Miscellaneous
 ---
 
 ---
 
-# Abstract Concepts
+# Abstract
 
 [**Up and Down the Ladder of Abstraction**](http://worrydream.com/#!2/LadderOfAbstraction)
 
@@ -16,33 +15,19 @@ subtitle: Abstract concepts and more.
 
 > The way things move and spread, somewhat chaotically, across a network.
 
-[**Model Tuning and the Bias-Variance Tradeoff**](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+---
 
-[**A Visual Introduction to Machine Learning**](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-[**Markov Chains Explained Visually**](http://setosa.io/ev/markov-chains/)
-
-> A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
-
-[**Uncertainty + Visualization, Explained**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
-
-[**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
-
-[**Ads Don't Work That Way**](https://meltingasphalt.com/ads-dont-work-that-way/)
-
-> Cultural imprinting is the mechanism whereby an ad, rather than trying to change our minds individually, instead changes the landscape of cultural meanings — which in turn changes how we are perceived by others when we use a product.
+# Time
 
 [**Working with timezones**](https://davecturner.github.io/2018/08/12/working-with-timezones.html)
 
-[**UTC is enough for everyone... right?**](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+[**Storing UTC is not a Silver Bullet**](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 
-- A great post covering why handling time is far more complicated than you probably thought it was.
+[**UTC is enough for everyone... right?**](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 
 > Programming time, dates, timezones, recurring events, leap seconds... everything is pretty terrible.
 
-[**ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus**](https://www.inference.vc/untitled/)
-
-> Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
+# Reading / Writing
 
 [**Leek Lab's guide to reading academic papers**](https://github.com/jtleek/readingpapers)
 
@@ -60,9 +45,7 @@ subtitle: Abstract concepts and more.
 
 ---
 
-# History
-
-*Work in Progress!*
+# Random Data History Things
 
 [**The origin story of data science**](https://www.welcometothejungle.co/fr/articles/story-origin-data-science)
 

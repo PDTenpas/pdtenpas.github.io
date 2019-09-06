@@ -11,14 +11,6 @@ Framing and Approaches
 
 ## Framing
 
-[**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
-
-> If it’s someone’s job to handle all data requests by writing a new SQL query or to downloading data from external systems, your team is headed in the wrong direction.
-
-> Start with manual processes — like SQL queries or API pulls — to understand the problem space. Next, automate the repetitive parts and start manually monitoring that automation. Finally, automate the actions taken to correct issues found via monitoring and manually check performance metrics.
-
-> Frequent small changes over infrequent large changes
-
 [**Data architecture vs backend architecture**](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 
 > I’ve found it useful to push as much as you can out of the backend into the data platform.
@@ -30,6 +22,14 @@ Framing and Approaches
 [**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
 
 > Start with a platform, then use it for everything...
+
+[**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
+
+> If it’s someone’s job to handle all data requests by writing a new SQL query or to downloading data from external systems, your team is headed in the wrong direction.
+
+> Start with manual processes — like SQL queries or API pulls — to understand the problem space. Next, automate the repetitive parts and start manually monitoring that automation. Finally, automate the actions taken to correct issues found via monitoring and manually check performance metrics.
+
+> Frequent small changes over infrequent large changes
 
 [**Functional Data Engineering — a modern paradigm for batch data processing**](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
@@ -86,9 +86,7 @@ Framing and Approaches
 
 ## Framing
 
-[**Data-Informed Product Building**](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
-
-> Our goal is to give you an understanding of how a product evolves from infancy to maturity; a holistic sense of the product metric ecosystem of growth, engagement and monetization; a framework to define goals for your company; and a toolkit you can use to analyze your product’s performance against those goals.
+[**How to deliver on Machine Learning projects: A guide to the ML Engineering Loop**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 
 [**One Model to Rule Them All**](https://bentoml.com/posts/2019-04-19-one-model/)
 
@@ -98,18 +96,12 @@ Framing and Approaches
 
 [**Your Client Engagement Program Isn't Doing What You Think It Is**](https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/)
 
-[**Modeling the unseen: How Instacart uses Machine Learning to spot lost demand in its fulfillment chain**](https://tech.instacart.com/modeling-the-unseen-6a51c9a02430)
-
 [**Understanding Latent Style**](https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/)
+
+[**Modeling the unseen: How Instacart uses Machine Learning to spot lost demand in its fulfillment chain**](https://tech.instacart.com/modeling-the-unseen-6a51c9a02430)
 
 [**Learning Market Dynamics for Optimal Pricing**](https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3)
 
 [**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc)
 
 [**Data Science and the Art of Producing Entertainment at Netflix**](https://medium.com/netflix-techblog/studio-production-data-science-646ee2cc21a1)
-
-[**Scalable approach to building Time Series forecasting Pipelines**](https://towardsdatascience.com/scalable-approach-to-building-time-series-forecasting-pipelines-eadfd75b15ff)
-
-[**How to deliver on Machine Learning projects: A guide to the ML Engineering Loop**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
-
-[**Material Design Data Visualization Principles**](https://material.io/design/communication/data-visualization.html#principles)

@@ -23,6 +23,16 @@ Framing, Cleaning, Approaches
 
 [**Research Design Patterns**](http://pgbovine.net/research-design-patterns.htm)
 
+[**Data-Informed Product Building**](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
+
+> Our goal is to give you an understanding of how a product evolves from infancy to maturity; a holistic sense of the product metric ecosystem of growth, engagement and monetization; a framework to define goals for your company; and a toolkit you can use to analyze your product’s performance against those goals.
+
+[**Model Tuning and the Bias-Variance Tradeoff**](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+
+[**Uncertainty + Visualization, Explained**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
+
+[**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
+
 ## Cleaning / Tidying / Munging / Wrangling
 
 [**Tidy Data**](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
@@ -35,21 +45,23 @@ Framing, Cleaning, Approaches
 
 ## Approaches
 
-[**Importance of Skepticism in Data Science**](https://jhu-advdatasci.github.io/2018/lectures/12-being-skeptical.html)
-
-> Here we examine three common ways that can lead to misinterpreting data.
-
 [**Conversion rates – you are (most likely) computing them wrong**](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
 
-[**The Power User Curve: The best way to understand your most engaged users**](https://andrewchen.co/power-user-curve/)
+[**Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions**](https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
+
+[**Markov Chains Explained Visually**](http://setosa.io/ev/markov-chains/)
+
+> A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
 
 [**Forecasting at scale**](https://peerj.com/preprints/3190/)
 
+[**ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus**](https://www.inference.vc/untitled/)
+
+> Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
+
 [**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/)
 
-[**Inferring causal impact using Bayesian structural time-series models**](https://ai.google/research/pubs/pub41854)
-
-[**The 10 Statistical Techniques Data Scientists Need to Master**](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
+[**The Power User Curve: The best way to understand your most engaged users**](https://andrewchen.co/power-user-curve/)
 
 [**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
 
