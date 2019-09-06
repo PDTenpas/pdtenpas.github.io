@@ -9,7 +9,7 @@ I'm from Oshkosh, Wisconsin and live in Brooklyn, New York. I've had stints in D
 
 I work in data. Past experiences include time at the Harlow Center for Biological Psychology, the 2016 Clinton Presidential Campaign, and Casper Sleep—very different industries but always data. I'm currently continuing my ecommerce streak at Primary.
 
-Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I'm usually working on something new and tend to share it here.
+Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I tend to share new things here.
 
 I'm currently working on:
 
