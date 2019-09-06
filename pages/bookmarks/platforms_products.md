@@ -79,6 +79,8 @@ Framing and Approaches
 
 [**Software Engineering for Machine Learning: A Case Study**](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 
+[**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
+
 ---
 
 # Data Products
