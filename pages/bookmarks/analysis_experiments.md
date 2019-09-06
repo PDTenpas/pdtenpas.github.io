@@ -33,16 +33,6 @@ Framing, Cleaning, Approaches
 
 [**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
 
-## Cleaning / Tidying / Munging / Wrangling
-
-[**Tidy Data**](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
-
-> The principles of tidy data provide a standard way to organize data values within a dataset.
-
-[**The Quartz guide to bad data**](https://github.com/Quartz/bad-data-guide)
-
-> An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
-
 ## Approaches
 
 [**Conversion rates – you are (most likely) computing them wrong**](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
@@ -62,8 +52,6 @@ Framing, Cleaning, Approaches
 [**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/)
 
 [**The Power User Curve: The best way to understand your most engaged users**](https://andrewchen.co/power-user-curve/)
-
-[**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
 
 [**Forecasting: Principles and Practice (book)**](https://otexts.com/fpp2/)
 

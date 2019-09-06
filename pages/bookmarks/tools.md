@@ -52,6 +52,16 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ---
 
+## Cleaning / Tidying / Munging / Wrangling
+
+[**Tidy Data**](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+
+> The principles of tidy data provide a standard way to organize data values within a dataset.
+
+[**The Quartz guide to bad data**](https://github.com/Quartz/bad-data-guide)
+
+> An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+
 ## Style Guides
 
 [**PEP 8 — the Style Guide for Python Code**](https://pep8.org/)
@@ -61,6 +71,12 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**dbt coding conventions**](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
 
 - Serves as a great starter for writing a SQL style guide
+
+# Visualization
+
+[**How to learn D3.js**](https://wattenberger.com/blog/d3#intro)
+
+[**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
 
 ## Opinionated python
 
