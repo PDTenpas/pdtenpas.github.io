@@ -79,7 +79,7 @@ Not enough nuance is used when discussing technical debt and it only gets murkie
 
 ![What You Got]({{ site.url }}/img/whatyougot_banner.png)
 
-I've been on both sides of the interview table quite a bit the past few years. I'm still learning a lot about hiring processes but one thing I keep coming back to is opinions. As an interviewer, I try to get a strong opinion or hot take out of a candidate. As a candidate, I look for those opportunities or try to steer the conversation towards them. The ability to do the work is table stakes. Having an opinion on _how_ it should be done? That's far more interesting.
+I've been on both sides of the interview table quite a bit the past few years. I'm still learning a lot about hiring processes but one thing I keep coming back to is opinions. As an interviewer, I try to get a strong opinion or hot take out of a candidate. As a candidate, I look for those opportunities or try to steer the conversation towards them. The ability to do the work is table stakes. Having an opinion on how it _should_ be done? That's far more interesting.
 
 Consider what's involved in sharing a strong opinion. For starters, strong opinions are often learned the hard way. It can take a lot of work just to get to a place where you can form one. And to share one in an interview? That's risky. What if someone disagrees? Do both parties know how to navigate that? To concede misunderstandings? To bring up what they don't know or would need to know to resolve it? It sounds like a path to rejection, but it's actually way more similar to, I don't know, _the actual work you'd be doing on the job_.
 
