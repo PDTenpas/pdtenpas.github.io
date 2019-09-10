@@ -124,6 +124,8 @@ Misc:
 
 [**Humans Cannot Survive Alone**](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
 
+[**The days are long but the decades are short**](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+
 Favorites from [**Slate Star Codex**](https://slatestarcodex.com/):
 
 [**Different Worlds**](https://slatestarcodex.com/2017/10/02/different-worlds/)
