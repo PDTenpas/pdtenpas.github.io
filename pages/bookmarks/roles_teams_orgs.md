@@ -12,8 +12,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function**](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
-[**What Skeptics Get Wrong About Full-Stack Engineers—And Why We Need Them**](https://angel.co/blog/what-skeptics-get-wrong-about-full-stack-engineers-and-why-we-need-them)
-
 [**What’s in a name?: The semantics of Science at Lyft**](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
 
 -  Lyft outlines the problems in data title ambiguity and proliferation.
