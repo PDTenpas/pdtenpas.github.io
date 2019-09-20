@@ -62,6 +62,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
+---
+
 ## Style Guides
 
 [**PEP 8 — the Style Guide for Python Code**](https://pep8.org/)
@@ -72,11 +74,15 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 - Serves as a great starter for writing a SQL style guide
 
+---
+
 # Visualization
 
 [**How to learn D3.js**](https://wattenberger.com/blog/d3#intro)
 
 [**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
+
+---
 
 ## Opinionated python
 
@@ -92,6 +98,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Fast Pandas: A Benchmarked Pandas Cheat Sheet**](https://github.com/mm-mansour/Fast-Pandas)
 
+---
+
 ## Misc python
 
 [**Python for Data Science: 8 Concepts You May Have Forgotten**](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
@@ -102,6 +110,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Learn a new pandas trick every day**](Learn a new pandas trick every day)
 
+---
+
 ## Jupyter
 
 [**Bringing the best out of Jupyter Notebooks for Data Science**](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
@@ -111,6 +121,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**Jupyter Docker Stacks**](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
 [**Joel Grus' I Don't Like Notebooks Slides**](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
+
+---
 
 ## Git / Code Review
 
@@ -132,6 +144,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
 
+---
+
 ## SQL
 
 [**Learning SQL 201: Optimizing Queries, Regardless of Platform**](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
@@ -144,6 +158,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**SQL Window Functions to Pass a Data Analytics Interview**](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
 
+---
+
 ## Data Build Tool (DBT)
 
 [**Build Your Data Analytics Like An Engineer (podcast)**](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
@@ -152,11 +168,17 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**How we structure our dbt projects**](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
 
+[**On the limits of incrementality**](https://discourse.getdbt.com/t/on-the-limits-of-incrementality/303)
+
+---
+
 ## Snowflake
 
 [**How we configure Snowflake**](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4)
 
 [**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
+
+---
 
 ## Looker
 

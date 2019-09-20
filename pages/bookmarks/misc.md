@@ -27,6 +27,8 @@ title: Miscellaneous
 
 > Programming time, dates, timezones, recurring events, leap seconds... everything is pretty terrible.
 
+---
+
 # Reading / Writing
 
 [**Leek Lab's guide to reading academic papers**](https://github.com/jtleek/readingpapers)
