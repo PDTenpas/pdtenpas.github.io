@@ -77,6 +77,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Strong Opinions, Weakly Held — a framework for thinking**](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
 
+[**Writing is Thinking**](“Writing is Thinking”—an annotated twitter thread)
+
 [**Skinner as Self-manager**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf)
 
 [**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/2013/02/the-psychology-of-human-misjudgement/)
