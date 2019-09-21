@@ -108,7 +108,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**A Visual Intro to NumPy and Data Representation**](https://jalammar.github.io/visual-numpy/)
 
-[**Learn a new pandas trick every day**](Learn a new pandas trick every day)
+[**Learn a new pandas trick every day**](https://www.dataschool.io/python-pandas-tips-and-tricks/)
 
 ---
 
