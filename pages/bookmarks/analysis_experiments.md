@@ -99,6 +99,8 @@ Framing, Approaches, Significance Pitfalls
 
 > Our key point here is that it is possible to have multiple potential comparisons, in the sense of a data analysis whose details are highly contingent on data, without the researcher performing any conscious procedure of fishing or examining multiple p-values.
 
+- I wrote some notes on this paper [here](https://pdtenpas.github.io/2019-06-15-metadata-issue-1/).
+
 [**False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant**](https://journals.sagepub.com/doi/full/10.1177/0956797611417632?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed)
 
 [**Why Most Published Research Findings Are False**](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)

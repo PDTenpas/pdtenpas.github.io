@@ -45,6 +45,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Data science is different now**](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
 
+[**Ten Principles for Growth as an Engineer**](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
+
 [**Learn the Overlaps: Advice for the Aspiring Data Scientist**](https://www.locallyoptimistic.com/post/ds_advice/)
 
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
@@ -64,6 +66,8 @@ Cheesy titles on some of these but the content is good.
 [**Hamming, "You and Your Research" (June 6, 1995)**](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 
 - A phenomenal talk that goes beyond academic research and serves as a guide on how to do great work.
+
+- [My notes on this talk](https://pdtenpas.github.io/2019-08-16-metadata-issue-5/).
 
 [**Cargo Cult Science: Some remarks on science, pseudoscience, and learning how to not fool yourself.**](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
