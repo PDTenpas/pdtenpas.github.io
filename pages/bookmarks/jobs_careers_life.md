@@ -152,6 +152,12 @@ Favorites from [Wait But Why](https://waitbutwhy.com/):
 
 [**Why Procrastinators Procrastinate**](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [**How to Beat Procrastination**](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [**The Procrastination Matrix**](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 
+## Personal Sites
+
+[**Paul Graham**](http://www.paulgraham.com/index.html)
+
+[**Patrick Collison**](https://patrickcollison.com/about)
+
 ## Podcasts / Videos / Talks
 
 [**Making Sense Podcast**](https://samharris.org/podcast/)
