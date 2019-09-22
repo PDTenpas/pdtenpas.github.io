@@ -172,6 +172,8 @@ Favorites from [Wait But Why](https://waitbutwhy.com/):
 
 [**Hello Internet**](http://www.hellointernet.fm/)
 
+[**How do you deal with stress**](https://www.youtube.com/watch?v=NqVoOC2azZI)
+
 [**The Knowledge Project: The Angel Philosopher**](https://fs.blog/naval-ravikant/)
 
 [**The Algebra of Happiness**](https://www.youtube.com/watch?v=qMW6xgPgY4s)
