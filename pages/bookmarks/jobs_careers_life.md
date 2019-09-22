@@ -158,6 +158,8 @@ Favorites from [Wait But Why](https://waitbutwhy.com/):
 
 [**Patrick Collison**](https://patrickcollison.com/about)
 
+[**Patrick McKenzie**](https://www.kalzumeus.com/)
+
 ## Podcasts / Videos / Talks
 
 [**Making Sense Podcast**](https://samharris.org/podcast/)
