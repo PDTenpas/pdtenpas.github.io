@@ -140,6 +140,8 @@ I limit these but am sharing a few finds that have influenced me.
 
 - [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
 
+- [The Thinking Ladder](https://waitbutwhy.com/2019/09/thinking-ladder.html)
+
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [How to Beat Procrastination](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 
 **Misc favorites:**
