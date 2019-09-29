@@ -100,7 +100,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Andrew Chen's Newsletter**](https://andrewchen.co/): Long-form essays on startups, growth, metrics, and network effects.
 
-[**Snippets 2.0**](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
+[**Two Truths and a Take**](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
 
 [**No Mercy / No Malice**](https://www.profgalloway.com/): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
 
