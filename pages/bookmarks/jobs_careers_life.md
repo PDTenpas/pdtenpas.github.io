@@ -45,6 +45,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Data science is different now**](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
 
+[Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html)
+
 [**Ten Principles for Growth as an Engineer**](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
 
 [**Learn the Overlaps: Advice for the Aspiring Data Scientist**](https://www.locallyoptimistic.com/post/ds_advice/)
@@ -130,7 +132,7 @@ I limit these but am sharing a few finds that have influenced me.
 
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 
-[**Wait But Why**](https://waitbutwhy.com/), some favorits:
+[**Wait But Why**](https://waitbutwhy.com/), some favorites:
 
 - [Your Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
 
@@ -140,13 +142,13 @@ I limit these but am sharing a few finds that have influenced me.
 
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [How to Beat Procrastination](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 
-Misc posts:
+Misc favorites:
 
-[**I Have Died Many Times**](http://www.cgpgrey.com/blog/i-have-died-many-times)
+- [I Have Died Many Times](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
-[**Humans Cannot Survive Alone**](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
+- [Humans Cannot Survive Alone](https://medium.com/s/no-mercy-no-malice/we-are-pack-animals-and-engagement-equals-health-800c8c9bde36)
 
-[**The days are long but the decades are short**](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+- [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
 ## Misc Sites
 
