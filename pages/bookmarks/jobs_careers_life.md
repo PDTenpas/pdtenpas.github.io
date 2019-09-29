@@ -120,9 +120,27 @@ I limit these but am sharing a few finds that have influenced me.
 
 > Cook free or die.
 
-## Blog Posts
+## Blogs
 
-Misc:
+[**Slate Star Codex**](https://slatestarcodex.com/), some favorites:
+
+- [Different Worlds](https://slatestarcodex.com/2017/10/02/different-worlds/)
+
+- [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+- [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
+
+[**Wait But Why**](https://waitbutwhy.com/), some favorits:
+
+- [Your Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
+
+- [Taming the Mammoth: Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
+
+- [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
+
+- [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [How to Beat Procrastination](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
+
+Misc posts:
 
 [**I Have Died Many Times**](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
@@ -130,35 +148,21 @@ Misc:
 
 [**The days are long but the decades are short**](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
-Favorites from [**Slate Star Codex**](https://slatestarcodex.com/):
+## Misc Sites
 
-[**Different Worlds**](https://slatestarcodex.com/2017/10/02/different-worlds/)
+[**LessWrong**](https://www.lesswrong.com/)
 
-[**Meditations on Moloch**](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+[**Farnam Street**](https://fs.blog/)
 
-> The implicit question is – if everyone hates the current system, who perpetuates it?
+[**80,000 Hours**](https://80000hours.org/)
 
-> I’m not really sure how widely people appreciate the value of analogizing capitalism to evolution.
+Personal Sites:
 
-[**Who by Very Slow Decay**](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
+- [Paul Graham](http://www.paulgraham.com/index.html)
 
-Favorites from [Wait But Why](https://waitbutwhy.com/):
+- [Patrick Collison](https://patrickcollison.com/about)
 
-[**Your Life in Weeks**](https://waitbutwhy.com/2014/05/life-weeks.html)
-
-[**Taming the Mammoth: Why You Should Stop Caring What Other People Think**](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
-
-[**Religion for the Nonreligious**](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)
-
-[**Why Procrastinators Procrastinate**](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [**How to Beat Procrastination**](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [**The Procrastination Matrix**](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
-
-## Personal Sites
-
-[**Paul Graham**](http://www.paulgraham.com/index.html)
-
-[**Patrick Collison**](https://patrickcollison.com/about)
-
-[**Patrick McKenzie**](https://www.kalzumeus.com/)
+- [Patrick McKenzie](https://www.kalzumeus.com/)
 
 ## Podcasts / Videos / Talks
 
