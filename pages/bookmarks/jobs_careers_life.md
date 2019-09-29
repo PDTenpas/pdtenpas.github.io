@@ -45,7 +45,7 @@ Cheesy titles on some of these but the content is good.
 
 [**Data science is different now**](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
 
-[Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html)
+[**Miscellaneous unsolicited (and possibly biased) career advice**](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html)
 
 [**Ten Principles for Growth as an Engineer**](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
 
@@ -142,7 +142,7 @@ I limit these but am sharing a few finds that have influenced me.
 
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html), [How to Beat Procrastination](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html), and [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 
-Misc favorites:
+**Misc favorites:**
 
 - [I Have Died Many Times](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
@@ -158,7 +158,7 @@ Misc favorites:
 
 [**80,000 Hours**](https://80000hours.org/)
 
-Personal Sites:
+**Personal Sites:**
 
 - [Paul Graham](http://www.paulgraham.com/index.html)
 
