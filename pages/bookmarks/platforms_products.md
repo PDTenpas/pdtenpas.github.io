@@ -37,6 +37,8 @@ Framing and Approaches
 
 [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 
+[**Best practices for data modeling**](https://www.stitchdata.com/blog/best-practices-for-data-modeling/) 
+
 [**Research quality data and research quality databases**](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)
 
 [**4 Pillars of Analytics**](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
