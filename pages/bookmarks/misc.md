@@ -25,6 +25,8 @@ title: Miscellaneous
 
 [**Storing UTC is not a Silver Bullet**](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 
+[**Dates, Times, Calendars— The Universal Source of Data Science Trauma**](https://towardsdatascience.com/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1)
+
 [**UTC is enough for everyone... right?**](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 
 > Programming time, dates, timezones, recurring events, leap seconds... everything is pretty terrible.
