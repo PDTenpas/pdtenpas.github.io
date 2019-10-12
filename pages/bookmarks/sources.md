@@ -104,9 +104,11 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**No Mercy / No Malice**](https://www.profgalloway.com/): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
 
-[**Ark Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
-
 [**How It Actually Works**](https://www.howitactuallyworks.com/): I read every corner of the Internet to find the best material to answer the question: how does the world actually work?
+
+[**Lenny's Newsletter**](https://www.lennyrachitsky.com/): A weekly advice column focusing on product, growth, leadership, and anything else that's stressing you out at the office.
+
+[**Ark Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
 
 [**CIO Dive**](https://www.ciodive.com/signup/): CIO Dive delivers the latest tech intel straight to your inbox.
 
