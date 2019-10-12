@@ -178,6 +178,8 @@ I limit these but am sharing a few finds that have influenced me.
 
 [**This is Water by David Foster Wallace**](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 
+[**David Foster Wallace on Ambition**](https://www.youtube.com/watch?v=w5R8gduPZw4&feature=youtu.be)
+
 [**Hello Internet**](http://www.hellointernet.fm/)
 
 [**How do you deal with stress**](https://www.youtube.com/watch?v=NqVoOC2azZI)
