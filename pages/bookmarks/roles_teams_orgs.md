@@ -20,6 +20,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**The Analytics Engineer**](https://www.locallyoptimistic.com/post/analytics-engineer/)
 
+[**When did analytics engineering become a thing? And why?**](https://blog.getdbt.com/what-is-an-analytics-engineer/)
+
 [**The three kinds of data scientists**](http://www.residentmar.io/2018/10/18/roles-in-data-science.html)
 
 [**One Data Science Job Doesn’t Fit All**](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
@@ -36,13 +38,15 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 - A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
 
+[**Choose Boring Technology**](http://boringtechnology.club/)
+
+[**Being Glue**](https://noidea.dog/glue)
+
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 
 [**Scaling Knowledge**](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)
 
 > Most companies suck at disseminating factual knowledge. Yours probably does too.
-
-[**Being Glue**](https://noidea.dog/glue)
 
 [**Strengthening Products and Teams with Technical Design Reviews**](https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216)
 
@@ -73,8 +77,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
 [**10 Reads for Data Scientists Getting Started with Business Models**](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models)
-
-[**Choose Boring Technology**](http://boringtechnology.club/)
 
 ---
 
