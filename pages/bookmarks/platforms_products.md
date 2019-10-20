@@ -19,6 +19,8 @@ Framing and Approaches
 
 - A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
 
+[**Data Lake**](https://martinfowler.com/bliki/DataLake.html)
+
 [**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
 
 > Start with a platform, then use it for everything...
@@ -37,7 +39,7 @@ Framing and Approaches
 
 [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 
-[**Best practices for data modeling**](https://www.stitchdata.com/blog/best-practices-for-data-modeling/) 
+[**Best practices for data modeling**](https://www.stitchdata.com/blog/best-practices-for-data-modeling/)
 
 [**Research quality data and research quality databases**](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)
 

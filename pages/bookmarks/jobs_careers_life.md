@@ -168,6 +168,8 @@ I limit these but am sharing a few finds that have influenced me.
 
 - [Patrick McKenzie](https://www.kalzumeus.com/)
 
+- [Martin Fowler](https://martinfowler.com/)
+
 ## Podcasts / Videos / Talks
 
 [**Making Sense Podcast**](https://samharris.org/podcast/)
