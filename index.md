@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Hello,
+subtitle: I'm Parker.
 use-site-title: true
 ---
 
