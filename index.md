@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+use-site-title: true
 ---
 
 Hello, I'm Parker.
