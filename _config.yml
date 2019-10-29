@@ -34,7 +34,7 @@ navbar-links:
 
   newsletter:
     - about: "https://metadata.substack.com/about/"
-    - archive: "pages/newsletter/archive"
+    - archive: "https://metadata.substack.com/archive"
     - news sources: "pages/bookmarks/sources"
     - how I read newsletters: "pages/newsletter/read_newsletters"
   podcast: "pages/podcast"
