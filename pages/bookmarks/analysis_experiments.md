@@ -39,6 +39,8 @@ Framing, Cleaning, Approaches
 
 [**Modeling conversion rates and saving millions of dollars using Kaplan-Meier and gamma distributions**](https://better.engineering/2019/07/29/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
 
+[**You’re all calculating churn rates wrong**](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992)
+
 [**Markov Chains Explained Visually**](http://setosa.io/ev/markov-chains/)
 
 > A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
