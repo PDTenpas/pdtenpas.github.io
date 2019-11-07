@@ -98,6 +98,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Fast Pandas: A Benchmarked Pandas Cheat Sheet**](https://github.com/mm-mansour/Fast-Pandas)
 
+[**Why you should use `python -m pip`**](https://snarky.ca/why-you-should-use-python-m-pip/)
+
 ---
 
 ## Misc python

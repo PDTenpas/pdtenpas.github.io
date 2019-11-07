@@ -51,8 +51,6 @@ Framing and Approaches
 
 ## Approaches
 
-[**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
-
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
 
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
@@ -75,11 +73,9 @@ Framing and Approaches
 
 [**Part 2: Scheduling Notebooks at Netflix**](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
 
-[**Packaging Python inside your organization with GitLab and Conda**](https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/)
+[**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 
-[**Turning Machine Learning Models into APIs in Python**](https://www.datacamp.com/community/tutorials/machine-learning-models-api-python)
-
-[**Automatic Feature Engineering: An Event-Driven Approach**](https://medium.com/data-from-the-trenches/automatic-feature-engineering-an-event-driven-approach-b2ca09d166f)
+[**How LinkedIn, Uber, Lyft, Airbnb and Netflix are Solving Data Management and Discovery for Machine Learning Solutions**](https://towardsdatascience.com/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-9b79ee9184bb)
 
 [**Software Engineering for Machine Learning: A Case Study**](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 
