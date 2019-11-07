@@ -65,6 +65,8 @@ Framing, Approaches, Significance Pitfalls
 
 ## Framing
 
+[**The Engineering Problem of A/B Testing**](https://levelup.gitconnected.com/the-engineering-problem-of-a-b-testing-ac1adfd492a8)
+
 [**Common statistical tests are linear models (or: how to teach stats)**](https://lindeloev.github.io/tests-as-linear/)
 
 [**North Star or sign post metrics: which should one optimize?**](https://medium.com/@leapingllamas/north-star-or-sign-post-metrics-which-should-one-optimize-24bcc9c05bfb)
