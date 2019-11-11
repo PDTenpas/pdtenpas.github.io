@@ -128,7 +128,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ## Git / Code Review
 
-[**Flight rules for Git**](https://github.com/k88hudson/git-flight-rules#git-bash)
+[**Flight rules for Git**](https://github.com/k88hudson/git-flight-rules)
 
 > A guide for astronauts (now, programmers using Git) about what to do when things go wrong.
 
