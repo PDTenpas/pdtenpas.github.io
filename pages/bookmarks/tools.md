@@ -14,6 +14,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**Awesome Python**](https://awesome-python.com/)
 
+[**Awesome Python Data Science**](https://github.com/krzjoa/awesome-python-data-science)
+
 [**Awesome R**](https://github.com/qinwf/awesome-R)
 
 [**Awesome Apache Airflow**](https://github.com/jghoman/awesome-apache-airflow)
