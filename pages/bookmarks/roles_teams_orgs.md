@@ -38,6 +38,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 - A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
 
+[**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
+
 [**Choose Boring Technology**](http://boringtechnology.club/)
 
 [**Being Glue**](https://noidea.dog/glue)
