@@ -58,6 +58,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > Scientific debt is when a team takes shortcuts in data analysis, experimental practices, and monitoring that could have long-term negative consequences.
 
+[**Machine Learning: The High Interest Credit Card of Technical Debt**](https://ai.google/research/pubs/pub43146)
+
 [**Prioritizing Data Science Work**](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45)
 
 > Answering one question with data often leads to new questions, so fulfilling requests often creates additional work rather than lowering the amount of work left to do.
