@@ -66,6 +66,8 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**DataFramed**](https://www.datacamp.com/community/podcast): What exactly is Data Science? In the podcast by DataCamp, Hugo Bowne-Anderson approaches this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best.
 
+[**https://podcasts.apple.com/us/podcast/the-banana-data-podcast/id1463103655**](https://podcasts.apple.com/us/podcast/the-banana-data-podcast/id1463103655)
+
 ## Selected Blogs
 
 [**Simply Statistics**](https://simplystatistics.org/post/): We are three biostatistics professors (Jeff Leek, Roger Peng, and Rafa Irizarry) who are fired up about the new era where data are abundant and statisticians are scientists.
