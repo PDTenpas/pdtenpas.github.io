@@ -50,6 +50,8 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Projects To Know**](https://projectstoknow.amplifypartners.com/ml-and-data): The Projects to Know weekly newsletter features 3 academic papers and 3 open source projects that are playing a meaningful role in advancing machine intelligence and data science.
 
+[**Nathan.ai**](http://newsletter.airstreet.com/): A market intelligence newsletter covering AI in the technology industry, research lab and venture capital market.
+
 ## Podcasts
 
 [**The Data Engineering Podcast**](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
