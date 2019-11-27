@@ -66,7 +66,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**DataFramed**](https://www.datacamp.com/community/podcast): What exactly is Data Science? In the podcast by DataCamp, Hugo Bowne-Anderson approaches this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best.
 
-[**https://podcasts.apple.com/us/podcast/the-banana-data-podcast/id1463103655**](https://podcasts.apple.com/us/podcast/the-banana-data-podcast/id1463103655)
+[**The Banana Data Podcast**](https://podcasts.apple.com/us/podcast/the-banana-data-podcast/id1463103655)
 
 ## Selected Blogs
 
