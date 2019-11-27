@@ -48,6 +48,8 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Conor Dewey's Newsletter**](https://www.conordewey.com/newsletter): I send an email newsletter every Tuesday with my notes for the past week — the stories and links that I thought were interesting, plus any new posts or projects I’ve been working on.
 
+[**Projects To Know**](https://projectstoknow.amplifypartners.com/ml-and-data): The Projects to Know weekly newsletter features 3 academic papers and 3 open source projects that are playing a meaningful role in advancing machine intelligence and data science.
+
 ## Podcasts
 
 [**The Data Engineering Podcast**](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
