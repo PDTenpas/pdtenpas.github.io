@@ -81,6 +81,8 @@ Framing and Approaches
 
 [**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
 
+[**Airbnb’s Airflow Versus Spotify’s Luigi**](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791)
+
 ---
 
 # Data Products
