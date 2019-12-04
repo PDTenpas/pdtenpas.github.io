@@ -43,6 +43,8 @@ Framing and Approaches
 
 [**Research quality data and research quality databases**](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)
 
+[**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
+
 [**4 Pillars of Analytics**](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
 
 - Acquire, Process, Surface, Act.
