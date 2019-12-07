@@ -116,8 +116,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Ark Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
 
-[**CIO Dive**](https://www.ciodive.com/signup/): CIO Dive delivers the latest tech intel straight to your inbox.
-
 [**A VC**](https://avc.com/subscribe/): Fred Wilson muses about VC life.
 
 [**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters): Receive the latest intelligence on emerging tech from MIT Technology Review, delivered straight to your inbox.
