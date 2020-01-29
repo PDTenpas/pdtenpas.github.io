@@ -51,6 +51,8 @@ Framing and Approaches
 
 > Start with a platform, and then use it for everything...
 
+[**Whom the Gods Would Destroy, They First Give Real-time Analytics**](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics) 
+
 ## Approaches
 
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)

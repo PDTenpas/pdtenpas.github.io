@@ -42,7 +42,11 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Choose Boring Technology**](http://boringtechnology.club/)
 
+[**Eliminating Toil**](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/)
+
 [**Being Glue**](https://noidea.dog/glue)
+
+[**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 

@@ -49,6 +49,10 @@ Cheesy titles on some of these but the content is good.
 
 [**Miscellaneous unsolicited (and possibly biased) career advice**](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html)
 
+[**‘Give Away Your Legos’ and Other Commandments for Scaling Startups**](https://firstround.com/review/give-away-your-legos-and-other-commandments-for-scaling-startups/)
+
+> If you personally want to grow as fast as your company, you have to give away your job every couple months.
+
 [**Ten Principles for Growth as an Engineer**](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
 
 [**Learn the Overlaps: Advice for the Aspiring Data Scientist**](https://www.locallyoptimistic.com/post/ds_advice/)

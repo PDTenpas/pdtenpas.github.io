@@ -189,3 +189,5 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**How to Design Your Looker Explores**](https://blog.fishtownanalytics.com/how-to-design-your-looker-explores-171e28465add)
 
 [**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
+
+[**Spring Cleaning: Marie Kondo your Looker Instance (PDF)**](https://discourse.looker.com/uploads/default/original/2X/9/939cf95a473cada62cdde694ccbfa4c9a996a2fd.pdf)
