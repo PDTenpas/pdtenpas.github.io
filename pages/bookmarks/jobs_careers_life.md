@@ -43,6 +43,11 @@ Cheesy titles on some of these but the content is good.
 
 > The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
 
+[**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+
+> I’ve done this a few times myself now; start out as an early or first infra engineering hire, build the stack, then build the team, then manage the team, then … leave and start it all over again. I get antsy, I get restless. I start to feel like I know what I’m doing (… a telltale sign something’s wrong).
+> It’s a good cycle for people who like early stage companies, or have ADD. But I don’t see people talking about it as a career path. So I’m here to advocate for it, as an intentional and awesome way of life.
+
 [**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
 [**Data science is different now**](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
