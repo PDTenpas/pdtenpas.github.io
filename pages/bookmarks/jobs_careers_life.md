@@ -158,6 +158,8 @@ I limit these but am sharing a few finds that have influenced me.
 
 - [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
+- [The Inner Ring](https://www.lewissociety.org/innerring/)
+
 ## Misc Sites
 
 [**LessWrong**](https://www.lesswrong.com/)
