@@ -11,12 +11,10 @@ I work in data. Past experiences include time at the Harlow Center for Biologica
 
 Outside of the day job I work on side projects from data stuff to podcasts, newsletters, blogs, and videos. Most of them end up shelved but I tend to share new things here.
 
-**I'm currently working on:**
+I'm currently (*sporadically*) working on:
 
 [<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />](https://pdtenpas.github.io/2019-06-11-open-bookmarks/) [**Open Bookmarks**](https://pdtenpas.github.io/2019-06-11-open-bookmarks/)
 
 [<img src="https://pdtenpas.github.io/img/eye_con.png" width="51" height="51" />](https://metadata.substack.com/about/) [**Metadata Newsletter**](https://metadata.substack.com/about/)
 
 [<img src="https://pdtenpas.github.io/img/lm_con.png" width="51" height="51" />](https://pdtenpas.github.io/pages/podcast/) [**Local Maxima Podcast**](https://pdtenpas.github.io/pages/podcast/)
-
-**Find me elsewhere on the internet with the icons below.**
