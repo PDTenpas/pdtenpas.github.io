@@ -32,13 +32,6 @@ navbar-links:
     - news sources: "pages/bookmarks/sources"
     - misc: "pages/bookmarks/misc"
 
-  newsletter:
-    - about: "https://metadata.substack.com/about/"
-    - archive: "https://metadata.substack.com/archive"
-    - news sources: "pages/bookmarks/sources"
-    - how I read newsletters: "pages/newsletter/read_newsletters"
-  podcast: "pages/podcast"
-
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/img/eye_con.png"
