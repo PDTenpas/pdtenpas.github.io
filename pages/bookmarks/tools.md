@@ -174,11 +174,13 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ---
 
-## Snowflake
+## Data Warehouses
 
 [**How we configure Snowflake**](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4)
 
 [**How Compatible are Redshift and Snowflake’s SQL Syntaxes?**](https://medium.com/@jthandy/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84)
+
+[**The R.A.G (Redshift Analyst Guide)**](https://dev.to/ronsoak/the-r-a-g-redshift-analyst-guide-what-is-redshift-fc1)
 
 ---
 

@@ -16,6 +16,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 -  Lyft outlines the problems in data title ambiguity and proliferation.
 
+[**Data Science: Reality Doesn't Meet Expectations**](https://dfrieds.com/articles/data-science-reality-vs-expectations.html)
+
 [**Does my Startup Data Team Need a Data Engineer?**](https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9)
 
 [**The Analytics Engineer**](https://www.locallyoptimistic.com/post/analytics-engineer/)
