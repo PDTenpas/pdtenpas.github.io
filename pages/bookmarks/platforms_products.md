@@ -51,7 +51,7 @@ Framing and Approaches
 
 > Start with a platform, and then use it for everything...
 
-[**Whom the Gods Would Destroy, They First Give Real-time Analytics**](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics) 
+[**Whom the Gods Would Destroy, They First Give Real-time Analytics**](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 
 ## Approaches
 
@@ -76,8 +76,6 @@ Framing and Approaches
 [**Beyond Interactive: Notebook Innovation at Netflix**](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 
 [**Part 2: Scheduling Notebooks at Netflix**](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
-
-[**Amundsen — Lyft’s data discovery & metadata engine**](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9)
 
 [**How LinkedIn, Uber, Lyft, Airbnb and Netflix are Solving Data Management and Discovery for Machine Learning Solutions**](https://towardsdatascience.com/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-9b79ee9184bb)
 

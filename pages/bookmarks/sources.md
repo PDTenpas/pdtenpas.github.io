@@ -82,9 +82,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Erik Bernhardsson's Blog**](https://erikbern.com/): The blog of Better's CTO and the guy you can thank for Spotify's Discover Weekly.
 
-[**Variance Explained**](http://varianceexplained.org/posts/): The blog of DataCamp's Chief Data Scientist, David Robinson.
-
-[**Hooked on Data**](https://hookedondata.org/): Emily Robinson's blog. Emily currently works at DataCamp and was previously at Etsy.
+[**Variance Explained**](http://varianceexplained.org/posts/): David Robinson's blog; he's very active in the community.
 
 ---
 
@@ -115,8 +113,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 [**Lenny's Newsletter**](https://www.lennyrachitsky.com/): A weekly advice column focusing on product, growth, leadership, and anything else that's stressing you out at the office.
 
 [**Ark Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
-
-[**A VC**](https://avc.com/subscribe/): Fred Wilson muses about VC life.
 
 [**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters): Receive the latest intelligence on emerging tech from MIT Technology Review, delivered straight to your inbox.
 
@@ -175,5 +171,3 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 [**In Our Time**](https://www.bbc.co.uk/programmes/b006qykl): Melvyn Bragg and guests discuss the history of ideas.
 
 [**The Knowledge Project**](https://fs.blog/the-knowledge-project/): The Knowledge Project Podcast with Shane Parrish helps you master the best of what other people have already figured out.
-
-[**Conversations with Tyler**](https://conversationswithtyler.com/): On the Conversations with Tyler podcast, produced by the Mercatus Center at George Mason University, celebrated polymath and academic economist Tyler Cowen explores the minds and methods of today’s top thinkers.

@@ -119,7 +119,3 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Think Your Company Needs a Data Scientist? You're Probably Wrong.**](https://www.entrepreneur.com/article/310505)
 
 [**The Startup Founder’s Guide to Analytics**](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
-
-[**How the 100 largest marketplaces solved the chicken and egg problem**](https://medium.com/@elichait/how-the-100-largest-marketplaces-solved-the-chicken-and-egg-problem-11597b5a54fb)
-
-[**28 ways to grow supply in a marketplace**](https://andrewchen.co/grow-marketplace-supply/)

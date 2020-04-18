@@ -72,10 +72,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**R - The tidyverse style guide**](https://style.tidyverse.org/)
 
-[**dbt coding conventions**](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
-
-- Serves as a great starter for writing a SQL style guide
-
 ---
 
 # Visualization
@@ -173,6 +169,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 [**How we structure our dbt projects**](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
 
 [**On the limits of incrementality**](https://discourse.getdbt.com/t/on-the-limits-of-incrementality/303)
+
+[**dbt coding conventions**](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
 
 ---
 
