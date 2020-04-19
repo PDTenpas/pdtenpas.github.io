@@ -50,6 +50,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
+[**Build a Team that Ships**](https://nav.al/build-a-team-that-ships)
+
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 
 [**Scaling Knowledge**](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)
