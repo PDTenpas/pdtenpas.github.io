@@ -112,6 +112,10 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Lessons from Keith Rabois Essay 3: How to be an Effective Executive**](https://delian.io/lessons-3)
 
+[**Barrels and Ammunition**](https://www.conordewey.com/blog/barrels-and-ammunition/)
+
+> In short, the output of your organization is dependent on the number of people that can own projects and see them through to the end.
+
 [**FAQs from Coaching Technical Leadership**](https://kellanem.com/notes/faqs-from-coaching)
 
 [**The Tool that Will Help You Choose Better Product Ideas**](https://medium.com/@itamargilad/finding-winning-ideas-using-the-confidence-tool-d8f2d8cc2c15)
