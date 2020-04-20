@@ -78,6 +78,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Building The Analytics Team At Wish**](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16)
 
+[**Lessons learned managing the GitLab Data team**](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/)
+
 [**The Problem With Hands-Off Analytics**](https://mode.com/blog/problem-with-hands-off-analytics)
 
 > To put it another way, the only things self-serve helps scale is SQL...
