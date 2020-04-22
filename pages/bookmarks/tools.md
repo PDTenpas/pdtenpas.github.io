@@ -142,6 +142,8 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 [**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 
+[**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
+
 [**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
 
 ---
