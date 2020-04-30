@@ -78,6 +78,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Building The Analytics Team At Wish**](https://medium.com/wish-engineering/scaling-analytics-at-wish-619eacb97d16)
 
+[**The four priorities of a one-person analytics team: lessons from Lola.com**](https://blog.getdbt.com/the-four-priorities-of-an-analytics-team-of-one-lessons-from-lola-com/)
+
 [**Lessons learned managing the GitLab Data team**](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/)
 
 [**The Problem With Hands-Off Analytics**](https://mode.com/blog/problem-with-hands-off-analytics)
@@ -91,6 +93,16 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
 [**10 Reads for Data Scientists Getting Started with Business Models**](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models)
+
+## Peer Code Review
+
+[**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
+
+[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+
+[**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
+
+[**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
 
 ---
 

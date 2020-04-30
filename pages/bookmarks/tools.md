@@ -124,7 +124,7 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 
 ---
 
-## Git / Code Review
+## Git
 
 [**Flight rules for Git**](https://github.com/k88hudson/git-flight-rules)
 
@@ -137,14 +137,6 @@ There's really too many of these to cover in any sort of useful summary. I'm goi
 > A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 
 [**How to Write a Git Commit Message**](https://chris.beams.io/posts/git-commit/)
-
-[**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
-
-[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
-
-[**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
-
-[**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
 
 ---
 
