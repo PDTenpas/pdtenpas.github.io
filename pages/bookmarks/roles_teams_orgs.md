@@ -38,8 +38,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
-- A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
-
 [**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
 
 [**Choose Boring Technology**](http://boringtechnology.club/)

@@ -17,8 +17,6 @@ Framing and Approaches
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
-- A more fitting title may be: A reference guide to impactful engineering work and the cultures that allow for it.
-
 [**Data Lake**](https://martinfowler.com/bliki/DataLake.html)
 
 [**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
