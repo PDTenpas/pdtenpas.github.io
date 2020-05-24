@@ -137,6 +137,8 @@ I limit these but am sharing a few finds that have influenced me.
 
 [**Slate Star Codex**](https://slatestarcodex.com/), some favorites:
 
+- [Studies on Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/)
+
 - [Different Worlds](https://slatestarcodex.com/2017/10/02/different-worlds/)
 
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
@@ -186,10 +188,6 @@ I limit these but am sharing a few finds that have influenced me.
 ## Podcasts / Videos / Talks
 
 [**Making Sense Podcast**](https://samharris.org/podcast/)
-
-- Particularly the first 100 episodes or so.
-
-> All you have to offer others is your mind in each moment.
 
 [**This is Water by David Foster Wallace**](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 
