@@ -36,6 +36,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
+[**Run Your Data Team Like A Product Team**](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
+
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
 [**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)

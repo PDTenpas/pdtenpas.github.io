@@ -11,17 +11,15 @@ Framing and Approaches
 
 ## Framing
 
+[**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
+
+> Start with a platform, then use it for everything...
+
 [**Data architecture vs backend architecture**](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 
 > I’ve found it useful to push as much as you can out of the backend into the data platform.
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
-
-[**Data Lake**](https://martinfowler.com/bliki/DataLake.html)
-
-[**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
-
-> Start with a platform, then use it for everything...
 
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 
@@ -37,11 +35,7 @@ Framing and Approaches
 
 [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 
-[**Best practices for data modeling**](https://www.stitchdata.com/blog/best-practices-for-data-modeling/)
-
 [**Research quality data and research quality databases**](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)
-
-[**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 
 [**4 Pillars of Analytics**](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
 
@@ -53,8 +47,6 @@ Framing and Approaches
 
 ## Approaches
 
-[**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
-
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
 
 [**Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend**](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/)
@@ -62,8 +54,6 @@ Framing and Approaches
 [**Consider SQL when writing your next processing pipeline**](https://dataform.co/blog/consider-sql-when-writing-your-next-processing-pipeline/)
 
 > We’re seeing a general move towards expressing pipelines in plain SQL.
-
-[**An on-demand high-powered Jupyter notebook server**](https://medium.com/harrys-engineering/an-on-demand-high-powered-jupyter-notebook-server-12ee73d4612a)
 
 [**What are the steps / tools in setting up a modern, SaaS-based BI infrastructure?**](https://blog.fishtownanalytics.com/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure-281e0860f9a9)
 
@@ -81,7 +71,7 @@ Framing and Approaches
 
 [**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
 
-[**Airbnb’s Airflow Versus Spotify’s Luigi**](https://medium.com/better-programming/airbnbs-airflow-versus-spotify-s-luigi-bd4c7c2c0791)
+[**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
 
 ---
 
@@ -90,11 +80,12 @@ Framing and Approaches
 
 ## Framing
 
-[**How to deliver on Machine Learning projects: A guide to the ML Engineering Loop**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
-
 [**One Model to Rule Them All**](https://bentoml.com/posts/2019-04-19-one-model/)
 
 > This post discusses our obsession with finding the best model and emphasizes what we should do instead: Take a step back and see the bigger picture...
+
+[**How to deliver on Machine Learning projects: A guide to the ML Engineering Loop**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
+
 
 ## Approaches
 
