@@ -23,6 +23,7 @@ title: Parker Tenpas
 
 # List of links in the navigation bar
 navbar-links:
+  about: "pages/about"
   bookmarks:
     - tools: "pages/bookmarks/tools"
     - platforms and products: "pages/bookmarks/platforms_products"
