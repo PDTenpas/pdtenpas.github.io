@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Misc
+subtitle: Everything else.
 ---
 
 ---
