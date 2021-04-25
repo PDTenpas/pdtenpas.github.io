@@ -26,14 +26,6 @@ subtitle: Tools of the trade.
 
 ---
 
-# Visualization
-
-[**How to learn D3.js**](https://wattenberger.com/blog/d3#intro)
-
-[**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
-
----
-
 ## Opinionated python
 
 [**Minimally Sufficient Pandas**](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
@@ -69,6 +61,14 @@ subtitle: Tools of the trade.
 [**Jupyter Docker Stacks**](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
 [**Joel Grus' I Don't Like Notebooks Slides**](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
+
+---
+
+# Visualization
+
+[**How to learn D3.js**](https://wattenberger.com/blog/d3#intro)
+
+[**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
 
 ---
 
