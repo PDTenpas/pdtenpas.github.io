@@ -11,7 +11,7 @@ use-site-title: true
 [**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Data platforms and the products built on them.
 
 {: .box-note}
-[**Analysis and Experiments**](https://pdtenpas.github.io/pages/bookmarks/analysis_experiments/): Useful framing for escaping the noise.
+[**Analysis and Experiments**](https://pdtenpas.github.io/pages/bookmarks/analysis_experiments/): Resources for escaping the noise.
 
 {: .box-note}
 [**Roles, Teams, Orgs**](https://pdtenpas.github.io/pages/bookmarks/roles_teams_orgs/): How data roles fit into teams and teams into orgs.
