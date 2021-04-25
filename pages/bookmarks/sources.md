@@ -10,8 +10,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 ## Newsletters
 
-[**Banana Data**](http://banana-data.com/): Your weekly AI and data science newsletter. Stay up-to-data!
-
 [**Data Elixir**](https://dataelixir.com/): The week’s top news & tools for Data Lovers.
 
 [**Data is Plural**](https://tinyletter.com/data-is-plural): A weekly newsletter of useful/curious datasets.
@@ -102,8 +100,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Benedict's Newsletter**](https://www.ben-evans.com/newsletter): From Benedict Evan's of a16z.
 
-[**Andrew Chen's Newsletter**](https://andrewchen.co/): Long-form essays on startups, growth, metrics, and network effects.
-
 [**Two Truths and a Take**](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
 
 [**No Mercy / No Malice**](https://www.profgalloway.com/): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
@@ -133,10 +129,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 [**Masters of Scale**](https://mastersofscale.com/): Masters of Scale is an original podcast hosted by Reid Hoffman, Co-founder of LinkedIn and Investor at Greylock. In each episode, Reid shows how companies grow from zero to a gazillion, testing his theories with legendary leaders.
 
 [**Product Hunt Radio**](https://www.producthunt.com/radio): A weekly podcast with the people creating and exploring the future. Tune in every week with Ryan Hoover and Abadesi Osunsade as they're joined by founders, investors, journalists, and makers to discuss the latest in tech.
-
-[**Exponential View with Azeem Azhar**](https://hbr.org/2019/04/podcast-exponential-view): How AI and other exponential technologies are transforming business and society.
-
-[**Y Combinator Podcast**](https://blog.ycombinator.com/category/podcast/): We talk with people who are shaping the future. A show about technology in business, research, and art.
 
 [**Venture Stories**](https://www.villageglobal.vc/podcast/): Venture Stories by Village Global takes you inside the world of venture capital and technology, featuring enlightening interviews with entrepreneurs, investors and tech industry leaders. The podcast is hosted by Village Global partner and co-founder Erik Torenberg.
 

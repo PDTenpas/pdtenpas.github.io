@@ -80,8 +80,6 @@ Cheesy titles on some of these but the content is good.
 
 - A phenomenal talk that goes beyond academic research and serves as a guide on how to do great work.
 
-- [My notes on this talk](https://metadata.substack.com/p/you-and-your-research).
-
 [**Cargo Cult Science: Some remarks on science, pseudoscience, and learning how to not fool yourself.**](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
 - Caltech’s 1974 commencement address.
