@@ -12,7 +12,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Data Elixir**](https://dataelixir.com/): The week’s top news & tools for Data Lovers.
 
-[**Data is Plural**](https://tinyletter.com/data-is-plural): A weekly newsletter of useful/curious datasets.
+[**Data is Plural**](https://www.data-is-plural.com/): A weekly newsletter of useful/curious datasets.
 
 [**Data Eng Weekly**](https://dataengweekly.com/): Data Eng Weekly covers the week's top news in the data engineering ecosystem.
 
@@ -104,7 +104,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters): Receive the latest intelligence on emerging tech from MIT Technology Review, delivered straight to your inbox.
 
-[**a16z Newsletters**](https://pages.a16z.com/Email): Monthly newsletters covering FinTech, Bio, and more.
+[**a16z Newsletters**](https://info.a16z.com/newsletters.html): Monthly newsletters covering FinTech, Bio, and more.
 
 ## Podcasts
 
@@ -150,7 +150,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Making Sense**](https://samharris.org/podcast/): Join Sam Harris—neuroscientist, philosopher, and best-selling author—as he explores some of the most important questions about the human mind, society, and current events.
 
-[**Alphachat**](https://ftalphaville.ft.com/series/Alphachat): Alphachat is the conversational podcast about business and economics produced by the Financial Times in New York.
+[**Alphachat**](https://podcasts.apple.com/us/podcast/ft-alphachat/id448302257): Alphachat is the conversational podcast about business and economics produced by the Financial Times in New York.
 
 [**In Our Time**](https://www.bbc.co.uk/programmes/b006qykl): Melvyn Bragg and guests discuss the history of ideas.
 
