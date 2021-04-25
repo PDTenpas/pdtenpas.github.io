@@ -126,6 +126,14 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**The Internet History Podcast**](http://www.internethistorypodcast.com/): A history of the Internet Era from Netscape to the iPad. Oral Histories from the people that made the technology happen.
 
+## Blogs
+
+[**Patrick McKenzie's Essays**](https://www.kalzumeus.com/)
+
+[**Paul Grahm's Essays**](http://paulgraham.com/articles.html)
+
+[**Joel On Software**](https://www.joelonsoftware.com/)
+
 ---
 
 # Misc

@@ -16,7 +16,7 @@ subtitle: Everything else.
 
 > The way things move and spread, somewhat chaotically, across a network.
 
-[**How Complex Systems Fail**](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+[**How Complex Systems Fail**](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
 
 ---
 
@@ -38,7 +38,7 @@ subtitle: Everything else.
 
 [**Leek Lab's guide to reading academic papers**](https://github.com/jtleek/readingpapers)
 
-- I.e. how to keep up with a field/industry. Check out my version of this [**here**](https://pdtenpas.github.io/pages/newsletter/read_newsletters/).
+- I.e. how to keep up with a field/industry.
 
 [**The Age of the Essay**](http://paulgraham.com/essay.html?ck_subscriber_id=489909620)
 
