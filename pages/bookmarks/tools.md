@@ -136,6 +136,10 @@ subtitle: Tools of the trade.
 
 ## Resource Lists
 
+[**Hadley Wickham's Readings in Applied Data Science**](https://github.com/hadley/stats337)
+
+> These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated.
+
 [**Awesome Business Intelligence**](https://github.com/thenaturalist/awesome-business-intelligence)
 
 [**Awesome Python**](https://awesome-python.com/)

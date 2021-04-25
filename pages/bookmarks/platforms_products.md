@@ -43,6 +43,8 @@ Framing and Approaches
 
 > Start with a platform, and then use it for everything...
 
+[**Choose Boring Technology**](http://boringtechnology.club/)
+
 [**Whom the Gods Would Destroy, They First Give Real-time Analytics**](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 
 ## Approaches

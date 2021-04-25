@@ -15,6 +15,8 @@ Framing and Approaches
 
 > In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
 
+[**Oversimplify**](http://brohrer.github.io/oversimplify.html)
+
 [**Trustworthy Data Analysis**](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/)
 
 > It’s entirely possible to trust an analysis but not believe the final conclusions.
@@ -30,6 +32,8 @@ Framing and Approaches
 [**Uncertainty + Visualization, Explained**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
 
 [**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
+
+[**10 Reads for Data Scientists Getting Started with Business Models**](https://towardsdatascience.com/10-reads-for-data-scientists-getting-started-with-business-models-78e6a224fd66)
 
 ## Approaches
 

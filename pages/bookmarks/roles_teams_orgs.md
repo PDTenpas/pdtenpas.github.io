@@ -30,25 +30,21 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 # Teams
 
-[**The Tentpoles of Data Science**](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
-
-- TL;DR: Design thinking, workflows, human relationships, statistical methods, stories
-
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
 [**Run Your Data Team Like A Product Team**](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
-[**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
+[**The Tentpoles of Data Science**](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 
-[**Choose Boring Technology**](http://boringtechnology.club/)
+- TL;DR: Design thinking, workflows, human relationships, statistical methods, stories
+
+[**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
 
 [**Eliminating Toil**](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/)
 
 [**Being Glue**](https://noidea.dog/glue)
-
-[**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
 [**Build a Team that Ships**](https://nav.al/build-a-team-that-ships)
 
@@ -86,13 +82,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > To put it another way, the only things self-serve helps scale is SQL...
 
-[**Hadley Wickham's Readings in Applied Data Science**](https://github.com/hadley/stats337)
-
-> These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated.
-
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
-
-[**10 Reads for Data Scientists Getting Started with Business Models**](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models)
 
 ## Peer Code Review
 
