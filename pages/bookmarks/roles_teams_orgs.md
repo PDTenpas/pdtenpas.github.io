@@ -48,6 +48,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Build a Team that Ships**](https://nav.al/build-a-team-that-ships)
 
+[**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
+
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 
 [**Scaling Knowledge**](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c)

@@ -22,8 +22,6 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**The Holloway Guide to Equity Compensation**](https://www.holloway.com/g/equity-compensation)
 
-[**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
-
 ---
 
 # Data Careers
@@ -109,7 +107,7 @@ Cheesy titles on some of these but the content is good.
 ---
 
 # Life
-I limit these but am sharing a few finds that have influenced me.
+A few favorites here.
 
 ## Books
 
@@ -174,16 +172,6 @@ I limit these but am sharing a few finds that have influenced me.
 [**Farnam Street**](https://fs.blog/)
 
 [**80,000 Hours**](https://80000hours.org/)
-
-**Personal Sites:**
-
-- [Paul Graham](http://www.paulgraham.com/index.html)
-
-- [Patrick Collison](https://patrickcollison.com/about)
-
-- [Patrick McKenzie](https://www.kalzumeus.com/)
-
-- [Martin Fowler](https://martinfowler.com/)
 
 ## Podcasts / Videos / Talks
 
