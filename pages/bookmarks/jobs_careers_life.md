@@ -12,6 +12,12 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**Salary Negotiation: Make More Money, Be More Valued**](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
+[**Ten Rules for Negotiating a Job Offer**](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+
+[**How Not to Bomb Your Offer Negotiation**](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+
+[**Levels.fyi salary data**](https://www.levels.fyi/)
+
 [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/introduction)
 
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
@@ -19,6 +25,12 @@ subtitle: Useful framing for getting a job/career/life.
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
 
 [**The Holloway Guide to Equity Compensation**](https://www.holloway.com/g/equity-compensation)
+
+[**Things To Know About Engineering Levels**](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
+
+[**How to get promoted**](https://www.spakhm.com/p/how-to-get-promoted)
+
+[**The Guerrilla Guide to Interviewing (version 3.0)**](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
 ---
 
@@ -40,6 +52,8 @@ Cheesy titles on some of these but the content is good.
 > The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
 
 [**Embrace the Grind**](https://jacobian.org/2021/apr/7/embrace-the-grind/)
+
+[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
 [**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 
@@ -63,6 +77,8 @@ Cheesy titles on some of these but the content is good.
 [**Learn the Overlaps: Advice for the Aspiring Data Scientist**](https://www.locallyoptimistic.com/post/ds_advice/)
 
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
+
+[**Data Engineer Roadmap**](https://github.com/datastacktv/data-engineer-roadmap)
 
 [**Breakout List: Career Planning Guide for People in the Technology Industry**](https://breakoutlist.com/career-planning/)
 
@@ -92,6 +108,12 @@ Cheesy titles on some of these but the content is good.
 
 [**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/great-talks/psychology-human-misjudgment//)
 
+[**There's No Speed Limit**](https://sive.rs/kimo)
+
+[**Becoming a magician**](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
+
+> One of my heuristics for growth is to seek out the magicians, and find the magic.
+
 [**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 
 [**Prof Galloway's Career Advice**](https://www.youtube.com/watch?v=1T22QxTkPoM)
@@ -107,7 +129,7 @@ Cheesy titles on some of these but the content is good.
 ---
 
 # Life
-A few favorites here.
+A few favorites here...
 
 ## Books
 
@@ -143,6 +165,8 @@ A few favorites here.
 
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 
+- [Sort by controversial](https://slatestarcodex.com/2018/10/30/sort-by-controversial/)
+
 [**Wait But Why**](https://waitbutwhy.com/), some favorites:
 
 - [Your Life in Weeks](https://waitbutwhy.com/2014/05/life-weeks.html)
@@ -164,6 +188,8 @@ A few favorites here.
 - [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
 - [The Inner Ring](https://www.lewissociety.org/innerring/)
+
+- [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
 
 ## Misc Sites
 

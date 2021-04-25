@@ -10,6 +10,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function**](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
+[**Unpopular Opinion - Data Scientists Should be More End-to-End**](https://eugeneyan.com/writing/end-to-end-data-science/)
+
 [**What’s in a name?: The semantics of Science at Lyft**](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
 
 -  Lyft outlines the problems in data title ambiguity and proliferation.
@@ -35,6 +37,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
 [**Run Your Data Team Like A Product Team**](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
+
+[**The Data Quality Flywheel**](https://www.datafold.com/blog/the-data-quality-flywheel/)
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
@@ -88,6 +92,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Shape Up: Stop Running in Circles and Ship Work that Matters**](https://basecamp.com/shapeup)
 
+[**Four communication techniques for solving technical problems**](https://ansonwhitmer.com/four-communication-techniques-for-solving-technical-problems/)
+
 ## Peer Code Review
 
 [**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
@@ -107,6 +113,10 @@ subtitle: How data roles fit into teams and teams into orgs.
 > Mo’ Titles, Mo’ Problems
 
 [**Don’t Fuck Up the Culture**](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
+
+[**Amp It Up!**](https://www.linkedin.com/pulse/amp-up-frank-slootman/)
+
+[**Netflix Culture**](https://jobs.netflix.com/culture)
 
 [**Curiosity-Driven Data Science**](https://hbr.org/2018/11/curiosity-driven-data-science)
 
@@ -135,3 +145,5 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Think Your Company Needs a Data Scientist? You're Probably Wrong.**](https://www.entrepreneur.com/article/310505)
 
 [**The Startup Founder’s Guide to Analytics**](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
+
+[**Taming Slack**](https://highgrowthengineering.substack.com/p/taming-slack-)

@@ -16,6 +16,10 @@ subtitle: Tools of the trade.
 
 > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
+[**Slowly Changing Dimensions in Data Science**](https://fivetran.com/blog/slowly-changing-dimensions-in-data-science)
+
+[**The Log: What every software engineer should know about real-time data's unifying abstraction**](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
 ---
 
 ## Style Guides
@@ -111,6 +115,8 @@ subtitle: Tools of the trade.
 [**On the limits of incrementality**](https://discourse.getdbt.com/t/on-the-limits-of-incrementality/303)
 
 [**dbt coding conventions**](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
+
+[State of testing in dbt](https://discourse.getdbt.com/t/state-of-testing-in-dbt/1778)
 
 ---
 

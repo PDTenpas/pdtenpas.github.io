@@ -51,9 +51,15 @@ Framing and Approaches
 
 [**Idempotence Now Prevents Pain Later**](https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/)
 
+[**Whoops, the numbers are wrong! Scaling Data Quality @ Netflix (talk)**](https://youtu.be/fXHdeBnpXrg)
+
+[Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+
 ## Approaches
 
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
+
+[**Dynamic Data Testing**](https://blog.anomalo.com/dynamic-data-testing-f831435dba90)
 
 [**Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend**](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/)
 
@@ -102,3 +108,5 @@ Framing and Approaches
 [**Building Lyft’s Marketing Automation Platform**](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc)
 
 [**Data Science and the Art of Producing Entertainment at Netflix**](https://medium.com/netflix-techblog/studio-production-data-science-646ee2cc21a1)
+
+[**Are Data Catalogs Curing the Symptom or the Disease?**](https://kaminsky.rocks/2020/12/are-data-catalogs-curing-the-symptom-or-the-disease/)

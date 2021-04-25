@@ -42,6 +42,8 @@ subtitle: Everything else.
 
 [**The Age of the Essay**](http://paulgraham.com/essay.html?ck_subscriber_id=489909620)
 
+[**Write Simply**](http://paulgraham.com/simply.html)
+
 [**Writing is Thinking**](https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade)
 
 ---
