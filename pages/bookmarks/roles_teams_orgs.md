@@ -26,6 +26,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**One Data Science Job Doesn’t Fit All**](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
 
+[**Exec 101 - First 30 days**](https://sriramk.com/exec-101-first-thirty-days)
+
 # Teams
 
 [**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)

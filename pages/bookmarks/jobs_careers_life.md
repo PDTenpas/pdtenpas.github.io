@@ -14,8 +14,6 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/introduction)
 
-[**Exec 101 - First 30 days**](https://sriramk.com/exec-101-first-thirty-days)
-
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
 
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
@@ -90,7 +88,7 @@ Cheesy titles on some of these but the content is good.
 
 [**Skinner as Self-manager**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf)
 
-[**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/2013/02/the-psychology-of-human-misjudgement/)
+[**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/great-talks/psychology-human-misjudgment//)
 
 [**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 
