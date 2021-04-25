@@ -8,8 +8,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 # Roles
 
-[**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
-
 [**Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function**](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/)
 
 [**What’s in a name?: The semantics of Science at Lyft**](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
@@ -29,6 +27,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**One Data Science Job Doesn’t Fit All**](https://www.linkedin.com/pulse/one-data-science-job-doesnt-fit-all-elena-grewal/)
 
 # Teams
+
+[**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
