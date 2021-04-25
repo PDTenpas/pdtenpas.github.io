@@ -26,13 +26,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**PyCoder's Weekly**](https://pycoders.com/): A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 
-[**Normcore Tech**](https://vicki.substack.com/): A newsletter about making tech less sexy and more boring.
-
 [**Data Science Roundup**](http://roundup.fishtownanalytics.com/): The internet's most useful data science articles.
-
-[**DataCamp Weekly**](https://www.datacamp.com/): Weekly featured news from Datacamp.
-
-[**Data Machina**](https://datamachina.substack.com/): A weekly digest of machine learning curiosities, data science geekery, and other data amenities.
 
 [**The Analytics Dispatch**](https://mode.com/newsletter/): Mode Analytics' weekly newsletter chock-full of relevant articles about data, data science, and analytics.
 
@@ -64,11 +58,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**O'Reilly Data Podcast**](https://www.oreilly.com/topics/oreilly-data-show-podcast): The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data, data science, and AI.
 
-[**DataFramed**](https://www.datacamp.com/community/podcast): What exactly is Data Science? In the podcast by DataCamp, Hugo Bowne-Anderson approaches this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best.
-
-[**The Banana Data Podcast**](https://podcasts.apple.com/us/podcast/the-banana-data-podcast/id1463103655)
-
-## Selected Blogs
+## Blogs
 
 [**Simply Statistics**](https://simplystatistics.org/post/): We are three biostatistics professors (Jeff Leek, Roger Peng, and Rafa Irizarry) who are fired up about the new era where data are abundant and statisticians are scientists.
 
@@ -87,6 +77,8 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 # Tech
 
 ## Newsletters
+
+[**Normcore Tech**](https://vicki.substack.com/): A newsletter about making tech less sexy and more boring.
 
 [**Stratechery**](https://stratechery.com/): Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society.
 
@@ -144,7 +136,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Pocket Hits**](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week.
 
-## Selected Blogs
+## Blogs
 
 [**Wait But Why**](https://waitbutwhy.com/): A popular long-form, stick-figure-illustrated blog about almost everything.
 
