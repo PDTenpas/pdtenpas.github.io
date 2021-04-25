@@ -39,6 +39,8 @@ Cheesy titles on some of these but the content is good.
 
 > The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
 
+[**Embrace the Grind**](https://jacobian.org/2021/apr/7/embrace-the-grind/)
+
 [**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 
 [**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)

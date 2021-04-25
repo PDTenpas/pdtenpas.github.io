@@ -47,6 +47,10 @@ Framing and Approaches
 
 [**Whom the Gods Would Destroy, They First Give Real-time Analytics**](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 
+[**Scaling Data and Self-Serve Analytics**](https://www.conordewey.com/blog/scaling-self-serve-analytics/)
+
+[**Idempotence Now Prevents Pain Later**](https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/)
+
 ## Approaches
 
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
