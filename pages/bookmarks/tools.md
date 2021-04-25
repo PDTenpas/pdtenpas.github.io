@@ -6,52 +6,6 @@ subtitle: Tools of the trade.
 
 ---
 
-## Resource Lists
-
-[**Awesome Business Intelligence**](https://github.com/thenaturalist/awesome-business-intelligence)
-
-[**Awesome Python**](https://awesome-python.com/)
-
-[**Awesome Python Data Science**](https://github.com/krzjoa/awesome-python-data-science)
-
-[**Awesome R**](https://github.com/qinwf/awesome-R)
-
-[**Awesome Apache Airflow**](https://github.com/jghoman/awesome-apache-airflow)
-
-[**Data Oriented Design Resources**](https://github.com/dbartolini/data-oriented-design)
-
-[**Python Data Transformation Tools for ETL**](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
-
-[**Data Engineering How To**](https://github.com/adilkhash/Data-Engineering-HowTo)
-
-[**DataCamp Community Tutorials**](https://www.datacamp.com/community/tutorials)
-
-[**Real Python Tutorials**](https://realpython.com/)
-
-[**Recommendations for how to get started with front-end development**](https://threader.app/thread/1144173215293591555)
-
-> "Unsolicited data science career advice: learn Flask + just enough React to be able to build functional front-ends for your DS work + just enough CSS to make it look not-horrible, it's like having a superpower (and it's not that hard)" - Joel Grus
-
-[**Computer Science Courses with Video Lectures**](https://github.com/Developer-Y/cs-video-courses)
-
-[**Chris Albon's Technical Notes**](https://chrisalbon.com/)
-
-[**Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning)
-
-[**ML Resources**](https://sgfin.github.io/learning-resources/)
-
-[**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-
-[**Google's Rules of Machine Learning: Best Practices for ML Engineering**](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-
-[**The Facebook Field Guide to Machine Learning**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
-
-[**Learning Math for Machine Learning**](https://blog.ycombinator.com/learning-math-for-machine-learning/)
-
-[**100 Days of ML Coding Infographics**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-
----
-
 ## Cleaning / Tidying / Munging / Wrangling
 
 [**Tidy Data**](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
@@ -98,8 +52,6 @@ subtitle: Tools of the trade.
 
 ## Misc python
 
-[**Python for Data Science: 8 Concepts You May Have Forgotten**](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
-
 [**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/)
 
 [**A Visual Intro to NumPy and Data Representation**](https://jalammar.github.io/visual-numpy/)
@@ -144,17 +96,15 @@ subtitle: Tools of the trade.
 
 [**Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position**](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
 
-[**The Most Underutilized Function in SQL (md5)**](https://blog.fishtownanalytics.com/the-most-underutilized-function-in-sql-9279b536ed1a)
-
 [**SQL Window Functions to Pass a Data Analytics Interview**](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
+
+[**The Most Underutilized Function in SQL (md5)**](https://blog.fishtownanalytics.com/the-most-underutilized-function-in-sql-9279b536ed1a)
 
 ---
 
 ## Data Build Tool (DBT)
 
 [**Build Your Data Analytics Like An Engineer (podcast)**](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
-
-[**How do you decide what to model in dbt vs LookML?**](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
 
 [**How we structure our dbt projects**](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
 
@@ -181,3 +131,47 @@ subtitle: Tools of the trade.
 [**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
 
 [**Spring Cleaning: Marie Kondo your Looker Instance (PDF)**](https://discourse.looker.com/uploads/default/original/2X/9/939cf95a473cada62cdde694ccbfa4c9a996a2fd.pdf)
+
+[**How do you decide what to model in dbt vs LookML?**](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
+
+---
+
+## Resource Lists
+
+[**Awesome Business Intelligence**](https://github.com/thenaturalist/awesome-business-intelligence)
+
+[**Awesome Python**](https://awesome-python.com/)
+
+[**Awesome Python Data Science**](https://github.com/krzjoa/awesome-python-data-science)
+
+[**Awesome R**](https://github.com/qinwf/awesome-R)
+
+[**Awesome Apache Airflow**](https://github.com/jghoman/awesome-apache-airflow)
+
+[**Data Oriented Design Resources**](https://github.com/dbartolini/data-oriented-design)
+
+[**Python Data Transformation Tools for ETL**](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
+
+[**Data Engineering How To**](https://github.com/adilkhash/Data-Engineering-HowTo)
+
+[**DataCamp Community Tutorials**](https://www.datacamp.com/community/tutorials)
+
+[**Real Python Tutorials**](https://realpython.com/)
+
+[**Computer Science Courses with Video Lectures**](https://github.com/Developer-Y/cs-video-courses)
+
+[**Chris Albon's Technical Notes**](https://chrisalbon.com/)
+
+[**Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning)
+
+[**ML Resources**](https://sgfin.github.io/learning-resources/)
+
+[**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+[**Google's Rules of Machine Learning: Best Practices for ML Engineering**](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+
+[**The Facebook Field Guide to Machine Learning**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+
+[**Learning Math for Machine Learning**](https://blog.ycombinator.com/learning-math-for-machine-learning/)
+
+[**100 Days of ML Coding Infographics**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
