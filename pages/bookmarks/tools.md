@@ -130,8 +130,6 @@ subtitle: Tools of the trade.
 
 [**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
 
-[**Spring Cleaning: Marie Kondo your Looker Instance (PDF)**](https://discourse.looker.com/uploads/default/original/2X/9/939cf95a473cada62cdde694ccbfa4c9a996a2fd.pdf)
-
 [**How do you decide what to model in dbt vs LookML?**](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
 
 ---
@@ -153,8 +151,6 @@ subtitle: Tools of the trade.
 [**Python Data Transformation Tools for ETL**](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
 
 [**Data Engineering How To**](https://github.com/adilkhash/Data-Engineering-HowTo)
-
-[**DataCamp Community Tutorials**](https://www.datacamp.com/community/tutorials)
 
 [**Real Python Tutorials**](https://realpython.com/)
 
