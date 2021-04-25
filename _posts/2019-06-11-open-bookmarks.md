@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Bookmarks
+title: Data Bookmarks
 ---
 
 <img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />
