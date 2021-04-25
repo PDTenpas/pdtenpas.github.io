@@ -28,6 +28,8 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Data Science Roundup**](http://roundup.fishtownanalytics.com/): The internet's most useful data science articles.
 
+[**benn.substack**](https://benn.substack.com/): An at-least-weekly-but-probably-more Substack on data, with data, plus some essays on technology, culture, sports, and politics.
+
 [**The Analytics Dispatch**](https://mode.com/newsletter/): Mode Analytics' weekly newsletter chock-full of relevant articles about data, data science, and analytics.
 
 [**Hacker News Digest**](https://www.hndigest.com/): The top stories on Hacker News in your inbox.
