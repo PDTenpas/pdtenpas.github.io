@@ -7,7 +7,7 @@ subtitle: Useful framing for escaping the noise.
 ---
 
 # Data Analysis
-Framing, Cleaning, Approaches
+Framing and Approaches
 
 ## Framing
 
@@ -20,8 +20,6 @@ Framing, Cleaning, Approaches
 > It’s entirely possible to trust an analysis but not believe the final conclusions.
 
 [**20 Questions to Ask Prior to Starting Data Analysis**](https://towardsdatascience.com/20-questions-to-ask-prior-to-starting-data-analysis-6ec11d6a504b)
-
-[**Research Design Patterns**](http://pgbovine.net/research-design-patterns.htm)
 
 [**Data-Informed Product Building**](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 
@@ -49,8 +47,6 @@ Framing, Cleaning, Approaches
 
 [**ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus**](https://www.inference.vc/untitled/)
 
-> Causal inference and do-calculus allows you to understand a problem and establish what needs to be estimated from data based on your assumptions captured in a causal diagram.
-
 [**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/)
 
 [**The Power User Curve: The best way to understand your most engaged users**](https://andrewchen.co/power-user-curve/)
@@ -71,15 +67,15 @@ Framing, Approaches, Significance Pitfalls
 
 [**Common statistical tests are linear models (or: how to teach stats)**](https://lindeloev.github.io/tests-as-linear/)
 
-[**North Star or sign post metrics: which should one optimize?**](https://medium.com/@leapingllamas/north-star-or-sign-post-metrics-which-should-one-optimize-24bcc9c05bfb)
-
 [**How Not To Run an A/B Test**](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+
+[**North Star or sign post metrics: which should one optimize?**](https://medium.com/@leapingllamas/north-star-or-sign-post-metrics-which-should-one-optimize-24bcc9c05bfb)
 
 [**Misadventures in experiments for growth**](http://www.unofficialgoogledatascience.com/2019/04/misadventures-in-experiments-for-growth.html)
 
 [**The Agony and Ecstasy of Building with Data**](https://medium.com/the-year-of-the-looking-glass/the-agony-and-ecstasy-of-building-with-data-56215764d67c)
 
-[**Against A/B Tests**](https://www.locallyoptimistic.com/post/against-ab-tests/)
+[**Against A/B Tests**](https://locallyoptimistic.com/post/against-a-b-tests/)
 
 [**Is Bayesian A/B Testing Immune to Peeking? Not Exactly**](http://varianceexplained.org/r/bayesian-ab-testing/)
 
