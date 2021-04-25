@@ -59,13 +59,9 @@ Framing and Approaches
 
 [**It’s Time for Open Source Analytics**](https://blog.fishtownanalytics.com/its-time-for-open-source-analytics-194902ae5c5)
 
-[**Build a modern analytics stack optimized for sharing and collaborating with Mode and Amazon Redshift**](https://aws.amazon.com/blogs/big-data/build-a-modern-analytics-stack-optimized-for-sharing-and-collaborating-with-mode-and-amazon-redshift/)
-
 [**Beyond Interactive: Notebook Innovation at Netflix**](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 
 [**Part 2: Scheduling Notebooks at Netflix**](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
-
-[**How LinkedIn, Uber, Lyft, Airbnb and Netflix are Solving Data Management and Discovery for Machine Learning Solutions**](https://towardsdatascience.com/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-9b79ee9184bb)
 
 [**Software Engineering for Machine Learning: A Case Study**](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 
