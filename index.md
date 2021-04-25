@@ -1,12 +1,31 @@
 ---
-layout: page
-title: Hello,
-subtitle: I'm Parker.
+layout: post
+title: Data Bookmarks
 use-site-title: true
 ---
 
-I'm from Oshkosh, Wisconsin and live in Brooklyn, New York. I've had stints in Denver, Colorado and Honolulu, Hawaii as well.
+<img src="https://pdtenpas.github.io/img/bookmark_con.png" width="51" height="51" />
 
-I work in data. Past experiences include time at the Harlow Center for Biological Psychology, the 2016 Clinton Presidential Campaign, and ecommerce companies Casper and Primary—very different industries but always data. I've recently started a new role on the data team at [TrialSpark](https://medium.com/trialspark/mission-and-purpose-at-trialspark-790a63539350).
+**I've moved my bookmarks to the web!**
 
-Check out my [open bookmarks](https://pdtenpas.github.io/2019-06-11-open-bookmarks/).
+... well, at least the ones worth sharing.
+
+For now they mostly contain resources I've found useful in a day-to-day data job.
+
+Check them out in the nav-bar above, or hop to a category from below:
+
+- [**Tools**](https://pdtenpas.github.io/pages/bookmarks/tools/): Tools of the trade.
+
+- [**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Data platforms and the products built on them.
+
+- [**Analysis and Experiments**](https://pdtenpas.github.io/pages/bookmarks/analysis_experiments/): Useful framing for escaping the noise.
+
+- [**Roles, Teams, Orgs**](https://pdtenpas.github.io/pages/bookmarks/roles_teams_orgs/): How data roles fit into teams and teams into orgs.
+
+- [**Jobs, Careers, Life**](https://pdtenpas.github.io/pages/bookmarks/jobs_careers_life/): Useful framing for getting a job/career/life.
+
+- [**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Data and tech newsletters, blogs, and podcasts.
+
+- [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Everything else.
+
+Lots of work in progress but there are some gems in there.
