@@ -55,7 +55,7 @@ Framing and Approaches
 
 [**Why most analytics efforts fail: A step by step process to fix the root causes of most event analytics mistakes**](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
 
-[Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+[**Emerging Architectures for Modern Data Infrastructure**](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ## Approaches
 
