@@ -53,6 +53,8 @@ Framing and Approaches
 
 [**Whoops, the numbers are wrong! Scaling Data Quality @ Netflix (talk)**](https://youtu.be/fXHdeBnpXrg)
 
+[**Why most analytics efforts fail: A step by step process to fix the root causes of most event analytics mistakes**](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
+
 [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ## Approaches
@@ -80,6 +82,10 @@ Framing and Approaches
 [**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
 
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
+
+[**Gardening Platforms**](https://komoroske.com/gardening-platforms/)
+
+> A ~200 slide flip book style presentation about how to garden platforms.
 
 ---
 

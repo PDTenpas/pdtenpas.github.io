@@ -88,6 +88,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Becoming a Level 3.0 Data Scientist**](https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3)
 
+[**All the best engineering advice I stole from non-technical people**](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
+
 ---
 
 # Your Career

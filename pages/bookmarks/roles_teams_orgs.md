@@ -54,6 +54,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Build a Team that Ships**](https://nav.al/build-a-team-that-ships)
 
+[**Low-Context DevOps: A new way of improving DevOps/SRE team culture**](https://stackoverflowsolutions.com/topic/thought-leadership/improve-devops-culture)
+
 [**12 Signs You’re Working in a Feature Factory**](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
@@ -94,6 +96,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Four communication techniques for solving technical problems**](https://ansonwhitmer.com/four-communication-techniques-for-solving-technical-problems/)
 
+[**Analytics is a mess: You can’t stop it, and you shouldn’t try to contain it.**](https://benn.substack.com/p/analytics-is-a-mess?utm_source=url)
+
 ## Peer Code Review
 
 [**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
@@ -102,7 +106,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
 
-[**Unlearning toxic behaviors in a code review culture**](https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
+[**Unlearning toxic behaviors in a code review culture**](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
 ---
 
@@ -147,3 +151,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**The Startup Founder’s Guide to Analytics**](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
 
 [**Taming Slack**](https://highgrowthengineering.substack.com/p/taming-slack-)
+
+[**Coordination Headwind: How Organizations Are Like Slime Molds**](https://komoroske.com/slime-mold/)
+
+> An approachable presentation, done in an emoji style, showing why even when everyone is competent and collaborative, you can still get hurricane-force headwinds.
