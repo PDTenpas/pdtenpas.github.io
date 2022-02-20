@@ -118,8 +118,6 @@ Cheesy titles on some of these but the content is good.
 
 [**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 
-[**Prof Galloway's Career Advice**](https://www.youtube.com/watch?v=1T22QxTkPoM)
-
 [**Sam Altman: How To Be Successful**](http://blog.samaltman.com/how-to-be-successful)
 
 [**My Journey Towards Authentic Leadership**](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
@@ -214,7 +212,5 @@ A few favorites here...
 [**How do you deal with stress**](https://www.youtube.com/watch?v=NqVoOC2azZI)
 
 [**The Knowledge Project: The Angel Philosopher**](https://fs.blog/naval-ravikant/)
-
-[**The Algebra of Happiness**](https://www.youtube.com/watch?v=qMW6xgPgY4s)
 
 [**Why you should define your fears instead of your goals**](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en)
