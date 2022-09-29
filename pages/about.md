@@ -5,7 +5,7 @@ subtitle: I'm Parker.
 use-site-title: true
 ---
 
-This site is a collection of *mostly* data-related resources I've found useful in my career so far.
+This site is a collection of *mostly* data-related resources I've found useful in my career.
 
 [I work in data](https://www.linkedin.com/in/parker-tenpas-a45088134/). My past experiences include time at the Harlow Center for Biological Psychology, the 2016 Clinton Presidential Campaign, a few years in ecommerce, and most recently, healthtech startups. Very different industries but always data.
 
