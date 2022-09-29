@@ -122,6 +122,8 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Joel On Software**](https://www.joelonsoftware.com/)
 
+[**Andrew Bartholomew's Writings**](https://www.abartholomew.com/writing)
+
 ---
 
 # Misc
