@@ -26,7 +26,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**PyCoder's Weekly**](https://pycoders.com/): A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 
-[**Data Science Roundup**](http://roundup.fishtownanalytics.com/): The internet's most useful data science articles.
+[**The Analytics Engineering Roundup**](https://roundup.getdbt.com/): The internet's most useful chatter related to analytics engineering.
 
 [**benn.substack**](https://benn.substack.com/): An at-least-weekly-but-probably-more Substack on data, with data, plus some essays on technology, culture, sports, and politics.
 
@@ -96,29 +96,15 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**Two Truths and a Take**](https://danco.substack.com/): A continuation of Social Capital's Snippets Newsletter following the curator's departure.
 
-[**No Mercy / No Malice**](https://www.profgalloway.com/): Each week, bestselling author and business professor Scott Galloway shares his take on success and relationships in a digital economy.
-
 [**How It Actually Works**](https://www.howitactuallyworks.com/): I read every corner of the Internet to find the best material to answer the question: how does the world actually work?
 
 [**Lenny's Newsletter**](https://www.lennyrachitsky.com/): A weekly advice column focusing on product, growth, leadership, and anything else that's stressing you out at the office.
-
-[**Ark Disrupt**](https://ark-invest.com/ark-newsletter): The ARK Newsletter series is based on ARK Brainstorming, a weekly discussion between our CIO, Director of Research, thematic analysts, ARK’s theme developers, thought leaders, and investors. It is designed to present you with the most recent innovation takeaways and to keep you engaged in an ongoing discussion on investing in disruptive innovation.
-
-[**The MIT Newsletter Suite**](https://go.technologyreview.com/newsletters): Receive the latest intelligence on emerging tech from MIT Technology Review, delivered straight to your inbox.
 
 [**a16z Newsletters**](https://info.a16z.com/newsletters.html): Monthly newsletters covering FinTech, Bio, and more.
 
 ## Podcasts
 
 [**a16z Podcast**](https://a16z.com/podcasts/): The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world.
-
-[**FYI**](https://ark-invest.com/research/podcast/welcome-to-fyi-the-for-your-innovation-podcast-by-ark-invest): Welcome to FYI - The For Your Innovation Podcast. We offer an intellectual discussion on recent developments across disruptive innovation.
-
-[**Firewall**](https://www.firewall.media/): Bradley Tusk, CEO of Tusk Ventures, talks tech, startups, politics, and regulation with a different guest each week.
-
-[**Pivot**](https://podcasts.apple.com/podcast/id1073226719): With great power comes great scrutiny. Every Friday, Recode’s Kara Swisher and NYU professor Scott Galloway offer sharp, unfiltered insights into the way technology is shaping business and culture across media, advertising, politics, and more.
-
-[**Recode Decode**](https://www.vox.com/recode-decode-podcast-kara-swisher): Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities, and more about their big ideas and how they’re changing our world.
 
 [**Masters of Scale**](https://mastersofscale.com/): Masters of Scale is an original podcast hosted by Reid Hoffman, Co-founder of LinkedIn and Investor at Greylock. In each episode, Reid shows how companies grow from zero to a gazillion, testing his theories with legendary leaders.
 
@@ -140,12 +126,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 # Misc
 
-## Newsletters
-
-[**Hot Pod News**](https://hotpodnews.com/subscribe/): Hot Pod provides analysis, insight, and commentary on the growing podcast industry — and whatever it will be in the years to come.
-
-[**Pocket Hits**](https://getpocket.com/explore/pocket-hits): The most popular stories on Pocket this week.
-
 ## Blogs
 
 [**Wait But Why**](https://waitbutwhy.com/): A popular long-form, stick-figure-illustrated blog about almost everything.
@@ -153,15 +133,3 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 [**Slate Star Codex**](https://slatestarcodex.com/): Welcome to Slate Star Codex, a blog about science, medicine, philosophy, politics, and futurism.
 
 [**Money Stuff**](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine): A daily take on Wall Street, finance, companies and other stuff.
-
-## Big Picture Podcasts
-
-[**Long Now: Seminars About Long-term Thinking**](http://longnow.org/seminars/podcast/): Explore hundreds of lectures by scientists, historians, artists, entrepreneurs, and more through The Long Now Foundation's award-winning lecture series, curated and hosted by Long Now co-founder Stewart Brand.
-
-[**Making Sense**](https://samharris.org/podcast/): Join Sam Harris—neuroscientist, philosopher, and best-selling author—as he explores some of the most important questions about the human mind, society, and current events.
-
-[**Alphachat**](https://podcasts.apple.com/us/podcast/ft-alphachat/id448302257): Alphachat is the conversational podcast about business and economics produced by the Financial Times in New York.
-
-[**In Our Time**](https://www.bbc.co.uk/programmes/b006qykl): Melvyn Bragg and guests discuss the history of ideas.
-
-[**The Knowledge Project**](https://fs.blog/the-knowledge-project/): The Knowledge Project Podcast with Shane Parrish helps you master the best of what other people have already figured out.

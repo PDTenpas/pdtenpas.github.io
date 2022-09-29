@@ -201,16 +201,10 @@ A few favorites here...
 
 ## Podcasts / Videos / Talks
 
-[**Making Sense Podcast**](https://samharris.org/podcast/)
-
 [**This is Water by David Foster Wallace**](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 
 [**David Foster Wallace on Ambition**](https://www.youtube.com/watch?v=w5R8gduPZw4&feature=youtu.be)
 
-[**Hello Internet**](http://www.hellointernet.fm/)
-
 [**How do you deal with stress**](https://www.youtube.com/watch?v=NqVoOC2azZI)
-
-[**The Knowledge Project: The Angel Philosopher**](https://fs.blog/naval-ravikant/)
 
 [**Why you should define your fears instead of your goals**](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en)
