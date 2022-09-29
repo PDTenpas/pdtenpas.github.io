@@ -16,8 +16,6 @@ subtitle: Tools of the trade.
 
 > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
-[**Slowly Changing Dimensions in Data Science**](https://fivetran.com/blog/slowly-changing-dimensions-in-data-science)
-
 [**The Log: What every software engineer should know about real-time data's unifying abstraction**](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 ---
@@ -39,8 +37,6 @@ subtitle: Tools of the trade.
 [**The Little Book of Python Anti-Patterns**](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 
 [**What's the future of the pandas library?**](https://www.dataschool.io/future-of-pandas/)
-
-> The pandas core team now encourages the use of "method chaining".
 
 [**Fast Pandas: A Benchmarked Pandas Cheat Sheet**](https://github.com/mm-mansour/Fast-Pandas)
 

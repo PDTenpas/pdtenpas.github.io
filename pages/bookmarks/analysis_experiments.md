@@ -57,6 +57,8 @@ Framing and Approaches
 
 [**Forecasting: Principles and Practice (book)**](https://otexts.com/fpp2/)
 
+[**What to do when your metrics dip**](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip?s=r)
+
 ---
 
 # Experimentation
