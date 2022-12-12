@@ -21,6 +21,10 @@ Framing and Approaches
 
 [**A reference guide for fintech & small-data engineering**](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
+[**Data Systems Tend Towards Production**](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561)
+
+> There are many reasons to worry about non-data team members writing logic in SQL and making dbt PRs. What I can guarantee — this logic will be written, and if the data team gatekeeps, it will be written outside of their visibility. If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
+
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
 
 > If it’s someone’s job to handle all data requests by writing a new SQL query or to downloading data from external systems, your team is headed in the wrong direction.

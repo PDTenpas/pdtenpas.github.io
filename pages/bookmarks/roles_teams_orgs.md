@@ -98,7 +98,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Analytics is a mess: You can’t stop it, and you shouldn’t try to contain it.**](https://benn.substack.com/p/analytics-is-a-mess?utm_source=url)
 
-## Peer Code Review
+## Code Review
 
 [**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
 
@@ -107,6 +107,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
 
 [**Unlearning toxic behaviors in a code review culture**](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+
+[**Google Engineering Practices Documentation**](https://google.github.io/eng-practices/)
 
 ---
 

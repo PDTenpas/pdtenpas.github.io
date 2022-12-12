@@ -124,6 +124,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
 
+[**Know Your Customers’ “Jobs to Be Done”**](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
+
 [**Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)**](https://fs.blog/mental-models/)
 
 ---
