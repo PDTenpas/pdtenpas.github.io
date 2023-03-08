@@ -34,6 +34,8 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department**](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 
+[**Building a data team at a mid-stage startup: a short story**](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+
 [**Data as a Product vs. Data as a Service**](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 
 [**Run Your Data Team Like A Product Team**](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)

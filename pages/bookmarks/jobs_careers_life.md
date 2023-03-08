@@ -104,6 +104,10 @@ Cheesy titles on some of these but the content is good.
 
 > So I wish to you—I have no more time, so I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity.  May you have that freedom.
 
+[**Elitism as the Mid-Career Growth Engine**](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)
+
+> Technical excellence begins in wonder but is honed by disgust
+
 [**Strong Opinions, Weakly Held — a framework for thinking**](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
 
 [**Skinner as Self-manager**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf)
