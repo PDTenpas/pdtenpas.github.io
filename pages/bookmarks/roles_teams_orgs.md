@@ -46,7 +46,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**The Tentpoles of Data Science**](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 
-- TL;DR: Design thinking, workflows, human relationships, statistical methods, stories
+- tl;dr: Design thinking, workflows, human relationships, statistical methods, stories
 
 [**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
 
@@ -126,6 +126,10 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Netflix Culture**](https://jobs.netflix.com/culture)
 
+[**Coordination Headwind: How Organizations Are Like Slime Molds**](https://komoroske.com/slime-mold/)
+
+> An approachable presentation, done in an emoji style, showing why even when everyone is competent and collaborative, you can still get hurricane-force headwinds.
+
 [**Curiosity-Driven Data Science**](https://hbr.org/2018/11/curiosity-driven-data-science)
 
 [**Models for integrating data science teams within organizations**](https://medium.com/swlh/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
@@ -146,16 +150,12 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**The Tool that Will Help You Choose Better Product Ideas**](https://medium.com/@itamargilad/finding-winning-ideas-using-the-confidence-tool-d8f2d8cc2c15)
 
-[**How startups die from their addiction to paid marketing**](https://andrewchen.co/paid-marketing-addiction/)
-
-[**You Don't Know Your Customer Acquisition Cost**](https://blog.usejournal.com/you-dont-know-your-customer-acquisition-cost-f7bf820f9d4a)
-
 [**Think Your Company Needs a Data Scientist? You're Probably Wrong.**](https://www.entrepreneur.com/article/310505)
 
 [**The Startup Founder’s Guide to Analytics**](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
 
 [**Taming Slack**](https://highgrowthengineering.substack.com/p/taming-slack-)
 
-[**Coordination Headwind: How Organizations Are Like Slime Molds**](https://komoroske.com/slime-mold/)
+[**How startups die from their addiction to paid marketing**](https://andrewchen.co/paid-marketing-addiction/)
 
-> An approachable presentation, done in an emoji style, showing why even when everyone is competent and collaborative, you can still get hurricane-force headwinds.
+[**You Don't Know Your Customer Acquisition Cost**](https://blog.usejournal.com/you-dont-know-your-customer-acquisition-cost-f7bf820f9d4a)
