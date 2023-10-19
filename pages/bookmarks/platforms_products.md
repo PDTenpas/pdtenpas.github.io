@@ -65,6 +65,10 @@ Framing and Approaches
 
 ## Approaches
 
+[**Gardening Platforms**](https://komoroske.com/gardening-platforms/)
+
+> A ~200 slide flip book style presentation about how to garden platforms.
+
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
 
 [**Dynamic Data Testing**](https://blog.anomalo.com/dynamic-data-testing-f831435dba90)
@@ -88,10 +92,6 @@ Framing and Approaches
 [**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
 
 [**Cookiecutter Data Science**](https://drivendata.github.io/cookiecutter-data-science/)
-
-[**Gardening Platforms**](https://komoroske.com/gardening-platforms/)
-
-> A ~200 slide flip book style presentation about how to garden platforms.
 
 ---
 
