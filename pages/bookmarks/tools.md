@@ -20,14 +20,6 @@ subtitle: Tools of the trade.
 
 ---
 
-## Style Guides
-
-[**PEP 8 — the Style Guide for Python Code**](https://pep8.org/)
-
-[**R - The tidyverse style guide**](https://style.tidyverse.org/)
-
----
-
 ## Opinionated python
 
 [**Minimally Sufficient Pandas**](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
@@ -39,10 +31,6 @@ subtitle: Tools of the trade.
 [**What's the future of the pandas library?**](https://www.dataschool.io/future-of-pandas/)
 
 [**Fast Pandas: A Benchmarked Pandas Cheat Sheet**](https://github.com/mm-mansour/Fast-Pandas)
-
----
-
-## Misc python
 
 [**Loop Better: A Deeper Look at Iteration in Python**](https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python/)
 
@@ -102,17 +90,15 @@ subtitle: Tools of the trade.
 
 ---
 
-## Data Build Tool (DBT)
+## Data Build Tool (dbt)
 
 [**Build Your Data Analytics Like An Engineer (podcast)**](https://www.dataengineeringpodcast.com/dbt-data-analytics-episode-81/)
 
-[**How we structure our dbt projects**](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355)
+[**dbt Best Practice Guide**](https://docs.getdbt.com/guides/best-practices)
 
 [**On the limits of incrementality**](https://discourse.getdbt.com/t/on-the-limits-of-incrementality/303)
 
-[**dbt coding conventions**](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
-
-[State of testing in dbt](https://discourse.getdbt.com/t/state-of-testing-in-dbt/1778)
+[**State of testing in dbt**](https://discourse.getdbt.com/t/state-of-testing-in-dbt/1778)
 
 ---
 
@@ -133,47 +119,3 @@ subtitle: Tools of the trade.
 [**Is Looker the Right Business Intelligence Tool for My Company?**](https://blog.fishtownanalytics.com/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9)
 
 [**How do you decide what to model in dbt vs LookML?**](https://blog.fishtownanalytics.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304)
-
----
-
-## Resource Lists
-
-[**Hadley Wickham's Readings in Applied Data Science**](https://github.com/hadley/stats337)
-
-> These readings reflect my personal thoughts about applied data science, and are skewed towards topics that I think are important but are generally under appreciated.
-
-[**Awesome Business Intelligence**](https://github.com/thenaturalist/awesome-business-intelligence)
-
-[**Awesome Python**](https://awesome-python.com/)
-
-[**Awesome Python Data Science**](https://github.com/krzjoa/awesome-python-data-science)
-
-[**Awesome R**](https://github.com/qinwf/awesome-R)
-
-[**Awesome Apache Airflow**](https://github.com/jghoman/awesome-apache-airflow)
-
-[**Data Oriented Design Resources**](https://github.com/dbartolini/data-oriented-design)
-
-[**Python Data Transformation Tools for ETL**](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
-
-[**Data Engineering How To**](https://github.com/adilkhash/Data-Engineering-HowTo)
-
-[**Real Python Tutorials**](https://realpython.com/)
-
-[**Computer Science Courses with Video Lectures**](https://github.com/Developer-Y/cs-video-courses)
-
-[**Chris Albon's Technical Notes**](https://chrisalbon.com/)
-
-[**Awesome Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning)
-
-[**ML Resources**](https://sgfin.github.io/learning-resources/)
-
-[**Machine Learning Cheatsheet**](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-
-[**Google's Rules of Machine Learning: Best Practices for ML Engineering**](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-
-[**The Facebook Field Guide to Machine Learning**](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
-
-[**Learning Math for Machine Learning**](https://blog.ycombinator.com/learning-math-for-machine-learning/)
-
-[**100 Days of ML Coding Infographics**](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
