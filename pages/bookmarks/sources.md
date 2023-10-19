@@ -84,8 +84,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 # Misc
 
-## Blogs
-
 [**Patrick McKenzie's Essays**](https://www.kalzumeus.com/)
 
 [**Paul Grahm's Essays**](http://paulgraham.com/articles.html)
