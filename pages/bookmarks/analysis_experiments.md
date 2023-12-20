@@ -93,6 +93,8 @@ Framing, Approaches, Significance Pitfalls
 
 [**How Etsy Handles Peeking in A/B Testing**](https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/)
 
+[**AB Testing 101: What I wish I knew about AB testing when I started my career**](https://medium.com/jonathans-musings/ab-testing-101-5576de6466b)
+
 [**Suffering from a Non-inferiority Complex?**](https://multithreaded.stitchfix.com/blog/2019/05/06/noninferiority/)
 
 [**Analyzing Experiment Outcomes: Beyond Average Treatment Effects**](https://eng.uber.com/analyzing-experiment-outcomes/)

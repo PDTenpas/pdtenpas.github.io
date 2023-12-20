@@ -104,6 +104,12 @@ Cheesy titles on some of these but the content is good.
 
 > So I wish to you—I have no more time, so I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity.  May you have that freedom.
 
+[**How to Do Great Work**](http://www.paulgraham.com/greatwork.html)
+
+> There are two ways to be comfortable breaking rules: to enjoy breaking them, and to be indifferent to them. I call these two cases being aggressively and passively independent-minded.
+
+> The aggressively independent-minded are the naughty ones. Rules don't merely fail to stop them; breaking rules gives them additional energy. For this sort of person, delight at the sheer audacity of a project sometimes supplies enough activation energy to get it started.
+
 [**Elitism as the Mid-Career Growth Engine**](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)
 
 > Technical excellence begins in wonder but is honed by disgust
@@ -123,6 +129,10 @@ Cheesy titles on some of these but the content is good.
 [**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 
 [**Sam Altman: How To Be Successful**](http://blog.samaltman.com/how-to-be-successful)
+
+[**The Gervais Principle: The Office According to The Office**](https://www.ribbonfarm.com/the-gervais-principle/)
+
+> The Office is not a random series of cynical gags aimed at momentarily alleviating the existential despair of low-level grunts. It is a fully realized theory of management that falsifies 83.8% of the business section of the bookstore.
 
 [**My Journey Towards Authentic Leadership**](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
 
