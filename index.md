@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Data Bookmarks
 use-site-title: true
 ---
 
