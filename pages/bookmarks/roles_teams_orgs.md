@@ -20,11 +20,9 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Data Science: Reality Doesn't Meet Expectations**](https://dfrieds.com/articles/data-science-reality-vs-expectations.html)
 
-[**Does my Startup Data Team Need a Data Engineer?**](https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9)
-
 [**The Analytics Engineer**](https://www.locallyoptimistic.com/post/analytics-engineer/)
 
-[**When did analytics engineering become a thing? And why?**](https://blog.getdbt.com/what-is-an-analytics-engineer/)
+[**The Analytics Engineering Guide**](https://www.getdbt.com/analytics-engineering)
 
 [**The three kinds of data scientists**](http://www.residentmar.io/2018/10/18/roles-in-data-science.html)
 
