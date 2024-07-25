@@ -59,6 +59,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Embrace the Grind**](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 
+[**Oversimplify**](http://brohrer.github.io/oversimplify.html)
+
 [**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 > I’ve done this a few times myself now; start out as an early or first infra engineering hire, build the stack, then build the team, then manage the team, then … leave and start it all over again. I get antsy, I get restless. I start to feel like I know what I’m doing (… a telltale sign something’s wrong).
