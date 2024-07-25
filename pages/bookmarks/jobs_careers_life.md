@@ -22,7 +22,7 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**Levels.fyi salary data**](https://www.levels.fyi/)
 
-[**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/introduction)
+[**Tech Interview Handbook**](https://github.com/yangshun/tech-interview-handbook)
 
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
 
@@ -32,7 +32,7 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**Things To Know About Engineering Levels**](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 
-[**How to get promoted**](https://www.spakhm.com/p/how-to-get-promoted)
+[**How to get promoted**](https://spakhm.substack.com/p/how-to-get-promoted)
 
 [**The Guerrilla Guide to Interviewing (version 3.0)**](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
@@ -59,16 +59,20 @@ Cheesy titles on some of these but the content is good.
 
 [**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
-[**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
-
 [**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 > I’ve done this a few times myself now; start out as an early or first infra engineering hire, build the stack, then build the team, then manage the team, then … leave and start it all over again. I get antsy, I get restless. I start to feel like I know what I’m doing (… a telltale sign something’s wrong).
 > It’s a good cycle for people who like early stage companies, or have ADD. But I don’t see people talking about it as a career path. So I’m here to advocate for it, as an intentional and awesome way of life.
 
+[**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
+
+[**How to Write Effective Status Updates**](https://www.spakhm.com/updates-howto)
+
+> If you work on anything worthwhile, sooner or later people will care about it and will want you to send progress updates. These could be quarterly investor updates, weekly updates to your boss, emails to adjacent teams, etc. Here are tips on how to do this well.
+
 [**IT runs on Java 8**](https://veekaybee.github.io/2019/05/10/java8/)
 
-[**Data science is different now**](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
+[**Data science is different now**](https://vickiboykis.com/2019/02/13/data-science-is-different-now/)
 
 [**Miscellaneous unsolicited (and possibly biased) career advice**](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html)
 
@@ -83,14 +87,6 @@ Cheesy titles on some of these but the content is good.
 [**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
 
 [**Data Engineer Roadmap**](https://github.com/datastacktv/data-engineer-roadmap)
-
-[**Breakout List: Career Planning Guide for People in the Technology Industry**](https://breakoutlist.com/career-planning/)
-
-[**How to Build a Data Science Portfolio**](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
-
-[**One Analyst’s Guide for going from Good to Great**](https://blog.fishtownanalytics.com/one-analysts-guide-for-going-from-good-to-great-6697e67e37d9)
-
-[**Becoming a Level 3.0 Data Scientist**](https://towardsdatascience.com/becoming-a-level-3-0-data-scientist-52641ff73cb3)
 
 [**All the best engineering advice I stole from non-technical people**](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 
@@ -122,7 +118,7 @@ Cheesy titles on some of these but the content is good.
 
 [**Skinner as Self-manager**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284070/pdf/jaba003000300545.pdf)
 
-[**Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)**](https://fs.blog/great-talks/psychology-human-misjudgment//)
+[**Charlie Munger: The Psychology of Human Misjudgment**](https://fs.blog/great-talks/psychology-human-misjudgment//)
 
 [**There's No Speed Limit**](https://sive.rs/kimo)
 

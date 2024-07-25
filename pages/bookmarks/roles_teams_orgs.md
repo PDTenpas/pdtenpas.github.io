@@ -12,8 +12,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Unpopular Opinion - Data Scientists Should be More End-to-End**](https://eugeneyan.com/writing/end-to-end-data-science/)
 
-[**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
-
 [**What’s in a name?: The semantics of Science at Lyft**](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
 
 -  Lyft outlines the problems in data title ambiguity and proliferation.
@@ -78,7 +76,13 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 # Organizations
 
+[**Simple sabotage for software**](https://erikbern.com/2023/12/13/simple-sabotage-for-software)
+
+> Let's say you were employed as a CTO behind the front lines and you wanted to destroy productivity for as long as you can without getting caught. You can of course make a series of obviously bad decisions, but you'd get fired quickly. The real goal here is to sap the company of its productivity slowly, while maintaining a façade of plausibility and normalcy. What are some things you can do?
+
 [**Don’t Fuck Up the Culture**](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
+
+[**Most Data Work Seems Fundamentally Worthless**](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/)
 
 [**Titles**](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 

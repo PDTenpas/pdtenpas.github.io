@@ -80,6 +80,10 @@ subtitle: Framing, building, and managing data platforms.
 
 [**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
 
+[**The DataOps Cookbook**](https://datakitchen.io/the-dataops-cookbook/)
+
+[**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
+
 ## Review
 
 [**Strengthening Products and Teams with Technical Design Reviews**](https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216)
