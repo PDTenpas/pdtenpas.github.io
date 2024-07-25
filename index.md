@@ -5,10 +5,7 @@ use-site-title: true
 ---
 
 {: .box-note}
-[**Tools**](https://pdtenpas.github.io/pages/bookmarks/tools/): Tools of the trade.
-
-{: .box-note}
-[**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Data platforms and the products built on them.
+[**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Framing, building, and managing data platforms.
 
 {: .box-note}
 [**Analysis and Experiments**](https://pdtenpas.github.io/pages/bookmarks/analysis_experiments/): Resources for escaping the noise.

@@ -10,6 +10,10 @@ subtitle: Useful framing for getting a job/career/life.
 
 [**Red Flags in Data Science Interviews**](https://hookedondata.org/red-flags-in-data-science-interviews/)
 
+[**Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position**](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
+
+[**SQL Window Functions to Pass a Data Analytics Interview**](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
+
 [**Salary Negotiation: Make More Money, Be More Valued**](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 [**Ten Rules for Negotiating a Job Offer**](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
