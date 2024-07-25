@@ -11,7 +11,7 @@ Framing and approaches.
 
 ## Framing
 
-[**Tukey, Design Thinking, and Better Questions**](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
+[**Tukey, Design Thinking, and Better Questions**](https://simplystatistics.org/posts/2019-04-17-tukey-design-thinking-and-better-questions/)
 
 > In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
 
@@ -21,7 +21,7 @@ Framing and approaches.
 
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
-[**Trustworthy Data Analysis**](https://simplystatistics.org/2018/06/04/trustworthy-data-analysis/)
+[**Trustworthy Data Analysis**](https://simplystatistics.org/posts/2018-06-04-trustworthy-data-analysis/)
 
 > It’s entirely possible to trust an analysis but not believe the final conclusions.
 
@@ -77,11 +77,9 @@ Framing, approaches, pitfalls.
 
 [**Is Bayesian A/B Testing Immune to Peeking? Not Exactly**](http://varianceexplained.org/r/bayesian-ab-testing/)
 
-[**The Little Handbook of Statistical Practice**](http://www.jerrydallal.com/LHSP/LHSP.htm)
-
 ## Approaches
 
-[**Guidelines for A/B Testing**](https://hookedondata.org/guidelines-for-ab-testing/)
+[**Guidelines for A/B Testing**](https://hookedondata.org/posts/2018-08-07_guidelines-for-a-b-testing//)
 
 [**How Etsy Handles Peeking in A/B Testing**](https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/)
 
