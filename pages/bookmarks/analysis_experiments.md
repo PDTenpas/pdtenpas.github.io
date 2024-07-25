@@ -7,13 +7,17 @@ subtitle: Resources for escaping the noise.
 ---
 
 # Data Analysis
-Framing and Approaches
+Framing and approaches.
 
 ## Framing
 
 [**Tukey, Design Thinking, and Better Questions**](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
 
 > In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
+
+[**The Ten Fallacies of Data Science**](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
+
+> There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
 
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
@@ -43,19 +47,7 @@ Framing and Approaches
 
 [**You’re all calculating churn rates wrong**](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992)
 
-[**Markov Chains Explained Visually**](http://setosa.io/ev/markov-chains/)
-
-> A Markov chain tells you the probability of hopping, or "transitioning," from one state to any other state
-
-[**Forecasting at scale**](https://peerj.com/preprints/3190/)
-
-[**ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus**](https://www.inference.vc/untitled/)
-
-[**Using Causal Inference to Improve the Uber User Experience**](https://eng.uber.com/causal-inference-at-uber/)
-
 [**The Power User Curve: The best way to understand your most engaged users**](https://andrewchen.co/power-user-curve/)
-
-[**Forecasting: Principles and Practice (book)**](https://otexts.com/fpp2/)
 
 [**What to do when your metrics dip**](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip?s=r)
 
@@ -63,7 +55,7 @@ Framing and Approaches
 
 # Experimentation
 
-Framing, Approaches, Significance Pitfalls
+Framing, approaches, pitfalls.
 
 ## Framing
 
@@ -99,13 +91,9 @@ Framing, Approaches, Significance Pitfalls
 
 [**Analyzing Experiment Outcomes: Beyond Average Treatment Effects**](https://eng.uber.com/analyzing-experiment-outcomes/)
 
-[**Mediation Modeling at Uber: Understanding Why Product Changes Work (and Don’t Work)**](https://eng.uber.com/mediation-modeling/)
-
-> Mediation modeling goes beyond simple cause and effect relationships in an attempt to understand what underlying mechanisms led to a result.
-
 [**Experimentation & Measurement for Search Engine Optimization**](https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760)
 
-## Statistical Significance Pitfalls
+## Pitfalls
 
 [**The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time**](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 

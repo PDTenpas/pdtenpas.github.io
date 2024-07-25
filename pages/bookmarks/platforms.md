@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Platforms and Products
-subtitle: Data platforms and the products built on them.
+title: Platforms
+subtitle: Framing, building, and managing data platforms.
 ---
 
 ---
 
-# Data Platforms
-Framing, building, and managing data platforms.
-
-## Framing
+# Framing
 
 [**Stevey's Google Platforms Rant**](https://gist.github.com/chitchcock/1281611)
 
@@ -49,7 +46,13 @@ Framing, building, and managing data platforms.
 
 > High-quality applications, however, must enable ownership. They must be cognizant of their customers’ ever-expanding needs and plan accordingly so that customers can solve their own problems.
 
-## Building
+[**Towards an understanding of technical debt**](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
+
+[**Scientific Debt**](http://varianceexplained.org/r/scientific-debt/)
+
+> Scientific debt is when a team takes shortcuts in data analysis, experimental practices, and monitoring that could have long-term negative consequences.
+
+# Building
 
 [**Tidy Data**](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 
@@ -79,7 +82,21 @@ Framing, building, and managing data platforms.
 
 > Every few months, I try to talk someone down from building a real-time product analytics system. When I’m lucky, I can get to them early.
 
-## Managing
+## Review
+
+[**Strengthening Products and Teams with Technical Design Reviews**](https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216)
+
+[**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
+
+[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+
+[**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
+
+[**Unlearning toxic behaviors in a code review culture**](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+
+[**Google Engineering Practices Documentation**](https://google.github.io/eng-practices/)
+
+# Managing
 
 [**Gardening Platforms**](https://komoroske.com/gardening-platforms/)
 
@@ -89,7 +106,7 @@ Framing, building, and managing data platforms.
 
 [**The Log: What every software engineer should know about real-time data's unifying abstraction**](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
-[**Whoops, the numbers are wrong! Scaling Data Quality @ Netflix (talk)**](https://youtu.be/fXHdeBnpXrg)
+[**The Data Quality Flywheel**](https://www.datafold.com/blog/the-data-quality-flywheel/)
 
 [**Testing Statistical Software**](https://www.alexpghayes.com/blog/testing-statistical-software)
 

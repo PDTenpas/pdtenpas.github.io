@@ -48,14 +48,6 @@ subtitle: Everything else.
 
 ---
 
-# Finding Things
-
-[**Google Dataset Search**](https://toolbox.google.com/datasetsearch)
-
-[**Arxiv Sanity Preserver**](http://arxiv-sanity.com)
-
----
-
 # Random Data History Things
 
 [**The Future of Data Analysis (1962)**](https://projecteuclid.org/euclid.aoms/1177704711)

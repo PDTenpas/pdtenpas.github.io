@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News Sources
-subtitle: Data and tech newsletters, blogs, and podcasts.
+subtitle: Misc newsletters, blogs, and podcasts.
 ---
 
 ---
@@ -54,7 +54,7 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 
 [**The Data Engineering Podcast**](https://www.dataengineeringpodcast.com/): The Data Engineering Podcast tackles a new approach to data management every week.
 
-[**The Data Engineering Podcast**](https://roundup.getdbt.com/s/the-analytics-engineering-podcast): Conversations with data practitioners inventing the future of analytics engineering.
+[**The Analytics Engineering Podcast**](https://roundup.getdbt.com/s/the-analytics-engineering-podcast): Conversations with data practitioners inventing the future of analytics engineering.
 
 [**Talk Python To Me**](https://talkpython.fm/): Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies.
 
@@ -63,8 +63,6 @@ subtitle: Data and tech newsletters, blogs, and podcasts.
 [**Not So Standard Deviations**](http://nssdeviations.com/): Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 
 [**Data Skeptic**](https://dataskeptic.com/): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science.
-
-[**O'Reilly Data Podcast**](https://www.oreilly.com/topics/oreilly-data-show-podcast): The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data, data science, and AI.
 
 ## Blogs
 

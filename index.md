@@ -5,7 +5,7 @@ use-site-title: true
 ---
 
 {: .box-note}
-[**Platforms and Products**](https://pdtenpas.github.io/pages/bookmarks/platforms_products/): Framing, building, and managing data platforms.
+[**Platforms**](https://pdtenpas.github.io/pages/bookmarks/platforms/): Framing, building, and managing data platforms.
 
 {: .box-note}
 [**Analysis and Experiments**](https://pdtenpas.github.io/pages/bookmarks/analysis_experiments/): Resources for escaping the noise.
@@ -17,7 +17,7 @@ use-site-title: true
 [**Jobs, Careers, Life**](https://pdtenpas.github.io/pages/bookmarks/jobs_careers_life/): Useful framing for getting a job/career/life.
 
 {: .box-note}
-[**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Data and tech newsletters, blogs, and podcasts.
+[**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Misc newsletters, blogs, and podcasts.
 
 {: .box-note}
 [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Everything else.
