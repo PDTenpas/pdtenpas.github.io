@@ -19,8 +19,6 @@ Framing and approaches.
 
 > There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
 
-[**Oversimplify**](http://brohrer.github.io/oversimplify.html)
-
 [**Trustworthy Data Analysis**](https://simplystatistics.org/posts/2018-06-04-trustworthy-data-analysis/)
 
 > It’s entirely possible to trust an analysis but not believe the final conclusions.
