@@ -62,8 +62,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 ## Prioritization
 
-[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
-
 [**Effort vs. Value Curves**](https://cutlefish.substack.com/p/tbm-220-effort-vs-value-curves)
 
 > One thing that always bugs me about (many) prioritization conversations is that teams often leave out the expected value curve of the work.

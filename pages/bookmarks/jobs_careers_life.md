@@ -108,6 +108,8 @@ Cheesy titles on some of these but the content is good.
 
 > The aggressively independent-minded are the naughty ones. Rules don't merely fail to stop them; breaking rules gives them additional energy. For this sort of person, delight at the sheer audacity of a project sometimes supplies enough activation energy to get it started.
 
+[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
+
 [**Elitism as the Mid-Career Growth Engine**](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)
 
 > Technical excellence begins in wonder but is honed by disgust
