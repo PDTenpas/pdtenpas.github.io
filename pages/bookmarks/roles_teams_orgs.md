@@ -58,7 +58,11 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Analytics is a mess: You can’t stop it, and you shouldn’t try to contain it.**](https://benn.substack.com/p/analytics-is-a-mess?utm_source=url)
 
+[**Super Specific Feedback: How to give actionable feedback on work output**](https://newsletter.weskao.com/p/super-specific-feedback)
+
 ## Prioritization
+
+[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
 [**Effort vs. Value Curves**](https://cutlefish.substack.com/p/tbm-220-effort-vs-value-curves)
 

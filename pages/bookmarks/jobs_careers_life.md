@@ -57,8 +57,6 @@ Cheesy titles on some of these but the content is good.
 
 [**Embrace the Grind**](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 
-[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
-
 [**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 > I’ve done this a few times myself now; start out as an early or first infra engineering hire, build the stack, then build the team, then manage the team, then … leave and start it all over again. I get antsy, I get restless. I start to feel like I know what I’m doing (… a telltale sign something’s wrong).
@@ -66,7 +64,7 @@ Cheesy titles on some of these but the content is good.
 
 [**Data Science Foundations: Know your data. Really, really, know it**](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c)
 
-[**How to Write Effective Status Updates**](https://www.spakhm.com/updates-howto)
+[**How to send progress updates**](https://www.spakhm.com/updates-howto)
 
 > If you work on anything worthwhile, sooner or later people will care about it and will want you to send progress updates. These could be quarterly investor updates, weekly updates to your boss, emails to adjacent teams, etc. Here are tips on how to do this well.
 
