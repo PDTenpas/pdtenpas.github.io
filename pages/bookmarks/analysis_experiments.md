@@ -6,7 +6,7 @@ subtitle: Resources for escaping the noise.
 
 ---
 
-# Data Analysis
+# Analysis
 Framing and approaches.
 
 ## Framing

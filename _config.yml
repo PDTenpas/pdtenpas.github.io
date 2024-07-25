@@ -24,8 +24,7 @@ title: HOME
 # List of links in the navigation bar
 navbar-links:
   jump:
-    - tools: "pages/bookmarks/tools"
-    - platforms and products: "pages/bookmarks/platforms"
+    - platforms: "pages/bookmarks/platforms"
     - analysis and experiments: "pages/bookmarks/analysis_experiments"
     - roles, teams, orgs: "pages/bookmarks/roles_teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
