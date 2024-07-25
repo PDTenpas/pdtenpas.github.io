@@ -37,7 +37,7 @@ Framing, building, and managing data platforms.
 
 [**Choose Boring Technology**](http://boringtechnology.club/)
 
-> 	I chose “boring technology” as the pithy SEO-friendly title for this content, and I regret it most days. It’s kind of distracting. “Boring sounds bad, why is he saying it’s good?” Et cetera. It’s a real shitshow.
+> I chose “boring technology” as the pithy SEO-friendly title for this content, and I regret it most days. It’s kind of distracting. “Boring sounds bad, why is he saying it’s good?” Et cetera. It’s a real shitshow.
 
 > But what I’m aiming for there is not technology that’s “boring” the way CSPAN is boring. I mean that it’s boring in the sense that it’s well understood. It’s bad, but you know why it’s bad. You can list all of the main ways it will let you down.
 
