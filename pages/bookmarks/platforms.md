@@ -64,8 +64,6 @@ subtitle: Framing, building, and managing data platforms.
 
 [**Scaling Data and Self-Serve Analytics**](https://www.conordewey.com/blog/scaling-self-serve-analytics/)
 
-[**Fundamentals of Data Visualization (book)**](https://serialmentor.com/dataviz/index.html)
-
 [**Maintainable ETLs: Tips for Making Your Pipelines Easier to Support and Extend**](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/)
 
 [**Idempotence Now Prevents Pain Later**](https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/)
@@ -74,13 +72,13 @@ subtitle: Framing, building, and managing data platforms.
 
 [**Joel Grus' I Don't Like Notebooks (talk)**](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 
-[**I Will Fucking Dropkick You If You Use That Spreadsheet**](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
-
-[**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
-
 [**Whom the Gods Would Destroy, They First Give Real-time Analytics**](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 
 > Every few months, I try to talk someone down from building a real-time product analytics system. When I’m lucky, I can get to them early.
+
+[**I Will Fucking Dropkick You If You Use That Spreadsheet**](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
+
+[**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
 
 ## Review
 
