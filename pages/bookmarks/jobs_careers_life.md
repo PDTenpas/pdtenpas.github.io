@@ -51,6 +51,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
 
+[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
+
 [**Speed matters: Why working quickly is more important than it seems**](http://jsomers.net/blog/speed-matters)
 
 > The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
@@ -107,8 +109,6 @@ Cheesy titles on some of these but the content is good.
 > There are two ways to be comfortable breaking rules: to enjoy breaking them, and to be indifferent to them. I call these two cases being aggressively and passively independent-minded.
 
 > The aggressively independent-minded are the naughty ones. Rules don't merely fail to stop them; breaking rules gives them additional energy. For this sort of person, delight at the sheer audacity of a project sometimes supplies enough activation energy to get it started.
-
-[**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
 [**Elitism as the Mid-Career Growth Engine**](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)
 
