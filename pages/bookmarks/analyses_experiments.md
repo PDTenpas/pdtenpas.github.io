@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Analysis and Experimentation
+title: Analyses and Experiments
 subtitle: Resources for escaping the noise.
 ---
 
 ---
 
-# Analysis
+# Analyses
 Framing and approaches.
 
 ## Framing
@@ -51,7 +51,7 @@ Framing and approaches.
 
 ---
 
-# Experimentation
+# Experiments
 
 Framing, approaches, pitfalls.
 

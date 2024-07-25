@@ -24,7 +24,7 @@ title: Data Bookmarks
 # List of links in the navigation bar
 navbar-links:
   platforms: "pages/bookmarks/platforms"
-  analysis and experimentation: "pages/bookmarks/analysis_experiments"
+  Analyses and Experiments: "pages/bookmarks/analyses_experiments"
   roles, teams, orgs: "pages/bookmarks/roles_teams_orgs"
   jobs, careers, life: "pages/bookmarks/jobs_careers_life"
   news sources: "pages/bookmarks/sources"
