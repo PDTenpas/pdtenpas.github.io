@@ -25,7 +25,7 @@ title: HOME
 navbar-links:
   jump:
     - platforms: "pages/bookmarks/platforms"
-    - analysis and experiments: "pages/bookmarks/analysis_experiments"
+    - analysis and experimentation: "pages/bookmarks/analysis_experiments"
     - roles, teams, orgs: "pages/bookmarks/roles_teams_orgs"
     - jobs, careers, life: "pages/bookmarks/jobs_careers_life"
     - news sources: "pages/bookmarks/sources"

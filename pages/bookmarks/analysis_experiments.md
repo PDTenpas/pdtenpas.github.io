@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis and Experiments
+title: Analysis and Experimentation
 subtitle: Resources for escaping the noise.
 ---
 
