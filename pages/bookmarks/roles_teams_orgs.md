@@ -38,8 +38,6 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Eliminating Toil**](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/)
 
-[**Being Glue**](https://noidea.dog/glue)
-
 [**Run Your Data Team Like A Product Team**](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
 
 [**DataOps Principles: How Startups Do Data The Right Way**](https://retina.ai/blog/dataops-principles/)
@@ -56,7 +54,15 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Analytics is a mess: You can’t stop it, and you shouldn’t try to contain it.**](https://benn.substack.com/p/analytics-is-a-mess?utm_source=url)
 
+[**Being Glue**](https://noidea.dog/glue)
+
 [**Super Specific Feedback: How to give actionable feedback on work output**](https://newsletter.weskao.com/p/super-specific-feedback)
+
+[**Please don't say just hello in chat**](https://nohello.net/en/)
+
+[**The XY problem**](https://xyproblem.info/)
+
+> The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
 
 ## Prioritization
 
