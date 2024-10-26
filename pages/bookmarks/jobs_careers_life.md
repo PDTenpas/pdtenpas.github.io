@@ -128,9 +128,11 @@ Cheesy titles on some of these but the content is good.
 
 > One of my heuristics for growth is to seek out the magicians, and find the magic.
 
-[**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
+[**Liquid vs. Illiquid Careers**](https://www.everythingisatrolley.com/p/liquid-vs-illiquid-careers?)
 
-[**Sam Altman: How To Be Successful**](http://blog.samaltman.com/how-to-be-successful)
+> Just like in financial markets, some human capital is easier to price and trade than others. This is not about the absolute value of your skills or experience, but how easily the market can assess and exchange them.
+
+[**How to Pick a Career (That Actually Fits You)**](https://waitbutwhy.com/2018/04/picking-career.html)
 
 [**The Gervais Principle: The Office According to The Office**](https://www.ribbonfarm.com/the-gervais-principle/)
 
