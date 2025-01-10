@@ -49,6 +49,8 @@ Framing and approaches.
 
 [**What to do when your metrics dip**](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip?s=r)
 
+[**From Data to Insights: Segmenting Airbnb’s Supply**](https://medium.com/airbnb-engineering/from-data-to-insights-segmenting-airbnbs-supply-c88aa2bb9399)
+
 ---
 
 # Experiments
