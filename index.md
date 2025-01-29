@@ -22,4 +22,4 @@ use-site-title: true
 {: .box-note}
 [**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Everything else.
 
-[*About*](https://pdtenpas.github.io/pages/about/) ~ *Last Updated: 2024-07-24*
+[*About*](https://pdtenpas.github.io/pages/about/) ~ *Last Updated: 2025-01-09*
