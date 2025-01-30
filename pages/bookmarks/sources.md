@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News Sources
-subtitle: Misc. newsletters, blogs, and podcasts I like.
+subtitle: Misc. newsletters, blogs, and podcasts I follow.
 ---
 
 ---
