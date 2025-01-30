@@ -53,10 +53,6 @@ Cheesy titles on some of these but the content is good.
 
 [**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
-[**Speed matters: Why working quickly is more important than it seems**](http://jsomers.net/blog/speed-matters)
-
-> The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
-
 [**Embrace the Grind**](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
@@ -122,7 +118,13 @@ Cheesy titles on some of these but the content is good.
 
 [**Charlie Munger: The Psychology of Human Misjudgment**](https://fs.blog/great-talks/psychology-human-misjudgment//)
 
+[**Speed matters: Why working quickly is more important than it seems**](http://jsomers.net/blog/speed-matters)
+
+> The prescription must be that if there’s something you want to do a lot of and get good at—like write, or fix bugs—you should try to do it faster.
+
 [**There's No Speed Limit**](https://sive.rs/kimo)
+
+> When the studio owner heard I was going to Berklee, he said, “I graduated from Berklee and taught there, too. I’ll bet I can teach you two years of theory and arranging in only a few lessons. I suspect you can graduate in two years if you understand there’s no speed limit.”
 
 [**Becoming a magician**](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 
