@@ -114,7 +114,7 @@ Cheesy titles on some of these but the content is good.
 
 [**Elitism as the Mid-Career Growth Engine**](https://stkbailey.substack.com/p/elitism-as-the-mid-career-growth)
 
-> Technical excellence begins in wonder but is honed by disgust
+> Technical excellence begins in wonder but is honed by disgust.
 
 [**Strong Opinions, Weakly Held — a framework for thinking**](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
 
