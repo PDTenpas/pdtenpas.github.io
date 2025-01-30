@@ -5,7 +5,7 @@ subtitle: I'm Parker.
 use-site-title: true
 ---
 
-This site is a collection of *mostly* data-related bookmarks I've found useful in my career.
+This site is a collection of *mostly* data-related resources I've found useful in my career.
 
 [I work in data](https://www.linkedin.com/in/parker-tenpas-a45088134/). My experience includes time at the Harlow Center for Biological Psychology, the 2016 Clinton Presidential Campaign, a few years in ecommerce and healthtech startups, and most recently manufacturing at ~~Rivian~~ [Rivian and Volkswagen Group Technologies](https://rivianvw.tech/). Very different industries, always data.
 
