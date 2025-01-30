@@ -26,9 +26,9 @@ I'm originally from Wisconsin where I dropped out of a PhD program at UW-Madison
 [**Jobs, Careers, Life**](https://pdtenpas.github.io/pages/bookmarks/jobs_careers_life/): Useful framing for getting a job/career/life.
 
 {: .box-note}
-[**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Misc newsletters, blogs, and podcasts.
+[**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Misc. newsletters, blogs, and podcasts I like.
 
 {: .box-note}
-[**Misc**](https://pdtenpas.github.io/pages/bookmarks/misc/): Everything else.
+[**Other**](https://pdtenpas.github.io/pages/bookmarks/other/): Everything else.
 
 *Last Updated: 2025-01-29*
