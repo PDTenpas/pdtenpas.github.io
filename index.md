@@ -13,6 +13,8 @@ I'm from Wisconsin where I dropped out of my PhD at UW-Madison to work in tech. 
 
 🧀🥶🏝️🌋🗽🍎🌊🏔️🎿🏙️🍻
 
+---
+
 ## Themes
 
 {: .box-note}
