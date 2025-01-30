@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News Sources
+title: Feeds
 subtitle: Misc. newsletters, blogs, and podcasts I follow.
 ---
 
@@ -46,7 +46,6 @@ subtitle: Misc. newsletters, blogs, and podcasts I follow.
 
 [**Not So Standard Deviations**](http://nssdeviations.com/): Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 
-[**Data Skeptic**](https://dataskeptic.com/): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science.
 
 ## Blogs
 
@@ -75,3 +74,5 @@ subtitle: Misc. newsletters, blogs, and podcasts I follow.
 [**Slate Star Codex**](https://slatestarcodex.com/): Welcome to Slate Star Codex, a blog about science, medicine, philosophy, politics, and futurism.
 
 [**Money Stuff**](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine): A daily take on Wall Street, finance, companies and other stuff.
+
+[**Making Sense with Sam Harris**](https://www.samharris.org/podcasts/making-sense-episodes)

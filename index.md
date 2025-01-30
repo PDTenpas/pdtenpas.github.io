@@ -30,7 +30,7 @@ I'm from Wisconsin where I dropped out of a PhD program at UW-Madison to work in
 [**Jobs, Careers, Life**](https://pdtenpas.github.io/pages/bookmarks/jobs_careers_life/): Useful framing for getting a job/career/life.
 
 {: .box-note}
-[**News Sources**](https://pdtenpas.github.io/pages/bookmarks/sources/): Misc. newsletters, blogs, and podcasts I follow.
+[**Feeds**](https://pdtenpas.github.io/pages/bookmarks/feeds/): Misc. newsletters, blogs, and podcasts I follow.
 
 {: .box-note}
 [**Other**](https://pdtenpas.github.io/pages/bookmarks/other/): Everything else.

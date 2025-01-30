@@ -27,7 +27,7 @@ navbar-links:
   Analyses and Experiments: "pages/bookmarks/analyses_experiments"
   roles, teams, orgs: "pages/bookmarks/roles_teams_orgs"
   jobs, careers, life: "pages/bookmarks/jobs_careers_life"
-  news sources: "pages/bookmarks/sources"
+  feeds: "pages/bookmarks/feeds"
   other: "pages/bookmarks/other"
 
 # Image to show in the navigation bar - image must be a square (width = height)
