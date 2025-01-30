@@ -33,4 +33,6 @@ I'm from Wisconsin where I dropped out of my PhD at UW-Madison to work in tech. 
 {: .box-note}
 [**Other**](https://pdtenpas.github.io/pages/bookmarks/other/): Everything else.
 
-*Updated 2025-01-29*
+---
+
+*Last updated 2025-01-29*
