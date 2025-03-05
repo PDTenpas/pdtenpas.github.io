@@ -213,14 +213,6 @@ A few favorites here...
 
 - [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
 
-## Misc Sites
-
-[**LessWrong**](https://www.lesswrong.com/)
-
-[**Farnam Street**](https://fs.blog/)
-
-[**80,000 Hours**](https://80000hours.org/)
-
 ## Podcasts / Videos / Talks
 
 [**This is Water by David Foster Wallace**](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
