@@ -128,8 +128,6 @@ Cheesy titles on some of these but the content is good.
 
 [**High Ownership, High Urgency**](https://blog.danielna.com/high-ownership-high-urgency/)
 
-> These people are often the most effective operators at their level, and uniquely seem to get more done and are more widely respected as teammates. The difference is they operate as owners.
-
 > The drive is internal: if something could be better, why shouldn’t it be better? If something could be faster, why shouldn’t it be faster?
 
 [**Becoming a magician**](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
