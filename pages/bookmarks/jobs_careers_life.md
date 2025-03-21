@@ -57,6 +57,8 @@ Cheesy titles on some of these but the content is good.
 
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
+[**A forty-year career**](https://lethain.com/forty-year-career/)
+
 [**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 > I’ve done this a few times myself now; start out as an early or first infra engineering hire, build the stack, then build the team, then manage the team, then … leave and start it all over again. I get antsy, I get restless. I start to feel like I know what I’m doing (… a telltale sign something’s wrong).
@@ -81,10 +83,6 @@ Cheesy titles on some of these but the content is good.
 [**Ten Principles for Growth as an Engineer**](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
 
 [**Learn the Overlaps: Advice for the Aspiring Data Scientist**](https://www.locallyoptimistic.com/post/ds_advice/)
-
-[**Data Science Career Resources**](https://github.com/conordewey3/DS-Career-Resources)
-
-[**Data Engineer Roadmap**](https://github.com/datastacktv/data-engineer-roadmap)
 
 [**All the best engineering advice I stole from non-technical people**](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 
@@ -143,8 +141,6 @@ Cheesy titles on some of these but the content is good.
 [**The Gervais Principle: The Office According to The Office**](https://www.ribbonfarm.com/the-gervais-principle/)
 
 > The Office is not a random series of cynical gags aimed at momentarily alleviating the existential despair of low-level grunts. It is a fully realized theory of management that falsifies 83.8% of the business section of the bookstore.
-
-[**My Journey Towards Authentic Leadership**](https://thandy.org/my-journey-towards-authentic-leadership-40b8c54ee8f4)
 
 [**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
 
