@@ -69,6 +69,8 @@ subtitle: Misc. newsletters, blogs, and podcasts I follow.
 
 [**Andrew Bartholomew's Writings**](https://www.abartholomew.com/writing)
 
+[**Jack Danger's Writings**](https://jackdanger.com/)
+
 [**Wait But Why**](https://waitbutwhy.com/): A popular long-form, stick-figure-illustrated blog about almost everything.
 
 [**Slate Star Codex**](https://slatestarcodex.com/): Welcome to Slate Star Codex, a blog about science, medicine, philosophy, politics, and futurism.
