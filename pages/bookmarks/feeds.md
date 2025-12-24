@@ -18,8 +18,6 @@ subtitle: Misc. newsletters, blogs, and podcasts I follow.
 
 [**Data is Plural**](https://www.data-is-plural.com/): A weekly newsletter of useful/curious datasets.
 
-[**Data Eng Weekly**](https://dataengweekly.com/): Data Eng Weekly covers the week's top news in the data engineering ecosystem.
-
 [**Software Weekly**](https://us12.campaign-archive.com/home/?u=0e61a764c5cf33d9f3eff0749&id=846fac531b): Weekly news about technical software topics.
 
 [**NYC Data**](https://nycdata.substack.com/): A weekly listing of new data positions, events, and conferences from New York City.
@@ -43,8 +41,6 @@ subtitle: Misc. newsletters, blogs, and podcasts I follow.
 [**The Analytics Engineering Podcast**](https://roundup.getdbt.com/s/the-analytics-engineering-podcast): Conversations with data practitioners inventing the future of analytics engineering.
 
 [**Talk Python To Me**](https://talkpython.fm/): Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies.
-
-[**Not So Standard Deviations**](http://nssdeviations.com/): Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 
 
 ## Blogs
