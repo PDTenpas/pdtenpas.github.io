@@ -50,10 +50,6 @@ Data and engineering oriented career advice.
 
 > If there was one course I could add to every engineering education, it wouldn’t involve compilers or gates or time complexity.  It would be Realities Of Your Industry 101, because we don’t teach them and this results in lots of unnecessary pain and suffering. This post aspires to be README.txt for your career as a young engineer.
 
-[**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
-
-> Tell me something new that I can do that I couldn’t do before, O Astronauts, or stay up there in space and don’t waste any more of my time.
-
 [**The Engineer/Manager Pendulum**](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 > I’ve done this a few times myself now; start out as an early or first infra engineering hire, build the stack, then build the team, then manage the team, then … leave and start it all over again. I get antsy, I get restless. I start to feel like I know what I’m doing (… a telltale sign something’s wrong).
@@ -109,6 +105,10 @@ A few values and principles that can help drive your career.
 
 > If you take no other advice from me ever, ship something. You'll learn more shipping a failure than you'll learn from reading about a thousand successes. And you stand an excellent chance of shipping a success -- people greatly overestimate how difficult this is.
 
+[**Don’t Let Architecture Astronauts Scare You**](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+
+> Tell me something new that I can do that I couldn’t do before, O Astronauts, or stay up there in space and don’t waste any more of my time.
+
 [**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
 > Some people can apply skills in the combinations necessary to move projects forward, and others cannot,
@@ -151,7 +151,7 @@ Towards building a meaningful career over the long haul.
 
 [**Cargo Cult Science: Some remarks on science, pseudoscience, and learning how to not fool yourself.**](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
 
-- Caltech’s 1974 commencement address.
+- Caltech’s 1974 commencement address by Richard Feynman.
 
 > So I wish to you—I have no more time, so I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity.  May you have that freedom.
 
