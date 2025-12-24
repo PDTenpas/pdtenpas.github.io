@@ -15,27 +15,15 @@ Framing and approaches.
 
 > In my view, the most useful thing a data scientist can do is to devote serious effort towards improving the quality and sharpness of the question being asked.
 
-[**The Ten Fallacies of Data Science**](https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862)
-
-> There exists a hidden gap between the more idealized view of the world given to data-science students and recent hires, and the issues they often face getting to grips with real-world data science problems in industry.
-
 [**Trustworthy Data Analysis**](https://simplystatistics.org/posts/2018-06-04-trustworthy-data-analysis/)
 
 > It’s entirely possible to trust an analysis but not believe the final conclusions.
-
-[**20 Questions to Ask Prior to Starting Data Analysis**](https://towardsdatascience.com/20-questions-to-ask-prior-to-starting-data-analysis-6ec11d6a504b)
 
 [**Data-Informed Product Building**](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 
 > Our goal is to give you an understanding of how a product evolves from infancy to maturity; a holistic sense of the product metric ecosystem of growth, engagement and monetization; a framework to define goals for your company; and a toolkit you can use to analyze your product’s performance against those goals.
 
 [**Model Tuning and the Bias-Variance Tradeoff**](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
-
-[**Uncertainty + Visualization, Explained**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
-
-[**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
-
-[**10 Reads for Data Scientists Getting Started with Business Models**](https://towardsdatascience.com/10-reads-for-data-scientists-getting-started-with-business-models-78e6a224fd66)
 
 ## Approaches
 
@@ -50,6 +38,10 @@ Framing and approaches.
 [**What to do when your metrics dip**](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip?s=r)
 
 [**From Data to Insights: Segmenting Airbnb’s Supply**](https://medium.com/airbnb-engineering/from-data-to-insights-segmenting-airbnbs-supply-c88aa2bb9399)
+
+[**Uncertainty + Visualization, Explained**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
+
+[**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
 
 ---
 
