@@ -104,6 +104,20 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > If you are in the data business – my bread, butter and tofu – you often carry the burden of being the bearer of bad news.
 
+## Peer Review
+
+[**Strengthening Products and Teams with Technical Design Reviews**](https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216)
+
+[**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
+
+[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+
+[**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
+
+[**Unlearning toxic behaviors in a code review culture**](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+
+[**Google Engineering Practices Documentation**](https://google.github.io/eng-practices/)
+
 ## Prioritization
 
 [**Effort vs. Value Curves**](https://cutlefish.substack.com/p/tbm-220-effort-vs-value-curves)

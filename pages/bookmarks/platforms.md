@@ -48,6 +48,8 @@ subtitle: Framing, building, and managing data platforms.
 
 [**Towards an understanding of technical debt**](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
 
+> All code is technical debt. All code is, to varying degrees, an incorrect bet on what the future will look like. You can address issues that are damaging to productivity, operability and morale, but only way to “fix technical debt” is “rm -rf”.
+
 [**Scientific Debt**](http://varianceexplained.org/r/scientific-debt/)
 
 > Scientific debt is when a team takes shortcuts in data analysis, experimental practices, and monitoring that could have long-term negative consequences.
@@ -58,7 +60,7 @@ subtitle: Framing, building, and managing data platforms.
 
 > The principles of tidy data provide a standard way to organize data values within a dataset.
 
-[**The Quartz guide to bad data**](https://github.com/Quartz/bad-data-guide)
+[**The Quartz guide to bad data**](https://github.com/Quartz/bad-data-guide) 
 
 > An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
@@ -84,25 +86,11 @@ subtitle: Framing, building, and managing data platforms.
 
 [**Making Wrong Code Look Wrong**](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)
 
-## Review
-
-[**Strengthening Products and Teams with Technical Design Reviews**](https://medium.com/git-out-the-vote/strengthening-products-and-teams-with-technical-design-reviews-ae6a1bec5216)
-
-[**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
-
-[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
-
-[**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
-
-[**Unlearning toxic behaviors in a code review culture**](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
-
-[**Google Engineering Practices Documentation**](https://google.github.io/eng-practices/)
-
-# Managing
+# Gardening
 
 [**Gardening Platforms**](https://komoroske.com/gardening-platforms/)
 
-> A ~200 slide flip book style presentation about how to garden platforms.
+- A ~200 slide flip book style presentation about how to garden platforms.
 
 [**My Philosophy on Alerting**](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#)
 
