@@ -270,11 +270,7 @@ A few favorites here...
 
 - [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
-    - A few bits of life advice.
-
 - [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
-
-   - Good advice on advice.
 
 ## Podcasts / Videos / Talks
 
