@@ -11,7 +11,7 @@ This site is a collection of *mostly* data-related resources I've found useful i
 
 I'm from Wisconsin where I dropped out of a PhD program at UW-Madison to work in tech. I escaped the midwestern winter by finding an internship at a mobile app startup in Honolulu, Hawaii. Afterwards I moved to NYC where I learned how to actually build stuff and left the concrete jungle to weather a pandemic from South Lake Tahoe, California. I now live in Denver, Colorado where I just might stay put for a while.
 
-🧀🥶🏝️🌋🗽🍎🌊🏔️🎿🏙️🍻
+🧀🥶🏝️🌋🗽🍎🌊🎿🏔️🏙️🍻
 
 ---
 
@@ -37,4 +37,4 @@ I'm from Wisconsin where I dropped out of a PhD program at UW-Madison to work in
 
 ---
 
-*Last updated 2025-03-21*
+*Last updated 2025-12-24*
