@@ -25,6 +25,8 @@ Framing and approaches.
 
 [**Model Tuning and the Bias-Variance Tradeoff**](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
+[**20 Questions to Ask Prior to Starting Data Analysis**](https://medium.com/data-science/20-questions-to-ask-prior-to-starting-data-analysis-6ec11d6a504b)
+
 ## Approaches
 
 [**Conversion rates – you are (most likely) computing them wrong**](https://erikbern.com/2017/05/23/conversion-rates-you-are-most-likely-computing-them-wrong.html)
