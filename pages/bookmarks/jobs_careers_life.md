@@ -143,12 +143,6 @@ A few values and principles that can help drive your career.
 
 > One of my heuristics for growth is to seek out the magicians, and find the magic.
 
-[**How to send progress updates**](https://www.spakhm.com/updates-howto)
-
-> If you work on anything worthwhile, sooner or later people will care about it and will want you to send progress updates.
-
-- You must communicate your work well. Start by sending good progress updates.
-
 ---
 
 # You and Your Career
