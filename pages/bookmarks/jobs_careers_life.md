@@ -8,33 +8,35 @@ subtitle: Useful framing for getting a job/career/life.
 
 # Navigating the Job Market
 
+## Interviewing
+
+[**Tech Interview Handbook**](https://github.com/yangshun/tech-interview-handbook)
+
+[**The Guerrilla Guide to Interviewing (version 3.0)**](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+
 [**Red Flags in Data Science Interviews**](https://hookedondata.org/red-flags-in-data-science-interviews/)
 
 [**Analyzing 89 Responses to a SQL Screener Question for a Senior Data Analyst Position**](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
 
 [**SQL Window Functions to Pass a Data Analytics Interview**](https://calogica.com/sql/2018/07/01/sql-functions-for-data-analyst-interviews.html)
 
-[**Salary Negotiation: Make More Money, Be More Valued**](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-
-[**Ten Rules for Negotiating a Job Offer**](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-
-[**How Not to Bomb Your Offer Negotiation**](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+## Understanding Compensation
 
 [**Levels.fyi salary data**](https://www.levels.fyi/)
 
-[**Tech Interview Handbook**](https://github.com/yangshun/tech-interview-handbook)
+[**The Holloway Guide to Equity Compensation**](https://www.holloway.com/g/equity-compensation)
 
 [**9 Terms You'll See In Your Startup Equity Offer—And What They Actually Mean**](https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean)
 
 [**Liquidation Preference: Your Equity Could Be Worth Millions—Or Nothing**](https://angel.co/blog/liquidation-preference-your-equity-could-be-worth-millions-or-nothing)
 
-[**The Holloway Guide to Equity Compensation**](https://www.holloway.com/g/equity-compensation)
+## Negotiating
 
-[**Things To Know About Engineering Levels**](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
+[**Salary Negotiation: Make More Money, Be More Valued**](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
-[**How to get promoted**](https://spakhm.substack.com/p/how-to-get-promoted)
+[**Ten Rules for Negotiating a Job Offer**](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
-[**The Guerrilla Guide to Interviewing (version 3.0)**](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+[**How Not to Bomb Your Offer Negotiation**](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 
 ---
 
@@ -82,6 +84,14 @@ Data and engineering oriented career advice.
 > The tenets of this technical elitism are:
 > 1) You believe there are higher and lower tiers to the practice of your craft, and
 > 2) You aspire to be — or at least admire others being — in the higher tier.
+
+[**Things To Know About Engineering Levels**](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
+
+> I would urge you not to make most, if any, career decisions based on levels or titles that are offered you.
+
+[**How to get promoted**](https://spakhm.substack.com/p/how-to-get-promoted)
+
+> Following the overt mechanisms of advancement is neither sufficient nor necessary.
 
 ---
 
