@@ -78,7 +78,7 @@ subtitle: Framing, building, and managing data platforms.
 
 [**I Will Fucking Dropkick You If You Use That Spreadsheet**](https://ludic.mataroa.blog/blog/i-will-fucking-dropkick-you-if-you-use-that-spreadsheet/)
 
-[**The ultimate guide to Google Sheets as a reliable data source**](https://towardsdatascience.com/google-sheet-data-warehouse-c22bb2cce4b0)
+[**The ultimate guide to Google Sheets as a reliable data source**](https://joshtemple.dev/posts/2019/05/the-ultimate-guide-to-google-sheets-as-a-reliable-data-source/)
 
 [**The DataOps Cookbook**](https://datakitchen.io/the-dataops-cookbook/)
 

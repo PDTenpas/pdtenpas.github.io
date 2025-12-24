@@ -114,7 +114,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 - A nice guide for breaking away from traditional, broken planning cycles.
 
-[**Prioritizing Data Science Work**](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45)
+[**Prioritizing Data Science Work**](https://medium.com/data-science/prioritizing-data-science-work-936b3765fd45)
 
 > Answering one question with data often leads to new questions, so fulfilling requests often creates additional work rather than lowering the amount of work left to do.
 
