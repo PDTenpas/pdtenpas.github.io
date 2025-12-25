@@ -99,10 +99,6 @@ Data and engineering oriented career advice.
 
 A few values and principles that can help drive your career.
 
-[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
-
-- Always start by understanding what your customer (or stakeholder or employer) actually wants. It's often not what they tell you and must be discovered.
-
 [**High Ownership, High Urgency**](https://blog.danielna.com/high-ownership-high-urgency/)
 
 > The drive is internal: if something could be better, why shouldn’t it be better? If something could be faster, why shouldn’t it be faster?
@@ -126,6 +122,10 @@ A few values and principles that can help drive your career.
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
 > Following these steps will inevitably result in an oversimplified document. Subtleties will be neglected. Caveats and corner cases will be omitted. What ifs will be left out. That's OK.
+
+[**Understanding the Job**](https://www.youtube.com/watch?v=sfGtw2C95Ms)
+
+- Always start by understanding what your customer (or stakeholder or employer) actually wants. It's often not what they tell you and must be discovered.
 
 [**Strong Opinions, Weakly Held — a framework for thinking**](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
 
