@@ -116,7 +116,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**Unlearning toxic behaviors in a code review culture**](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
-[**Google Engineering Practices Documentation**](https://google.github.io/eng-practices/)
+[**Google’s Code Review Guidelines**](https://google.github.io/eng-practices/)
 
 ## Prioritization
 
