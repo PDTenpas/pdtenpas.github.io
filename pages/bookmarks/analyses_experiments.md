@@ -41,10 +41,6 @@ Framing and approaches.
 
 [**From Data to Insights: Segmenting Airbnb’s Supply**](https://medium.com/airbnb-engineering/from-data-to-insights-segmenting-airbnbs-supply-c88aa2bb9399)
 
-[**Uncertainty + Visualization, Explained**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-67e7a73f031b)
-
-[**Uncertainty + Visualization, Explained (Part 2: Continuous Encodings)**](https://medium.com/multiple-views-visualization-research-explained/uncertainty-visualization-explained-part-2-continuous-encodings-967a7f7c38d0)
-
 ---
 
 # Experiments
