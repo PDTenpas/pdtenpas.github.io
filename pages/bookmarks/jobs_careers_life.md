@@ -117,7 +117,7 @@ A few values and principles that can help drive your career.
 
 [**How to Make Things Happen**](https://scottberkun.com/2012/how-to-make-things-happen/)
 
-> Some people can apply skills in the combinations necessary to move projects forward, and others cannot.
+> Some people can apply skills in the combinations necessary to move projects forward, and others cannot, even if they have similar skills.
 
 [**Oversimplify**](http://brohrer.github.io/oversimplify.html)
 
