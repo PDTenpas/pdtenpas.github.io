@@ -110,7 +110,7 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 [**How to review an analytics pull request**](https://blog.getdbt.com/how-to-review-an-analytics-pull-request/)
 
-[**The Art of Giving and Receiving Code Reviews (Gracefully)**](http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+[**The Art of Giving and Receiving Code Reviews (Gracefully)**](https://www.youtube.com/watch?v=XY6eA2_2hOg)
 
 [**How to Do Code Reviews Like a Human**](https://mtlynch.io/human-code-reviews-1/)
 
