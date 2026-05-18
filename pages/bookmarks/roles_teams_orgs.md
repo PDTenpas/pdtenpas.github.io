@@ -16,6 +16,10 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > You may not be end-to-end now. That’s okay—few people are. Nonetheless, consider its benefits and stretching closer towards it.
 
+[**Forward-deployed Job Titles**](https://www.a16z.news/p/forward-deployed-job-titles)
+
+> How titles can meme change into existence...
+
 [**What’s in a name?: The semantics of Science at Lyft**](https://eng.lyft.com/whats-in-a-name-ce42f419d16c)
 
 -  Lyft outlines the problems in data title ambiguity and proliferation.
@@ -132,6 +136,10 @@ subtitle: How data roles fit into teams and teams into orgs.
 
 > Answering one question with data often leads to new questions, so fulfilling requests often creates additional work rather than lowering the amount of work left to do.
 
+[**How I estimate work as a staff software engineer**](https://www.seangoedecke.com/how-i-estimate-work/)
+
+> I think software engineering estimation is generally misunderstood.
+
 [**The Tool that Will Help You Choose Better Product Ideas**](https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/)
 
 - I've found that small prioritization frameworks like this greatly improve the focus of teams.
@@ -157,6 +165,10 @@ subtitle: How data roles fit into teams and teams into orgs.
 [**Amp It Up!**](https://www.linkedin.com/pulse/amp-up-frank-slootman/)
 
 > There is room up in organizations to boost performance by amping up the pace and intensity.
+
+[**How to debug a team that isn’t working: the Waterline Model**](https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working)
+
+> I’ve come to believe that blaming people for problems that are actually structural is one of the biggest leadership traps there is.
 
 [**The Netflix Culture Memo**](https://about.netflix.com/en/news/sharing-our-latest-culture-memo)
 
